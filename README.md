@@ -4,7 +4,7 @@
 ## 100 Days Of Code
 
 | Log 1 (Days 1-100) | Log 2 (Days 101-200) | Log 3 (Days 201-300) |
-| --- | --- |
+| --- | --- | --- |
 | [100 Days Round 1](https://james-priest.github.io/100-days-of-code-log/) | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | this log |
 
 ## Challenge & Commitment
