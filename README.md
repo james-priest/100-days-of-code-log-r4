@@ -38,12 +38,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 
 **Link to Work:**
-
-
 ---
 
-## 100. Site Optimizations
-### Day 100: May 8, 2018 - Tuesday
+## 1. Create New Codelog
+### Day 1: May 9, 2018 - Wednesday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
@@ -65,4 +63,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 - Udacity's [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) (free 2 week course)
 
 ---
+
 -->
+---
+
+## 1. Created Round 3 Code Log
+### Day 1: May 9, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![new code log](assets/images/sm_code-log-1.jpg)](assets/images/full-size/code-log-1.png)
+
+**Progress:** Created a new GitHub repo for my Round 3 code log.
+
+This now uses a purple theme and has an updated nav which I've migrated over to my previous two logs.
+
+Other updates for today include:
+
+- Upgrade to Windows 10 Insider Build
+    - Now has tabbed console
+    - Better Linux Subsystem integration
+    - Built-in screen capture with Screen Sketch integration
+- Updated Jekyll dependencies on other logs
+- Practiced remote debugging of web pages on my Android phone
+
+**Links:** My GitHub repo [https://github.com/james-priest/100-days-of-code-log-r3](https://github.com/james-priest/100-days-of-code-log-r3)
+
+---
