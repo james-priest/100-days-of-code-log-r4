@@ -67,6 +67,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 2. Adapt Site for Mobile
+### Day 2: May 10, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![mobile1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_mobile1.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/mobile1.jpg)
+
+**Progress:** Completed the Home Town App for *Lesson 5: Optimizations* from the Udacity course: [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
+
+The assignment was to take an existing app designed for desktop and modify it to be completely responsive across multiple devices.
+
+This required:
+
+- Combining various responsive design patterns adapted to the content
+- Starting adaptation with a the smallest viewport
+- Using media queries & breakpoints at various sizes
+- Implementing minor breakpoints
+- Increase base font size & line height for readability on small devices
+- Font sizing across different viewports
+- Responsive tables for mobile (hidden columns, contained scrolling, block elements)
+- Images resolution based on device pixel density
+
+Read more: [Notes - Responsive Web Design Lesson 5.11 Wrap Up](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html#511-wrap-up)
+
+**Links:**
+- My Course Notes - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
+- CodePen - [The Brighton Times](https://codepen.io/james-priest/pen/ZovQQp) - Responsive design exercise
+- Udacity's [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) (free 2 week course)
+
+---
+
 ## 1. Created Round 3 Code Log
 ### Day 1: May 9, 2018 - Wednesday
 
