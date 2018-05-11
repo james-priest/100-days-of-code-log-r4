@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 3. Responsive Images Intro
+### Day 2: May 10, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![responsive images](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri6-4.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri6-4.jpg)
+
+**Progress:** Completed *Lesson 6: Up & Running* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson introduces the concepts of responsive image design. The main take-aways were:
+
+- Create highest quality images with fewest bytes possible
+- Design for mobile; Great products are created, never ported
+- Art direction is an art and not a science
+
+Read more: [Notes - Responsive Images Lesson 6](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) (free 2 week course)
+
+---
+
 ## 2. Adapt Site for Mobile
 ### Day 2: May 10, 2018 - Thursday
 
