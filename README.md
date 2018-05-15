@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 5. Use of Relative Sizing
+### Day 5: May 13, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Relative sizing 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-10.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-10.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+Lessons 7.2-7.5 dealt with
+
+- Saving images for a wide range of devices starting with lowest quality first
+- Page requests and response times related to revenue
+- Use of percentages with relative sizing
+- Proper use of relative sizing with `max-width: 100%` so an image doesn't expand beyond its natural width
+- Use of `calc()` function to properly size images by combining absolute and relative values. For example, combining a percentage width with a fixed margin
+
+Read more: [Notes - Responsive Images Lesson 7.2 - All About Bits & Pixels](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#72-all-about-bits-and-pixels)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 4. DevTools Image Analysis
 ### Day 4: May 12, 2018 - Saturday
 
@@ -74,7 +99,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 [![DevTools screenshot 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-5.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-5.jpg)
 
-**Progress:** Completed *Lesson 6: Up & Running* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+**Progress:** Started *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
 This lesson shows how to use Chrome DevTools to determine:
 
@@ -163,9 +188,9 @@ This now uses a purple theme and has an updated nav which I've migrated over to 
 Other updates for today include:
 
 - Upgrade to Windows 10 Insider Build
-    - Now has tabbed console
-    - Better Linux Subsystem integration
-    - Built-in screen capture with Screen Sketch integration
+  - Now has tabbed console
+  - Better Linux Subsystem integration
+  - Built-in screen capture with Screen Sketch integration
 - Updated Jekyll dependencies on other logs
 - Practiced remote debugging of web pages on my Android phone
 
