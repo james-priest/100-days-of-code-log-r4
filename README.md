@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 6. Orientation & Alignment
+### Day 6: May 14, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Landscape & Portrait](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-18.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+Lessons 7.6-7.8 covered
+
+- More use of `calc()` for alignment of images that includes padding & margin
+- Targeting both **portrait** & **landscape** orientation modes
+- Use of viewport units and measurements (vh, vw, vmin, & vmax)
+
+Read more: [Notes - Responsive Images Lesson - 7.6 Quiz: calc()](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#76-quiz-calc)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 5. Use of Relative Sizing
 ### Day 5: May 13, 2018 - Sunday
 
