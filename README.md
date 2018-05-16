@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 7. Raster/Vector, File Formats & Image Compression
+### Day 7: May 15, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-31.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-31.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+Lessons 7.9-7.15 covered
+
+- Difference between Raster(bitmaps) & Vector(paths) images
+- Working with file formats such as SVG, PNG, and JPEG
+- Importance of image compression & optimization
+- Introduction to Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=simpl.info%2Fcssfilters) for page analysis and optimization tips
+
+Read more: [Notes - Responsive Images Lesson - 7.9 Raster and Vector](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#79-raster-and-vector)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=simpl.info%2Fcssfilters)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 6. Orientation & Alignment
 ### Day 6: May 14, 2018 - Monday
 
