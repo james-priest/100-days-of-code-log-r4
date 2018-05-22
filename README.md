@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 9. Project Part 1 Solution
+### Day 9: May 17, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-44.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-44.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+Lesson 7.16 Project Solution covered
+
+- Ensuring images fit the viewport with `max-width: 100%`
+- Setting the article width to a reasonable `50em` (800px) width
+- Creating a set of images targeting a range of sizes
+
+Read more: [Notes - Responsive Images Lesson - 7.16 Project Solution](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#716-project-solution)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 8. Responsive Images Blog Project Part 1
 ### Day 8: May 16, 2018 - Wednesday
 
@@ -76,7 +99,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
-Lessons 7.16 covered
+Lesson 7.16 covered
 
 - Requirements necessary to complete part 1 of the Responsive Images Blog project
 - Introduction to task runners and build processes with Grunt
