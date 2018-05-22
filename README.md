@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 10. My Build Environment
+### Day 10: May 20, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-40.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-40.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+Created a Build Environment for my Responsive Images Blog Project. This includes:
+
+- Enabled Windows Subsystem for Linux (WSL) & installed Ubuntu terminal on Windows 10
+- Installed many linux packages on Ubuntu (Node.js, npm, GraphicsMagick, ImageMagick)
+- Updated Visual Studio Code to use Ubuntu as terminal
+- Installed Grunt (grunt-cli) and a host of grunt packages
+
+I also spent the last 5 days learning how to use Grunt and properly configure a Gruntfile. I learned how to
+- concat & minify a js application
+- automate image compression
+- update html & css as part of a build operation
+- build a distribution from source
+
+Read more: [Notes - Responsive Images Course - My Build Environment](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#-my-build-environment)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 9. Project Part 1 Solution
 ### Day 9: May 17, 2018 - Thursday
 
