@@ -3,7 +3,7 @@
 
 ## 100 Days Of Code
 
-| Log 1 (Days 1-100) | Log 2 (Days 101-200) | Log 3 (Days 201-300) |
+| Log 1 | Log 2 | Log 3 |
 | --- | --- | --- |
 | [100 Days Round 1](https://james-priest.github.io/100-days-of-code-log/) | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | this log |
 
@@ -76,30 +76,47 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
-The course material was great at exposing me to new concepts of how to responsively serve images based on target viewport size or device pixel density.
+The course material was great at exposing me to new concepts of how to responsively serve images based on viewport size or device pixel density.
 
-It only scratched the surface of how to fully implement these responsive image techniques though. I spent a good deal of time learning from additional online resources to accomplish the following:
+But it only scratched the surface on how to fully implement these responsive image techniques. I devoted some time to additional online resources to accomplish the following:
 
-1. Understand how to fully implement **responsive image technologies**
-2. Implement **resolution switching** with `srcset` and `sizes` attributes of `<img>` tag
-    - **Resolution switching** provides the same image at a different size or resolution based on screen pixel density and/or viewport constraints
-3. Understand **art direction** through use of `<picture>` & `<source>` elements
-    - **Art direction** involves serving a different image based on space allocation
-4. Develop a sensible breakpoint system and use it to inform the compression & dimension settings for image processing
-5. Implement Grunt (a task runner) to automate the process of creating multi-sized images
-6. Configure Grunt to update the HTML based on the set of images generated for each `<img>` element
+1. Understand how to fully implement **responsive image technologies**.
+2. Implement **resolution switching** with `srcset` and `sizes` attributes of `<img>` tag.
+    - **Resolution switching** serves the same image at a different size or resolution based on screen pixel density and/or viewport constraints.
+3. Understand **art direction** through use of `<picture>` & `<source>` elements.
+    - **Art direction** involves serving a different image based on space allocation.
+4. Develop a sensible breakpoint system and use it to come up with ideal compression & dimension settings for image processing.
+5. Implement Grunt (a task runner) to automate the process of creating multi-sized images.
+6. Configure Grunt to update the HTML based on the set of images generated for each `<img>` element.
 
-The full set of curated Resource Links are in my course notes. This includes links for
+Those links are in my notes but I've included them below as well
 
-- Using Responsive Image Techniques (what they are and how they work)
-- Responsive breakpoints (how to make an informed decision)
-- Grunt (what it is and how to set it up)
-- Image processing with Grunt (How-to articles)
-- Essential Grunt packages (what's required to set up this automation)
-
-Get those links here: [Notes - Responsive Images Course - Resources & Links](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#-resources--links)
+Read more: [Notes - Responsive Images Course - Resources & Links](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#-resources--links)
 
 **Links:**
+- Using Responsive Image Techniques (what they are and how they work)
+  - [MDN Responsive Images - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  - [Native Responsive Images - Dev.Opera](https://dev.opera.com/articles/native-responsive-images/)
+  - [The anatomy of responsive images - Jake Archibald](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
+- Responsive Breakpoints (how to make an informed decision)
+  - [The 100% correct way to do CSS breakpoints - freeCodeCamp Medium](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)<br>
+    I used the breakpoints defined in this article to determine target sizes for groups of responsive images rather than using those breakpoints for responsive layout. I base my responsive layout breakpoints on the content and how that content flows.<br>
+    The target sizes I settled on were (400px, 600px, 900px, and 1600px)
+- Grunt (what it is and how to set it up)
+  - [Grunt Homepage](https://gruntjs.com/)
+  - [Getting Started](https://gruntjs.com/getting-started)
+  - [Configuring Tasks](https://gruntjs.com/configuring-tasks)
+  - [Plugins](https://gruntjs.com/plugins)
+- Image Optimization with Grunt (How-to articles)
+  - [Tools for image optimization - Addy Osmani](https://addyosmani.com/blog/image-optimization-tools/)
+  - [Generate Multi-resolution images for srcset with Grunt - Addy Osmani](https://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/)
+- Essential Grunt packages (what's required to set up this automation)
+  - [grunt-responsive-images](https://www.npmjs.com/package/grunt-responsive-images) - npm
+  - [grunt-responsive-images](https://github.com/andismith/grunt-responsive-images) - GitHub
+  - [grunt-responsive-images-extender](https://www.npmjs.com/package/grunt-responsive-images-extender) - npm
+  - [grunt-responsive-images-extender (test html)](https://github.com/stephanmax/grunt-responsive-images-extender/blob/master/test/fixtures/testing.html) - GitHub
+  - [grunt-responsive-images-extender (Gruntfile.js)](https://github.com/stephanmax/grunt-responsive-images-extender/blob/master/Gruntfile.js) - GitHub
+
 - My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
 - Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
 
@@ -358,5 +375,3 @@ Other updates for today include:
 - Practiced remote debugging of web pages on my Android phone
 
 **Links:** My GitHub repo [https://github.com/james-priest/100-days-of-code-log-r3](https://github.com/james-priest/100-days-of-code-log-r3)
-
----
