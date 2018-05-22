@@ -67,6 +67,44 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 11. Grunt Automation for Responsive Images
+### Day 11: May 21, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-42.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-42.jpg)
+
+**Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+The course material was great at exposing me to new concepts of how to responsively serve images based on target viewport size or device pixel density.
+
+It only scratched the surface of how to fully implement these responsive image techniques though. I spent a good deal of time learning from additional online resources to accomplish the following:
+
+1. Understand how to fully implement **responsive image technologies**
+2. Implement **resolution switching** with `srcset` and `sizes` attributes of `<img>` tag
+    - **Resolution switching** provides the same image at a different size or resolution based on screen pixel density and/or viewport constraints
+3. Understand **art direction** through use of `<picture>` & `<source>` elements
+    - **Art direction** involves serving a different image based on space allocation
+4. Develop a sensible breakpoint system and use it to inform the compression & dimension settings for image processing
+5. Implement Grunt (a task runner) to automate the process of creating multi-sized images
+6. Configure Grunt to update the HTML based on the set of images generated for each `<img>` element
+
+The full set of curated Resource Links are in my course notes. This includes links for
+
+- Using Responsive Image Techniques (what they are and how they work)
+- Responsive breakpoints (how to make an informed decision)
+- Grunt (what it is and how to set it up)
+- Image processing with Grunt (How-to articles)
+- Essential Grunt packages (what's required to set up this automation)
+
+Get those links here: [Notes - Responsive Images Course - Resources & Links](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#-resources--links)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 10. My Build Environment
 ### Day 10: May 20, 2018 - Sunday
 
