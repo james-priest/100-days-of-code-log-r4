@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 12. CSS Background Images
+### Day 12: May 22, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![responsive images example](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-9.jpg)
+
+**Progress:** Started *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson talked about the following:
+
+- Latency as a barrier to performance (need to reduce number of resource requests)
+- Proper use of CSS text and fonts (use separate text over images)
+- Using CSS effects in place of images (when possible, opt for CSS effects; gradients, shadows, etc.)
+- Use of CSS background images for responsiveness (various techniques covered)
+
+Read more: [Notes - Responsive Images Course - Lesson 8 Images with Markup](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#lesson-8-images-with-markup)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 11. Grunt Automation for Responsive Images
 ### Day 11: May 21, 2018 - Monday
 
