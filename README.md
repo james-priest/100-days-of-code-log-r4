@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 13. Unicode Character Sets
+### Day 13: May 22, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-19.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-19.jpg)
+
+**Progress:** Continued *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson talked about:
+
+- Character symbols
+- Unicode tables
+- Use of symbols & CSS effects as an alternative to images
+
+Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Symbol Characters](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#86-symbol-characters)
+
+**Links:**
+- Unicode Tables - [Character sets](http://unicode-table.com/en/sets/)
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 12. CSS Background Images
 ### Day 12: May 22, 2018 - Tuesday
 
