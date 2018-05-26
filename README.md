@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 14. Icon Fonts & Inlining SVG/data URI Images
+### Day 14: May 23, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-27.jpg)
+
+**Progress:** Continued *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson talked about:
+
+- Icon Fonts
+- Inlining SVG & data URI
+- When to use raster vs. vector
+- When to use inlining vs. external images
+
+Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Icon Fonts](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#88-icon-fonts)
+
+**Links:**
+- List of various icon fonts - [WeLoveIconFonts.com](http://weloveiconfonts.com/)
+- Dynamically adjust CSS stylings on icons - [Icon fonts on CSS-Tricks](https://css-tricks.com/examples/IconFont/)
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 13. Unicode Character Sets
 ### Day 13: May 22, 2018 - Tuesday
 
