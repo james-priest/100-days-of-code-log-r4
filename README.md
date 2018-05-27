@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 16. Pixel Denisty Descriptors
+### Day 16: May 26, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-2.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-2.jpg)
+
+**Progress:** Started *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson discussed the limitations of using media queries to determine which image size to download. Instead the lesson discusses the following: 
+
+- Use of `srcset` attribute
+- specifying pixel density descriptors for each listed image
+- Using DevTools to test and verify
+
+Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#9-full-responsiveness)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 15. Project Part 2 Solution
 ### Day 15: May 25, 2018 - Friday
 
@@ -86,7 +109,7 @@ This lesson gave the requirements to complete part 2 of this responsive blog pro
 Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Project Part 2](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#814-project-part-2)
 
 **Links:**
-- Project Part 2 - [Responsive Blog](https://rawgit.com/james-priest/udacity-nanodegree-mws/master/exercises/ri-8-14-project-part-2/build/index.html)
+- Course Prject - [Responsive Blog Project Part 2](https://rawgit.com/james-priest/udacity-nanodegree-mws/master/exercises/ri-8-14-project-part-2/build/index.html)
 - My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
 - Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
 
