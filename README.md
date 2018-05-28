@@ -67,7 +67,49 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 16. Pixel Denisty Descriptors
+## 17. Using sizes with srcset
+### Day 17: May 27, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-9.jpg)
+
+**Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson covered the combination of `srcset` and `sizes` attributes.
+
+- **srcset** - tells the browser which images and their widths it has available to choose from.
+- **sizes** - tells the browser what the display size will be on the page given the size of the viewport
+
+Here's an example:
+
+```html
+<img src="small.jpg"
+  srcset="small.jpg 500w,
+          medium.jpg 1000w,
+          large.jpg 1500w"
+  sizes="(max-width: 250px) 100vw,
+         50vw"
+  alt="Wallaby">
+```
+
+This says we have three images sized at 500px, 1000px, & 1500px, respectively, and that the display size will be 100% the viewport width for viewport widths under 250px and will be 50% the viewport width for viewport widths over 250px.
+
+The following items were covered
+
+- Use of `srcset` with `sizes` attribute
+- Necessity to still set image size through proper media queries
+- How Chrome determines what the optimal sized image resource is to download
+
+Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Sizes Attribute](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#93-sizes-attribute)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
+## 16. Pixel Density Descriptors
 ### Day 16: May 26, 2018 - Saturday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
@@ -76,7 +118,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Started *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
-This lesson discussed the limitations of using media queries to determine which image size to download. Instead the lesson discusses the following: 
+This lesson discussed the limitations of using media queries to determine which image size to download. Instead the lesson discusses the following:
 
 - Use of `srcset` attribute
 - specifying pixel density descriptors for each listed image
@@ -109,7 +151,7 @@ This lesson gave the requirements to complete part 2 of this responsive blog pro
 Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Project Part 2](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#814-project-part-2)
 
 **Links:**
-- Course Prject - [Responsive Blog Project Part 2](https://rawgit.com/james-priest/udacity-nanodegree-mws/master/exercises/ri-8-14-project-part-2/build/index.html)
+- Course Project - [Responsive Blog Project Part 2](https://rawgit.com/james-priest/udacity-nanodegree-mws/master/exercises/ri-8-14-project-part-2/build/index.html)
 - My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
 - Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
 
@@ -311,7 +353,7 @@ Lesson 7.16 covered
 - Requirements necessary to complete part 1 of the Responsive Images Blog project
 - Introduction to task runners and build processes with Grunt
 - CLI based image compression tools such as ImageMagick and GraphicsMagick
-- GUI based tools such as ImageOptim, Trimage, & ImageAlpha 
+- GUI based tools such as ImageOptim, Trimage, & ImageAlpha
 
 Read more: [Notes - Responsive Images Lesson - 7.16 Project Part 1](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#716-project-part-1)
 
