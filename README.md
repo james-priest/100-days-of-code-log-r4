@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 20. Project Part 3 Solution
+### Day 20: May 30, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![9-29](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-29.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-29.jpg)
+
+**Progress:** Completed *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson completed the entire Responsive Images course. As the last project we had to completed the Responsive Images Blog with the following:
+
+- Proper use of `<picture>` and `<source>` elements
+- use of `srcset` to specify various pixel densities for a set of images
+- use of `media` attributes to specify media queries for a particular image 
+
+Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Project Part 3](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#910-project-part-3)
+
+**Links:**
+- My Project on CodePen - [Responsive Images Blog](https://codepen.io/james-priest/pen/ZRYJEO)
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 19. Accessibility
 ### Day 19: May 29, 2018 - Tuesday
 
