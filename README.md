@@ -67,6 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 18. The Picture Element
+### Day 18: May 28, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![9-21](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-21.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-21.jpg)
+[![9-18](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-18.jpg)
+
+**Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson covered the `<picture>` element and how it's used in **art direction**.
+
+- **art direction** is the process of using different images for different viewport sizes
+
+Here's an example of what the code looks like for the kitty above:
+
+```html
+<picture>
+    <source media="(min-width: 650px)" srcset="kitten-large.png">
+    <source media="(min-width: 465px)" srcset="kitten-medium.png">
+    <img src="kitten-small.png" alt="Cute kitten">
+</picture>
+```
+
+The browser chooses the first matching media query.
+
+This markup says:
+- Use 'kitten-large.png' when the viewport is 650px or larger
+- Otherwise, use 'kitten-medium.jpg' if the viewport is 465px or larger.
+- Otherwise fallback to 'kitten-small.png' if none of the conditions are met or if the browser doesn't support the `<picture>` element.
+
+Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - The Picture Element](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#96-the-picture-element)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 17. Using sizes with srcset
 ### Day 17: May 27, 2018 - Sunday
 
