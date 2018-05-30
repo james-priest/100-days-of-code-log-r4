@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 19. Accessibility
+### Day 19: May 29, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![9-27](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-27.jpg)
+
+**Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
+
+This lesson covered basic accessibility and the importance of the image `alt` attribute for devices such as screen readers.
+
+Other things discussed in the lesson were:
+
+- Text-only browsers such as Lynx
+- ChromeVox Chrome browser extension for texting
+
+[![9-23](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-23.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-23.jpg)
+
+Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#98-accessibility)
+
+**Links:**
+- My Course Notes - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+- Udacity's [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882) (free 2 week course)
+
+---
+
 ## 18. The Picture Element
 ### Day 18: May 28, 2018 - Monday
 
