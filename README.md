@@ -67,12 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 21. Accessibility Overview
+### Day 21: May 31, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_wa10-1.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/wa10-1.png)
+
+**Progress:** Completed *Lesson 10: Accessibility Overview* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson provided an overview of:
+
+- What Accessibility is
+- Diversity of accessibility areas
+- Web Content Accessibility Guidelines 2.0 (WCAG)
+- WebAIM Checklist for WCAG 2.0
+
+Read more: [Notes - Web Accessibility - Lesson 10 - Accessibility Overview](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#910-project-part-3)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 20. Project Part 3 Solution
 ### Day 20: May 30, 2018 - Wednesday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![9-29](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-29.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-29.jpg)
+[![9-29](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-29.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-29.png)
 
 **Progress:** Completed *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -80,7 +104,7 @@ This lesson completed the entire Responsive Images course. As the last project w
 
 - Proper use of `<picture>` and `<source>` elements
 - use of `srcset` to specify various pixel densities for a set of images
-- use of `media` attributes to specify media queries for a particular image 
+- use of `media` attributes to specify media queries for a particular image
 
 Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Project Part 3](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#910-project-part-3)
 
@@ -96,7 +120,7 @@ Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Project
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![9-27](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-27.jpg)
+[![9-27](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-27.png)
 
 **Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -107,7 +131,7 @@ Other things discussed in the lesson were:
 - Text-only browsers such as Lynx
 - ChromeVox Chrome browser extension for texting
 
-[![9-23](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-23.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-23.jpg)
+[![9-23](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-23.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-23.png)
 
 Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#98-accessibility)
 
@@ -122,8 +146,8 @@ Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Accessi
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![9-21](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-21.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-21.jpg)
-[![9-18](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-18.jpg)
+[![9-21](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-21.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-21.png)
+[![9-18](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-18.png)
 
 **Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -161,7 +185,7 @@ Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - The Pic
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-9.jpg)
+[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-9.png)
 
 **Progress:** Continued *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -203,7 +227,7 @@ Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness - Sizes A
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-2.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-2.jpg)
+[![9-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri9-2.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri9-2.png)
 
 **Progress:** Started *Lesson 9: Full Responsiveness* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -226,7 +250,7 @@ Read more: [Notes - Responsive Images - Lesson 9 - Full Responsiveness](https://
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![project part 2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-32.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-32.jpg)
+[![project part 2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-32.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-32.png)
 
 **Progress:** Finished *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -251,7 +275,7 @@ Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Project P
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-27.jpg)
+[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-27.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-27.png)
 
 **Progress:** Continued *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -277,7 +301,7 @@ Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Icon Font
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-19.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-19.jpg)
+[![character symbols](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-19.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-19.png)
 
 **Progress:** Continued *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -301,7 +325,7 @@ Read more: [Notes - Responsive Images - Lesson 8 - Images with Markup: Symbol Ch
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![responsive images example](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-9.jpg)
+[![responsive images example](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri8-9.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri8-9.png)
 
 **Progress:** Started *Lesson 8: Images with Markup* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -325,7 +349,7 @@ Read more: [Notes - Responsive Images Course - Lesson 8 Images with Markup](http
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-42.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-42.jpg)
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-42.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-42.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -380,7 +404,7 @@ Read more: [Notes - Responsive Images Course - Resources & Links](https://james-
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-40.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-40.jpg)
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-40.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-40.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -410,7 +434,7 @@ Read more: [Notes - Responsive Images Course - My Build Environment](https://jam
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-44.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-44.jpg)
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-44.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-44.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -433,7 +457,7 @@ Read more: [Notes - Responsive Images Lesson - 7.16 Project Solution](https://ja
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-35.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-35.jpg)
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-35.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-35.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -457,7 +481,7 @@ Read more: [Notes - Responsive Images Lesson - 7.16 Project Part 1](https://jame
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-31.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-31.jpg)
+[![Chrome Logos](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-31.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-31.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -482,7 +506,7 @@ Read more: [Notes - Responsive Images Lesson - 7.9 Raster and Vector](https://ja
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Landscape & Portrait](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-18.jpg)
+[![Landscape & Portrait](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-18.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-18.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -505,7 +529,7 @@ Read more: [Notes - Responsive Images Lesson - 7.6 Quiz: calc()](https://james-p
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Relative sizing 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-10.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-10.jpg)
+[![Relative sizing 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-10.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-10.png)
 
 **Progress:** Continued *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -530,7 +554,7 @@ Read more: [Notes - Responsive Images Lesson 7.2 - All About Bits & Pixels](http
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![DevTools screenshot 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-5.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-5.jpg)
+[![DevTools screenshot 1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-5.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-5.png)
 
 **Progress:** Started *Lesson 7: Units, Formats, Environments* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -541,9 +565,9 @@ This lesson shows how to use Chrome DevTools to determine:
 - image size (both in-browser and natural)
 - inferred relative compression rate
 
-[![DevTools screenshot 2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-2.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-2.jpg)
+[![DevTools screenshot 2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-2.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-2.png)
 
-[![DevTools screenshot](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-4.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-4.jpg)
+[![DevTools screenshot](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri7-4.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri7-4.png)
 
 Read more: [Notes - Responsive Images Lesson 7.1](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html#71-quiz-sizing-intro)
 
@@ -558,7 +582,7 @@ Read more: [Notes - Responsive Images Lesson 7.1](https://james-priest.github.io
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![responsive images](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri6-4.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri6-4.jpg)
+[![responsive images](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_ri6-4.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/ri6-4.png)
 
 **Progress:** Completed *Lesson 6: Up & Running* from the Udacity course: [Responsive Images](https://www.udacity.com/course/responsive-images--ud882).
 
@@ -581,7 +605,7 @@ Read more: [Notes - Responsive Images Lesson 6](https://james-priest.github.io/u
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![mobile1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_mobile1.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/mobile1.jpg)
+[![mobile1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/sm_mobile1.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/full-size/mobile1.png)
 
 **Progress:** Completed the Home Town App for *Lesson 5: Optimizations* from the Udacity course: [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
 
