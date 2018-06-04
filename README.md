@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 23. Focus & Control
+### Day 23: June 3, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16.jpg)
+
+**Progress:** Started *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson provided an overview of:
+
+- What focus is
+- How to move & control focus
+- Tab order & arrow keys
+
+Read more: [Notes - Web Accessibility - Lesson 11 - Focus](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#lesson-11-focus)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 22. Restaurant App - Stage 1
 ### Day 22: June 2, 2018 - Saturday
 
@@ -82,7 +105,7 @@ This project puts into practice the last 4 weeks worth of classes. Including the
 - Web Accessibility
 - Service Workers
 
-The project requires that we take what we've learned and apply it to a non-responsive and statically layed out web application. This is due in one week so I started nowto ensure I have enough time to complete 
+The project requires that we take what we've learned and apply it to a non-responsive and statically layed out web application. This is due in one week so I started now to ensure I have enough time to complete.
 
 Read more: [Notes - Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
 
