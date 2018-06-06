@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 26. Modal Dialogs & Keyboard Traps
+### Day 26: June 6, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78.jpg)
+
+**Progress:** Completed *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+The final part of this lesson discussed:
+
+- Avoiding Keyboard Traps
+- Creating modal dialogs
+- Creating keyboard traps when necessary for modal dialogs
+
+Read more: [Notes - Web Accessibility - Lesson 11.9 - Modal Dialogs & Keyboard Traps](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#1117-keyboard-traps--modals)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 25. Managing Focus with Skip Links
 ### Day 25: June 5, 2018 - Tuesday
 
