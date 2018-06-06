@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 24. Tabindex & DOM Order
+### Day 24: June 4, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38.jpg)
+
+**Progress:** Continued *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson discussed:
+
+- DOM order with regards to focus
+- Using Tabindex
+- Deciding what elements should be focusable
+
+Read more: [Notes - Web Accessibility - Lesson 11 - Focus](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#114-dom-order-matters)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 23. Focus & Control
 ### Day 23: June 3, 2018 - Sunday
 
