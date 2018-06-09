@@ -67,12 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 27. Restaurant App -Stage 1 Responsive Layout
+### Day 27: June 7, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Restaurant App Layout 1](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/11-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/11.jpg)
+
+[![Restaurant App Layout 2](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/12-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/12.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+This part of the project dealt with creating a responsive layout for the app so that it displayed nicely across multiple viewports and device display sizes.
+
+This is done through:
+
+- Use of media queries
+- DevTools
+- Device Toolbar
+
+Read more: [Notes - Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 26. Modal Dialogs & Keyboard Traps
 ### Day 26: June 6, 2018 - Wednesday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78.jpg)
+[![10-78](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-78.jpg)
 
 **Progress:** Completed *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
@@ -95,7 +123,7 @@ Read more: [Notes - Web Accessibility - Lesson 11.9 - Modal Dialogs & Keyboard T
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-59-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-59.jpg)
+[![10-59](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-59-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-59.jpg)
 
 **Progress:** Continued *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
@@ -118,7 +146,7 @@ Read more: [Notes - Web Accessibility - Lesson 11.9 - Managing Focus](https://ja
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38.jpg)
+[![10-38](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-38.jpg)
 
 **Progress:** Continued *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
@@ -141,7 +169,7 @@ Read more: [Notes - Web Accessibility - Lesson 11.4 - DOM Order Matters](https:/
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![10-1](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16.jpg)
+[![10-16](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa10-16.jpg)
 
 **Progress:** Started *Lesson 11: Focus* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
@@ -164,7 +192,7 @@ Read more: [Notes - Web Accessibility - Lesson 11 - Focus](https://james-priest.
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![10-1](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/5-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/5.jpg)
+[![Restaraunt App](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/5-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/5.jpg)
 
 **Progress:** Started *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
 
