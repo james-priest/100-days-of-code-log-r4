@@ -67,7 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 27. Restaurant App -Stage 1 Responsive Layout
+## 28. Restaurant App - Stage 1 Responsive Images
+### Day 28: June 8, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Restaurant App with Responsive Images](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/13-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/13.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+The next part of the project consisted of creating responsive images for the site. The steps were as follows
+
+- Determine what the various sizes of each image will be across different viewports
+- Settle on a number of image compression sizes and qualities
+- Create some grunt tasks to perform the compression
+- Update the code to reflect this using the image attributes `srcset` and `sizes`
+
+Read more: [Notes - Restaurant Review App - Stage 1 - Responsive Images](https://james-priest.github.io/mws-restaurant-stage-1/#4-responsive-images)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
+## 27. Restaurant App - Stage 1 Responsive Layout
 ### Day 27: June 7, 2018 - Thursday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
@@ -86,7 +111,7 @@ This is done through:
 - DevTools
 - Device Toolbar
 
-Read more: [Notes - Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+Read more: [Notes - Restaurant Review App - Stage 1 - Responsive Design](https://james-priest.github.io/mws-restaurant-stage-1/#3-responsive-design)
 
 **Links:**
 - My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
