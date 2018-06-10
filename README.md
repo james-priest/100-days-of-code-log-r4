@@ -67,6 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 30. Restaurant App - Stage 1 Service Worker
+### Day 30: June 10, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![New look for Restaurant App Homepage](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/22-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/22.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+The next section of the project consisted of creating the registration code for a Service Worker.
+
+```js
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register('sw.js')
+  .then(registration => {
+    console.log(`Registration successful, scope is ${registration.scope}`);
+  }).catch(error => {
+    console.log(`Service worker registration failed, error: ${error}`);
+  });
+}
+```
+
+This was then included on each page.
+
+```html
+  <script src="js/dbhelper.js"></script>
+  <script src="js/register_sw.js"></script> <!-- new -->
+  <script src="js/main.js"></script>
+```
+
+Read more: [Notes - Restaurant Review App - Stage 1 - Service Worker](https://james-priest.github.io/mws-restaurant-stage-1/#6-service-worker)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 29. Restaurant App - Stage 1 Accessibility
 ### Day 29: June 9, 2018 - Saturday
 
