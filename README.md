@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 29. Restaurant App - Stage 1 Accessibility
+### Day 29: June 9, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![New look for Restaurant App Homepage](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/20-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/20.jpg)
+
+[![New look for Restaurant App detail page](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/21-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/21.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+The part of the project consisted of ensuring Accessibility requirements were met.  This includes:
+
+- Making sure each element in keyboard navigatable
+- Using proper colors and contrast
+- Use of alt and title tags for images
+- Use of proper semantics & ARIA tags
+
+Read more: [Notes - Restaurant Review App - Stage 1 - Accessibility](https://james-priest.github.io/mws-restaurant-stage-1/#5-accessibility)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 28. Restaurant App - Stage 1 Responsive Images
 ### Day 28: June 8, 2018 - Friday
 
