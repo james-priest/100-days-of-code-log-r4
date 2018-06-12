@@ -67,6 +67,70 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 31. Restaurant App - Stage 1 Cached Assets
+### Day 31: June 11, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![App delivering cached assets](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/23-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/23.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+This section of the code caches assets on service worker install and then serves these cached assets as requests are made.
+
+```js
+const staticCacheName = 'restaurant-static-001';
+
+self.addEventListener('install', event => {
+  event.waitUntil(
+    caches.open(staticCacheName)
+      .then(cache => {
+        return cache.addAll([
+          '/index.html',
+          '/css/styles.css',
+          '/js/dbhelper.js',
+          '/js/register_sw.js',
+          '/js/main.js',
+          '/js/restaurant_info.js',
+          '/data/restaurants.json',
+          '/restaurant.html?id=1',
+          '/restaurant.html?id=2',
+          '/restaurant.html?id=3',
+        ]).catch(error => {
+          console.log('Caches open failed: ' + error);
+        });
+      })
+  );
+});
+```
+
+The cached assets were served if available otherwise a fetch operation is performed.
+
+```js
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request).then(response => {
+      return response || fetch(event.request);
+    }).catch(error => {
+      return new Response('Not connected to the internet', {
+        status: 404,
+        statusText: "Not connected to the internet"
+      });
+      console.log(error, 'no cache entry for:', event.request.url);
+    })
+  );
+});
+```
+
+Read more: [Notes - Restaurant Review App - Stage 1 - Cache assets on install](https://james-priest.github.io/mws-restaurant-stage-1/#62-cache-assets-on-install)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 30. Restaurant App - Stage 1 Service Worker
 ### Day 30: June 10, 2018 - Sunday
 
