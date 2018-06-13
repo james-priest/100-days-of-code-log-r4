@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 32. Restaurant App - Stage 1 Offline Images
+### Day 32: June 12, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![App showing offline image](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/24-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/24.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+Today I focused on getting some final touches completed for this project. Between today and tomorrow I should have everything ready for submission.
+
+Today included the following.
+
+- I added a generic offline image to be used as a placeholder for images that aren't available to the app if it happens to go offline before the requested image is cached
+- Added a favicon to the app
+- Added accessibility labels to the filter controls (so that screen readers can pick these up)
+
+Read more: [Notes - Restaurant Review App - Stage 1 - Generic offline image](https://james-priest.github.io/mws-restaurant-stage-1/#64-generic-offline-image)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 31. Restaurant App - Stage 1 Cached Assets
 ### Day 31: June 11, 2018 - Monday
 
