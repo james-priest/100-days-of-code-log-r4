@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 33. Restaurant App - Stage 1 Completed!
+### Day 33: June 13, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Chrome audits screen](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/28-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/28.jpg)
+
+**Progress:** Completed *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+Today I performed final touch ups to the app including:
+
+- Increased touch target sizes for better a11y
+- Use Service Worker to explicitly cache assets on fetch events
+- Updated grunt tasks to achieve better compression of responsive images
+- Ran Chrome audits (Performance, Accessibility, & Best Practices)
+
+Once this was done I submitted everything for review.
+
+Read more: [Notes - Restaurant Review App - Stage 1 - 8. Audit Restaurant App](https://james-priest.github.io/mws-restaurant-stage-1/#8-audit-restaurant-app)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 32. Restaurant App - Stage 1 Offline Images
 ### Day 32: June 12, 2018 - Tuesday
 
