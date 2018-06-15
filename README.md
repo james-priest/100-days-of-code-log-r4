@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 34. Sematics & Affordance
+### Day 34: June 14, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![12-4](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-4-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-4.jpg)
+
+**Progress:** Started *Lesson 12: Sematics* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson got into
+
+- The basics of semantics
+- Assistive technology
+- Affordances
+
+Read more: [Notes - Web Accessibility - Lesson 12.1 - Semantics Introduction](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#lesson-12-semantics)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 33. Restaurant App - Stage 1 Completed!
 ### Day 33: June 13, 2018 - Wednesday
 
