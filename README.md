@@ -67,14 +67,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 34. Sematics & Affordance
+## 35. The Accessibility Tree
+### Day 35: June 15, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![12-11](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-11-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-11.jpg)
+
+**Progress:** Completed *Lesson 12: Semantics* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- Semantics of an element (Value, Name, State, and Role)
+- Screen readers & how they work
+- The Accessibility Tree
+- Native HTML semantics
+- Labels, alt text, & titles
+
+Read more: [Notes - Web Accessibility - Lesson 12.7 - Role, Name, & Value](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#127-role-name-value)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
+## 34. Semantics & Affordance
 ### Day 34: June 14, 2018 - Thursday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
 [![12-4](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-4-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa12-4.jpg)
 
-**Progress:** Started *Lesson 12: Sematics* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+**Progress:** Started *Lesson 12: Semantics* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
 This lesson got into
 
