@@ -79,7 +79,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 This lesson covered
 
 - Setting and using the screen reader Web Page Summary option
-- How the summary works for each page by anouncing the number of:
+- How the summary works for each page by announcing the number of:
   - links
   - headings
   - form controls
