@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 36. Screen Reader Navigation
+### Day 36: June 16, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa13-5-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa13-5.jpg)
+
+**Progress:** Started *Lesson 13: Navigation* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- Setting and using the screen reader Web Page Summary option
+- How the summary works for each page by anouncing the number of:
+  - links
+  - headings
+  - form controls
+  - tables
+  - landmarks
+- Screen reader navigation through use of **headings**
+- How to best organize headings
+- Screen reader navigation through use of **links**, **form controls**, & **landmarks**
+
+Read more: [Notes - Web Accessibility - Lesson 13 Navigation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#lesson-13-navigation)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 35. The Accessibility Tree
 ### Day 35: June 15, 2018 - Friday
 
