@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 37. Landmarks & Link Text
+### Day 37: June 17, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa13-33-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa13-33.jpg)
+
+**Progress:** Finished *Lesson 13: Navigation* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- Meaningful link text
+- Examples of 3 different link anti-patterns & their fixes
+- Landmarks including main, header, footer, nav, article, section, & aside
+
+Read more: [Notes - Web Accessibility - Lesson 13.8 Navigation: Link Text](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#138-link-text)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 36. Screen Reader Navigation
 ### Day 36: June 16, 2018 - Saturday
 
