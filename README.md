@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 38. ARIA Roles
+### Day 38: June 18, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-18-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-18.jpg)
+
+**Progress:** Started *Lesson 14: ARIA* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- What ARIA is & how it modifies the accessibility tree
+- How ARIA modifies semantic info of an element on a page
+- How it doesn't modify other key behaviors such as
+  - appearance
+  - element behavior
+  - focusability
+  - keyboard event handling
+- Roles & how these are a shorthand for a particular UI pattern
+- List of various ARIA roles available
+
+Read more: [Notes - Web Accessibility - Lesson 14. ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#lesson-14-aria)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 37. Landmarks & Link Text
 ### Day 37: June 17, 2018 - Sunday
 
