@@ -67,12 +67,12 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 39. ARIA Labels & Relationships
+## 39. ARIA Relationships & Labels
 ### Day 39: June 19, 2018 - Tuesday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-35-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-35.jpg)
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-48-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-48.jpg)
 
 **Progress:** Continued *Lesson 14: ARIA* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
 
