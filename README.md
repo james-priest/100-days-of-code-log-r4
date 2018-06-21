@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 40. ARIA Hidden & ARIA Live
+### Day 40: June 20, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-95-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa14-95.jpg)
+
+**Progress:** Continued *Lesson 14: ARIA* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- aria-hidden
+- aria-live
+- aria-atomic
+- aria-relevant
+- aria-busy
+- role="dialog"
+- Also Aria recap and summary
+
+Read more: [Notes - Web Accessibility - Lesson 14.7 ARIA Hidden](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#1413-hide-in-plain-sight)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 39. ARIA Relationships & Labels
 ### Day 39: June 19, 2018 - Tuesday
 
@@ -80,7 +107,7 @@ This lesson covered
 
 - The various kinds of ARIA labels
   - aria-label
-  - aria-labeledby
+  - aria-labelledby
   - aria-describedby
 - The default semantics & landmarks of HTML elements
   - header, nav, main, article, section, aside, footer
