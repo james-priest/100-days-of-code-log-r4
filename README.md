@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 41. Styling Accessibility
+### Day 41: June 21, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa15-12-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa15-12.jpg)
+
+**Progress:** Started *Lesson 15: Styling* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- styling for focus & aria states
+- focus rings
+- alternative focus methods
+
+Read more: [Notes - Web Accessibility - Lesson 15 Focus](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#lesson-15-style)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 40. ARIA Hidden & ARIA Live
 ### Day 40: June 20, 2018 - Wednesday
 
