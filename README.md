@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 42. ARIA Color & Contrast
+### Day 42: June 22, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa15-45-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wa15-45.jpg)
+
+**Progress:** Finished *Lesson 15: Styling* from the Udacity course: [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891).
+
+This lesson covered
+
+- Styling aria states
+- Responsive design
+- Mobile device screen reader
+- Color & contrast settings
+- High contrast mode
+
+Read more: [Notes - Web Accessibility - Lesson 15.5 Styling with ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#155-styling-with-aria)
+
+**Links:**
+- My Course Notes - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#web-accessibility)
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 41. Styling Accessibility
 ### Day 41: June 21, 2018 - Thursday
 
