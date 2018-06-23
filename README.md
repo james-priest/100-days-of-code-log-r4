@@ -67,6 +67,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 43. Restaurant App - Stage 1 Updated ARIA
+### Day 43: June 23, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![ARIA Additions to UI](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/29-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/29.jpg)
+
+**Progress:** Completed *Restaurant Reviews App - Stage 1* project from the Udacity Nanodegree course: [Web Accessibility](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891).
+
+I resubmitted my Stage 1 project for review with the following changes:
+
+- Removed unnecessary comments from js source
+- Added the following ARIA roles to relevant sections
+  - banner
+  - main
+  - application
+  - contentinfo
+  - navigation(breadcrumb)
+- Added aria-labels to various regions and sections
+
+Once this was done I resubmitted everything for review.
+
+Read more: [Notes - Restaurant Review App - Stage 1 - 9. Review Round 1](https://james-priest.github.io/mws-restaurant-stage-1/#9-review-round-1)
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 1](https://james-priest.github.io/mws-restaurant-stage-1/)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- Udacity's [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024https://www.udacity.com/course/web-accessibility--ud891) (6 month course)
+
+---
+
 ## 42. ARIA Color & Contrast
 ### Day 42: June 22, 2018 - Friday
 
