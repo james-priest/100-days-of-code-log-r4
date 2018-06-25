@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 44. Mobile Web Specialist Nanodegree - Stage 2
+### Day 44: June 24, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![code log 44](assets/images/code-log-44-small.jpg)](assets/images/code-log-44.jpg)
+
+**Progress:** Started Udacity Mobile Web Specialist Stage 2 prep.
+
+This consisted of
+
+- Downloading Stage 2 project requirements
+- Creating a new folder for browser bookmarks related to Stage 2 resources
+- Updated my Mobile Web Specialist landing page to complete Stage 1 and begin Stage 2
+- Created Grunt responsive image automation tasks for this log
+
+Read more: [Notes - Web Accessibility - Lesson 15.5 Styling with ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#155-styling-with-aria)
+
+**Links:**
+- Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
+
+---
+
 ## 43. Restaurant App - Stage 1 Updated ARIA
 ### Day 43: June 23, 2018 - Saturday
 
@@ -1261,7 +1284,8 @@ Read more: [Notes - Responsive Web Design Lesson 5.11 Wrap Up](https://james-pri
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![new code log](assets/images/sm_code-log-1.jpg)](assets/images/full-size/code-log-1.png)
+<!-- [![new code log](assets/images/sm_code-log-1.jpg)](assets/images/full-size/code-log-1.png) -->
+[![new code log](assets/images/code-log-1-small.jpg)](assets/images/code-log-1.jpg)
 
 **Progress:** Created a new GitHub repo for my Round 3 code log.
 
