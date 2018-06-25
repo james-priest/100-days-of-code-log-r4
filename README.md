@@ -83,8 +83,6 @@ This consisted of
 - Updated my Mobile Web Specialist landing page to complete Stage 1 and begin Stage 2
 - Created Grunt responsive image automation tasks for this log
 
-Read more: [Notes - Web Accessibility - Lesson 15.5 Styling with ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#155-styling-with-aria)
-
 **Links:**
 - Udacity's [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) (free 2 week course)
 
