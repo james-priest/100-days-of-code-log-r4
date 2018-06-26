@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 45. Ajax with XHR
+### Day 45: June 25, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2.jpg)
+
+**Progress:** Started *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+
+This lesson covered the basics of
+
+- Client server communications
+- Requests, Responses, & Callbacks
+- Asynchronous operations
+- Available APIs (Application Program Interfaces) on the web
+
+Read more: [Notes - Web Accessibility - Lesson 15.5 Styling with ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#155-styling-with-aria)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
+- Programmable Web’s [giant database of APIs](http://www.programmableweb.com/apis/directory)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 44. Mobile Web Specialist Nanodegree - Stage 2
 ### Day 44: June 24, 2018 - Sunday
 
