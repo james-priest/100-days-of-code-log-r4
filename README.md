@@ -67,12 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 46. XHR API Request
+### Day 46: June 26, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![1-17](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-17.jpg)
+
+**Progress:** Conitinue *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+
+This lesson covered:
+
+- The XHR object
+- XHR `.open()` method
+- XHR `.send()` method
+
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 1.6 The XHR Object](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#16-the-xhr-object)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 45. Ajax with XHR
 ### Day 45: June 25, 2018 - Monday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![13-5](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2.jpg)
+[![1-2](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-2.jpg)
 
 **Progress:** Started *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
 
@@ -83,7 +106,7 @@ This lesson covered the basics of
 - Asynchronous operations
 - Available APIs (Application Program Interfaces) on the web
 
-Read more: [Notes - Web Accessibility - Lesson 15.5 Styling with ARIA](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html#155-styling-with-aria)
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 1.1 Course Intro](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
 
 **Links:**
 - My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
