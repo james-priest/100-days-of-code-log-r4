@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 47. XHR Process Results
+### Day 47: June 27, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![1-17](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-24-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-24.jpg)
+
+**Progress:** Continued *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+
+This lesson covered:
+
+- XHR `.setRequestHeader()`
+- Inspecting XHR results in Chrome using DevTools
+- Using string literals and higher order functions to process XHR results
+
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 1.11 Set Request Header](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#111-set-request-header)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 46. XHR API Request
 ### Day 46: June 26, 2018 - Tuesday
 
@@ -74,7 +97,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 [![1-17](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-17.jpg)
 
-**Progress:** Conitinue *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+**Progress:** Continued *Lesson 1: Ajax with XHR* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
 
 This lesson covered:
 
