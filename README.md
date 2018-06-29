@@ -67,6 +67,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 48. jQuery $.ajax()
+### Day 48: June 28, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+```js
+$.ajax({
+  url: `http://api.nytimes.com/svc/search/v2/articlesearch.json?
+    q=${searchedForText}&api-key=<api-key-here>`
+}).done(function(data) {
+  // do some stuff with the data...
+  let htmlContent = '';
+
+  if (data.response && data.response.docs && data.response.docs.length > 1) {
+    htmlContent = '<ul>' + data.response.docs.map(article =>
+      `<li class="article">
+        <h2><a href="${article.web_url}">${article.headline.main}</a></h2>
+        <p>${article.snippet}</p>
+      </li>`
+    ).join('') + '</ul>';
+  } else {
+    htmlContent = '<div class="error-no-articles">No articles available</div>';
+  }
+
+  responseContainer.insertAdjacentHTML('beforeend', htmlContent);
+}).fail(function(e) {
+  handleError(e, 'data')
+});
+
+function handleError(e, errType) {
+  console.log(`uh-oh.😞 A ${errType} error:`, e);
+}
+```
+
+**Progress:** Started *Lesson 2: Ajax with jQuery* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+
+This lesson covered:
+
+- jQuery `$.ajax()` method
+- Handling returned data
+- Error handling
+
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 2.1 jQuery & Ajax](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#21-jquery--ajax)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 47. XHR Process Results
 ### Day 47: June 27, 2018 - Wednesday
 
