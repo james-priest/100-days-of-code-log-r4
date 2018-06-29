@@ -1,5 +1,6 @@
 theme: jekyll-theme-leap-day
 title: 100 Days of Code - Round 3
 description: by James Priest
+google_analytics: UA-121627234-1
 
 # exclude: ['src/', 'gruntfile.js', 'package-lock.json', 'package.json']
