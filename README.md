@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 49. jQuery $.ajax() Call Stack
+### Day 49: June 29, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![$.ajax() Call Stack](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/fixed/ud109-l2-jquery-xhr-call-stack.gif)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/fixed/ud109-l2-jquery-xhr-call-stack.gif)
+
+**Progress:** Finished *Lesson 2: Ajax with jQuery* from the Udacity course: [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109).
+
+This lesson covered:
+
+- jQuery `$.ajax()` call stack
+- `$.ajax()` as a wrapper to the XHR object
+- Other helper async methods that act as a wrapper to `$.ajax()`
+  - `.get()`
+  - `.getJSON()`
+  - `.getScript()`
+  - `.post()`
+  - `.load()`
+
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 2.6 Peek inside $.ajax()](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#26-peek-inside-ajax)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#asynchronous-javascript-requests)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 48. jQuery $.ajax()
 ### Day 48: June 28, 2018 - Thursday
 
