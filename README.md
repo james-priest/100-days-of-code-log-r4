@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 50. JavaScript Promises
+### Day 50: June 30, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-13-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-13.jpg)
+
+**Progress:** Started *Lesson 1: Creating Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+This lesson covered:
+
+- Sync vs Async
+- Callbacks vs Thens
+- Key concepts
+  - Wrapping
+  - Thening
+  - Catching
+  - Chaining
+- Promise states
+  - Fulfilled (Resolved)
+  - Rejected
+  - Pending
+  - Settled
+- Promises Timeline
+
+Read more: [Notes - JavaScript Promises - Lesson 1 Creating Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#lesson-1-creating-promises)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
 ## 49. jQuery $.ajax() Call Stack
 ### Day 49: June 29, 2018 - Friday
 
