@@ -67,12 +67,43 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 51.  Promise Syntax
+### Day 51: July 1, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-23-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-23.jpg)
+
+**Progress:** Started *Lesson 1: Creating Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+Key concepts:
+- Promise is a constructor.
+- A promise is a try-catch wrapper around code that will finish at an unpredictable time.
+- You pass a function to the promise with two arguments: `resolve` and `reject`.
+- `resolve` and `reject` are the two callbacks used to specify when a promise has either **fulfilled** (because something worked) or **rejected** (because something went wrong).
+
+This lesson covered:
+
+- Modifying a function to return a Promise.
+- Wrapping async code with the Promise that is to be returned from that function.
+- Calling `resolve()` on successful completion of async code within the Promise wrapper.
+- Invoking the function and chaining `.then()` to the end in order to execute a callback upon successful fulfillment.
+
+Read more: [Notes - JavaScript Promises - Lesson 1.7 Promise Syntax](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#17-promise-syntax)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
 ## 50. JavaScript Promises
 ### Day 50: June 30, 2018 - Saturday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-13-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/ajax1-13.jpg)
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-13-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-13.jpg)
 
 **Progress:** Started *Lesson 1: Creating Promises* from
 - Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
