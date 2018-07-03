@@ -67,7 +67,52 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 51.  Promise Syntax
+## 52. Promise Chaining
+### Day 52: July 2, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-33-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-33.jpg)
+
+**Progress:** Continued *Lesson 1: Creating Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+```js
+function ready() {
+  return new Promise(resolve => {
+    function checkState() {
+      if(document.readyState !== 'loading') {
+        resolve();
+      }
+    }
+    document.addEventListener('readystatechange', checkState);
+    checkState();
+  });
+};
+
+ready().then(wrapperResolved);
+```
+
+Key concepts:
+- Chaining allows code to be executed upon fulfillment of promise
+- `.then()` performs an action after a promised result
+
+This lesson covered:
+
+- Chaining onto a promise using `.then()`
+- Replicating jQuery's `.ready()` method
+- Three states of `document.ready`: 'loading', 'interactive', 'complete'
+  - DOM is ready to use once 'loading' is completed
+
+Read more: [Notes - JavaScript Promises - Lesson 1.9 Wrap & Chain](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#19-quiz-wrap--chain)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
+## 51. Promise Syntax
 ### Day 51: July 1, 2018 - Sunday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
