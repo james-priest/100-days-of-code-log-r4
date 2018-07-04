@@ -67,6 +67,59 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 53. Chaining XHR/Fetch API
+### Day 53: July 3, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-50-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom1-50.jpg)
+
+**Progress:** Completed *Lesson 1: Creating Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+These lessons consisted of exercises and quizzes to gain practice with
+- Promise Wrapping
+- Thening
+- Catching
+- Chaining
+
+Here's a short code example using the Fetch API.
+
+```js
+function get(url) {
+  return fetch(url);
+}
+
+function getJSON(url) {
+  return get(url).then(function(response) {
+    if (!response.ok) {
+      throw Error(response.statusText ? response.statusText : 'unknown network error');
+    }
+    return response.json();
+  });
+}
+
+getJSON('../data/earth-like-results.json')
+  .then(function (response) {
+    addSearchHeader(response.query);
+    console.log(response);
+    return response.results[0];
+  }).then(function(url) {
+    console.log(url);
+  }).catch(function (error) {
+    addSearchHeader('unknown');
+    console.log(error);
+  });
+```
+
+Read more: [Notes - JavaScript Promises - Lesson 1.11 Wrap XHR](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#111-quiz-wrap-xhr)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
 ## 52. Promise Chaining
 ### Day 52: July 2, 2018 - Monday
 
