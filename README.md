@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 55. Series vs Parallel Chains
+### Day 55: July 5, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom2-17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom2-17.jpg)
+
+**Progress:** Continued *Lesson 2: Chaining Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+These lessons covered
+- Chaining in series - one after another
+- Chaining in parallel - requests sent simultaneously
+- Using array methods to programmatically chain requests
+- Execution order vs Response order
+
+
+Read more: [Notes - JavaScript Promises - Lesson 2.4 Series vs Parallel Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#24-quiz-series-vs-parallel-requests)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
 ## 54. Promise Error Handling
 ### Day 54: July 4, 2018 - Wednesday
 
