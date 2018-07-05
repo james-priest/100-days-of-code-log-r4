@@ -109,13 +109,15 @@ code {
 p>code, li>code, blockquote code, h1>code, h2>code, h3>code, h4>code, strong>code {
     // color: #c7254e;
     color: #ff4675;
-    background-color: #f9f2f4;
-    border-radius: 4px;
+    // background-color: #f9f2f4;
+    background-color: #fff6f9;
+    border-radius: 3px;
     margin: 0 2px;
     padding: 2px;
     font-weight: 400;
     font-size: .785714em; /* 11px/14px */
     text-shadow: none;
+    border: 1px solid #ccc;
 }
 blockquote { font-style: normal;}
 footer {
