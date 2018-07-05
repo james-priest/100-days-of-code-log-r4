@@ -67,6 +67,63 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 54. Promise Error Handling
+### Day 54: July 4, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom2-8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/prom2-8.jpg)
+
+**Progress:** Started *Lesson 2: Chaining Promises* from
+- Udacity course: [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) by Google.
+
+These lessons covered
+- Promise's reject rules
+- `.catch` vs `reject` function
+  - `.catch(function(error) { })`
+  - `get('example.json').then(undefined, rejectFunc)`
+  - `.catch` is preferred cause it's easier to read and write
+- differences between `.catch` and `reject` function
+- CAN'T call both `resolve` & `reject` functions
+  - Only one or the other gets called
+  - ```js
+    get('example.json').then(resolveFunc, rejectFunc)
+    ```
+- CAN call both `.then` and `.catch` blocks
+  - `.then` can execute and have an error which triggers `.catch` to execute
+  - ```js
+    get('example.json')
+    .then(resolveFunc)
+    .catch(rejectFunc);
+    ```
+
+Here's a short code example with thening and multiple `.catch` blocks.
+
+```js
+getJSON('../data/earth-like-results.json')
+  .then(function (response) {
+    addSearchHeader(response.query);
+    console.log(response);
+    return getJSON(response.results[0]);  // return result for chaining
+  }).catch(function () {                  // catch err in search request
+    throw Error('Search Request Error');
+  }).then(function (planetData) {         // receive result in planetData
+    createPlanetThumb(planetData);
+    console.log(planetData);
+  }).catch(function (error) {             // catch any other error
+    addSearchHeader('unknown');
+    console.log(error);
+  });
+```
+
+Read more: [Notes - JavaScript Promises - Lesson 2: Chaining Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html#lesson-2-chaining-promises)
+
+**Links:**
+- My Course Notes - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+- Udacity's [JavaScript Promises by Google](https://www.udacity.com/course/javascript-promises--ud898) (free 3 weeks)
+
+---
+
 ## 53. Chaining XHR/Fetch API
 ### Day 53: July 3, 2018 - Tuesday
 
