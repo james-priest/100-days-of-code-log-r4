@@ -67,6 +67,49 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 57. Ajax with Fetch API
+### Day 57: July 7, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Promises Course Map](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/fixed/ud109-l3-fetch-request.gif)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/fixed/ud109-l3-fetch-request.gif)
+
+**Progress:** Completed *Lesson 3: Ajax with Fetch* from
+- Udacity course: [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) by Google, AT&T, & GitHub.
+
+These lessons covered
+- Creating a fetch requests
+- The Response object
+- Error handling
+- Using fetch with Promises
+
+Here's a sample fetch/promises chain from the course
+
+```js
+fetch(`https://api.unsplash.com/search/photos?page=1&query=${queryText}`, {
+  headers: {
+    Authorization: 'Client-ID abc123'
+  }
+})
+.then(response => response.json())
+.then(addImage)
+.catch(err => requestError(err, 'image'));
+
+fetch(`http://api.nytimes.com/svc/search/v2/articlesearch.json?
+    q=${queryText}&api-key=abc123`)
+.then(response => response.json())
+.then(addArticles)
+.catch(err => requestError(err, 'articles'));
+```
+
+Read more: [Notes - Asynchronous JavaScript Requests - Lesson 3 Ajax with Fetch](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html#lesson-3-ajax-with-fetch)
+
+**Links:**
+- My Course Notes - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
+- Udacity's [Asynchronous JavaScript Requests by Google, AT&T, & GitHub](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) (free 3 weeks)
+
+---
+
 ## 56. Promise.all/Parallel Reqs
 ### Day 56: July 6, 2018 - Friday
 
