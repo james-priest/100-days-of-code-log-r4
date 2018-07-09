@@ -3,4 +3,13 @@ title: 100 Days of Code - Round 3
 description: by James Priest
 google_analytics: UA-121627234-1
 
-# exclude: ['src/', 'gruntfile.js', 'package-lock.json', 'package.json']
+exclude: [
+  Gemfile,
+  Gemfile.lock,
+  node_modules/,
+  gruntfile.js,
+  package-lock.json,
+  package.json,
+  src/
+]
+# url: http://localhost
