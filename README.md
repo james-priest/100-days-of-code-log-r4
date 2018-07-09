@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 58. Code Editor Config
+### Day 58: July 8, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Basic Web Tooling](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-1-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-1.jpg)
+
+**Progress:** Completed *Lesson 9: Tools & Automation* and *Lesson 10: Editor Config* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+These lessons covered:
+- Editor vs IDE
+- Learning & understanding how to use your editor
+- Keyboard shortcuts
+- Installing extensions & packages
+
+Read more: [Notes - Web Tooling and Automation - Lesson 9.1 Course Intro](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#lesson-9-tools--automation)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 57. Ajax with Fetch API
 ### Day 57: July 7, 2018 - Saturday
 
