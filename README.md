@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 59. Build Tools: Grunt & Gulp
+### Day 59: July 9, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Basic Web Tooling](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-11-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-11.jpg)
+
+**Progress:** Started *Lesson 11: Build Automation* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Elements of a good build tool
+- Grunt & Gulp
+  - These are are Node.js based task runners
+  - Different from Webpack and Parcel which are bundlers
+  - Different from NPM & Bower which are package managers
+- Installing Gulp
+- Defining a Gulp task
+
+Read more: [Notes - Web Tooling and Automation - Lesson 11 Build Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#lesson-11-build-automation)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 58. Code Editor Config
 ### Day 58: July 8, 2018 - Sunday
 
