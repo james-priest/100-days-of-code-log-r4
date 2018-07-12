@@ -67,6 +67,42 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 60. Gulp Sass & Autoprefixer
+### Day 60: July 10, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Sass and Autoprefixer](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-17.jpg)
+
+**Progress:** Continued *Lesson 11: Build Automation* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Gulp streams
+- Using `gulp-sass` and `gulp-autoprefixer`
+- Configuring the gulp CSS processing task
+
+Here's part of the 'styles' task configured to transpile `.scss` files to standard CSS
+
+```js
+var gulp = require('gulp');
+var sass = require('gulp-sass');
+
+gulp.task('styles', function() {
+  gulp.src('sass/**/*.scss')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./css'));
+});
+```
+
+Read more: [Notes - Web Tooling and Automation - Lesson 11.8 Sass & Autoprefixer](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#118-sass--autoprefixer)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 59. Build Tools: Grunt & Gulp
 ### Day 59: July 9, 2018 - Monday
 
