@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 61. Browser Sync & Gulp
+### Day 61: July 13, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Sass and Autoprefixer](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-19-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-19.jpg)
+
+**Progress:** Completed *Lesson 12: Browser Sync* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Ways to automate repetitive tasks
+- Live Editing
+- Use of Browser Sync
+
+Here's the minimum required for Browser Sync in Gulp. See the notes for links and more info.
+
+```js
+var browserSync = require('browser-sync').create();
+
+browserSync.init({
+  server: "./"
+});
+browserSync.stream();
+```
+
+Read more: [Notes - Web Tooling and Automation - Lesson 12 Browser Sync](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#lesson-12-browser-sync)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 60. Gulp Sass & Autoprefixer
 ### Day 60: July 10, 2018 - Tuesday
 
@@ -82,7 +116,7 @@ This lessons covered:
 - Using `gulp-sass` and `gulp-autoprefixer`
 - Configuring the gulp CSS processing task
 
-Here's part of the 'styles' task configured to transpile `.scss` files to standard CSS
+Here's part of the 'styles' task configured to transpile `.scss` files to standard CSS.
 
 ```js
 var gulp = require('gulp');
