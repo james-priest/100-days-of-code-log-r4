@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 62. ESLint & Gulp
+### Day 62: July 14, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Sass and Autoprefixer](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-28-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-28.jpg)
+
+**Progress:** Started *Lesson 13: How to Prevent Disasters* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Installing ESLint
+- Configuring ESLint
+- Linting as part of a build process
+- Configuring ESLint in Gulp
+
+Read more: [Notes - Web Tooling and Automation - Lesson 13 How to Prevent Disasters](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#lesson-13-lint--test)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 61. Browser Sync & Gulp
 ### Day 61: July 13, 2018 - Friday
 
