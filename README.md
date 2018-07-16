@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 63. Gulp Unit Testing
+### Day 63: July 15, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PhantomJS](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-33-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-33.jpg)
+
+**Progress:** Finished *Lesson 13: How to Prevent Disasters* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Unit testing in Gulp
+- Building Jasmine Unit Tests
+- Using PhantomJS (a headless WebKit browser) for automating unit tests
+- Hooking it all up with Gulp
+
+Read more: [Notes - Web Tooling and Automation - Lesson 13.7 Unit Testing in Gulp](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#137-unit-testing-in-gulp)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 62. ESLint & Gulp
 ### Day 62: July 14, 2018 - Saturday
 
