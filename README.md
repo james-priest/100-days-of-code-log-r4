@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 64. Gulp Concat & Minify
+### Day 64: July 16, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PhantomJS](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-35-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-35.jpg)
+
+**Progress:** Started *Lesson 14: Optimizations* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Development vs Production builds
+- Creating Dev & Prod tasks
+- Concatination & Minification
+
+Read more: [Notes - Web Tooling and Automation - Lesson 14 Optimizations](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#lesson-14-optimizations)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 63. Gulp Unit Testing
 ### Day 63: July 15, 2018 - Sunday
 
