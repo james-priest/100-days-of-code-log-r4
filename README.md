@@ -67,6 +67,28 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 65. Gulp Concat JS
+### Day 65: July 17, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PhantomJS](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-44-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-44.jpg)
+
+**Progress:** Continued *Lesson 14: Optimizations* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+This lessons covered:
+- Concatination of JS Files
+- Copy to `dist/` directory for production build
+
+Read more: [Notes - Web Tooling and Automation - Lesson 14.6 JS Concatenation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#146-js-concatenation)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 64. Gulp Concat & Minify
 ### Day 64: July 16, 2018 - Monday
 
