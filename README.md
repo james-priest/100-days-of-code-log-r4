@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 66. Babel, Source Maps & Gulp
+### Day 66: July 18, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PhantomJS](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-46-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/tools1-46.jpg)
+
+**Progress:** Completed *Lesson 14: Optimizations* & *Lesson  15: Scaffolding* from
+- Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
+
+These lessons covered:
+- JavaScript minification
+- Configuring & using Babel with Gulp
+- Using JavaScript Source Maps
+- Basic Image compression with Gulp
+
+Read more: [Notes - Web Tooling and Automation - Lesson 14.8 Minification](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#148-minification)
+
+**Links:**
+- My Course Notes - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+- Udacity's [Web Tooling and Automation by Google](https://www.udacity.com/course/web-tooling-automation--ud892) (free 3 weeks)
+
+---
+
 ## 65. Gulp Concat JS
 ### Day 65: July 17, 2018 - Tuesday
 
@@ -77,8 +101,8 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 **Progress:** Continued *Lesson 14: Optimizations* from
 - Udacity course: [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892) by Google.
 
-This lessons covered:
-- Concatination of JS Files
+This lesson covered:
+- Concatenation of JS Files
 - Copy to `dist/` directory for production build
 
 Read more: [Notes - Web Tooling and Automation - Lesson 14.6 JS Concatenation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html#146-js-concatenation)
