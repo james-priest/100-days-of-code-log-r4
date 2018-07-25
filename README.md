@@ -67,6 +67,26 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 67. jQuery Scroller
+### Day 67: July 25, 2018 - Wednesday
+
+**Project:** Code Log Improvements
+
+[![CodePen Scroll](assets/images/code-log-67-small.jpg)](assets/images/code-log-67.jpg)
+
+**Progress:** This was slow going and required a lot of back and forth testing.
+
+The scroll code requires each section to be wrapped so that height can be calculated in order to properly set the `active` class. Unfortunately, the code sets and removes the class dozens of times for each scroll event. This needs to be fixed.
+
+It also dynamically adds and removes the `active` class on each nav item between the one you are on and the destination menu item so that each menu item in between also highlights during smooth scroll.  This is fine for small nav menus but gets clunky with large menus.
+
+In the end I wasn't able to use it for this log but I'll try some other options as time permits.
+
+**Links:**
+- CodePen - [Jump menu with active class and smooth scroll](https://codepen.io/james-priest/pen/KBayQq?editors=1010)
+
+---
+
 ## 66. Babel, Source Maps & Gulp
 ### Day 66: July 18, 2018 - Wednesday
 
