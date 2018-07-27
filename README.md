@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 68. Restaurant App - Stage 2 Requirements
+### Day 68: July 26, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Fetch](assets/images/code-log-68-small.jpg)](assets/images/code-log-68.jpg)
+
+**Progress:** Started *Restaurant Reviews App - Stage 2* project.
+
+Today I began work on stage 2 of my Restaurant App project. This requires that we do the following:
+
+- Pull the data through Ajax (Fetch) from a live data source (node server)
+- Cache the data using IndexedDB
+- Create a build system using Grunt, Gulp, Yeoman, or Webpack
+- Ensure it passes Lighthouse performance benchmarks
+
+Once these requirements are met I can submitted everything for review. Successful submission of stages 1, 2, and 3 are required to complete the nanodegree program.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2)
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 67. jQuery Scroller
 ### Day 67: July 25, 2018 - Wednesday
 
