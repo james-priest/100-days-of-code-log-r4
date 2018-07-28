@@ -67,6 +67,51 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 69. Restaurant App - Stage 2 Fetch API
+### Day 69: July 26, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today was about replacing the old XHR code with Fetch API and Promise based error handling.
+
+**Old XHR code**
+
+```js
+let xhr = new XMLHttpRequest();
+xhr.open('GET', DBHelper.DATABASE_URL);
+xhr.onload = () => {
+  if (xhr.status === 200) { // Got a success response from server!
+    const json = JSON.parse(xhr.responseText);
+    const restaurants = json.restaurants;
+    callback(null, restaurants);
+  } else { // Oops!. Got an error from server.
+    const error = (`Request failed. Returned status of ${xhr.status}`);
+    callback(error, null);
+  }
+};
+xhr.send();
+```
+
+**New fetch code**
+
+```js
+fetch(DBHelper.DATABASE_URL)
+  .then(response => response.json())
+  .then(restaurants => callback(null, restaurants))
+  .catch(err => callback(err, null));
+```
+
+Additional changes included updates to the supporting DBHelper routines for proper responsive image handling.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 68. Restaurant App - Stage 2 Requirements
 ### Day 68: July 26, 2018 - Thursday
 
@@ -86,8 +131,8 @@ Today I began work on stage 2 of my Restaurant App project. This requires that w
 Once these requirements are met I can submitted everything for review. Successful submission of stages 1, 2, and 3 are required to complete the nanodegree program.
 
 **Links:**
-- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1)
-- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
 
 ---
