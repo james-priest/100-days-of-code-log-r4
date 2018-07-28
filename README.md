@@ -68,7 +68,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 ---
 
 ## 69. Restaurant App - Stage 2 Fetch API
-### Day 69: July 26, 2018 - Thursday
+### Day 69: July 27, 2018 - Friday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
