@@ -67,6 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 70. Restaurant App - Stage 2 Gulp Prep
+### Day 70: July 28, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Spend the day looking into the best way to put together a Gulp Build Environment & Workflow.
+
+This consisted of:
+
+- Investigating various pre-built solutions
+  - Yeoman's [generator-gulp-webapp](https://github.com/yeoman/generator-webapp)
+  - Google's [Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+- Looked into rolling my own
+- Researched various individual Gulp plugins
+  - gulp-responsive-images
+  - browserify
+  - gulp-bro
+  - browser-sync
+  - gulp-sass
+  - gulp-autoprefix
+  - gulp-babel
+  - gulp-uglify
+  - gulp-useref
+  - gulp-htmlmin
+  - and many more...
+
+Decided to roll my own in order to get granular control over the build process.
+
+The next step is to copy all source files into an `app/` directory and then have everything output to a  `dest/` folder.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 69. Restaurant App - Stage 2 Fetch API
 ### Day 69: July 27, 2018 - Friday
 
