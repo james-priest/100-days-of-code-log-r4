@@ -67,6 +67,26 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 71. Restaurant App - Stage 2 New App Structure
+### Day 71: July 29, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Code Editor](assets/images/code-log-71-small.jpg)](assets/images/code-log-71.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today I updated the structure of the client app by placing all source code files in an `app/` folder and then updating the gruntfile to output to a `dist/` folder.
+
+This will provide a clean segmentation between our working source and the final compressed and optimized site.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 70. Restaurant App - Stage 2 Gulp Prep
 ### Day 70: July 28, 2018 - Saturday
 
