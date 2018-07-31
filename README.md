@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 72. Restaurant App - Stage 2 Fix Grunt Tasks
+### Day 72: July 30, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Code Editor](assets/images/code-log-72-small.jpg)](assets/images/code-log-72.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today was about getting my existing Grunt tasks to work with my new (proper) build process folder structure. Added the following tasks.
+
+- `clean` - cleans the `dist/` folder
+- `copy` - copies all source code folders & files that don't need pre-processing to `dist/`
+- `string-replace` - copies the Google Maps API key to the HTML files
+- `responsive_images` - creates each image at various pixel densities to adjust for various device pixel ratios and viewport sizes
+
+I created a separate Google Maps API key file that does not get copied GitHub. I placed the file name in `.gitignore` and added a Grunt task to copy the key to the HTML files when the project is built.
+
+Now when I push my project to GitHub my API key will not get published.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 71. Restaurant App - Stage 2 New App Structure
 ### Day 71: July 29, 2018 - Sunday
 
@@ -79,6 +106,12 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 Today I updated the structure of the client app by placing all source code files in an `app/` folder and then updating the gruntfile to output to a `dist/` folder.
 
 This will provide a clean segmentation between our working source and the final compressed and optimized site.
+
+Next steps are to migrate from Grunt to Gulp which will allow for better code based configuration and the create an additional set of build tasks to do the following:
+
+- Handle the new directory structure
+- Provide better linting & error trapping
+- Allow
 
 **Links:**
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
