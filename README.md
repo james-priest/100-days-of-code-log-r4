@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 73. Restaurant App - Stage 2 Gulpfile Config
+### Day 73: July 31, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Code Editor](assets/images/code-log-73-small.jpg)](assets/images/code-log-73.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today I started down the rabbit hole that is Gulpfile.js. Gulp uses a code-based build process as opposed to Grunt's config based approach.
+
+So far I have the following tasks working.
+
+- `clean` - cleans the `dist/` & `tmp/` directories
+- `html` - copies html
+- `css` - copies css
+- `js` - copies js
+- Basic BrowserSync
+
+What I need to get working in each of these tasks.
+
+- `html` - processes html (remove comments, remove whitespace, etc. )
+- `css` - processes css (autoprefixer, sass)
+- `js` - processes js (bundle, browserify, transpile)
+
+Will continue tomorrow.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 72. Restaurant App - Stage 2 Fix Grunt Tasks
 ### Day 72: July 30, 2018 - Monday
 
