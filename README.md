@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 74. Restaurant App - Stage 2 Transpile & Bundle
+### Day 74: August 1, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Performance Benchmarks](assets/images/code-log-74-small.jpg)](assets/images/code-log-74.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today was spent figuring out how to Transpile & Bundle dependency scripts into a single JavaScript file.
+
+This means I was able to use Babel to target the latest two versions of each major browser to ensure the JavaScript would run properly.
+
+I also added the following
+
+- Basic BrowserSync for live reloading
+- Linting
+- Bundling
+- Transpiling
+- Minification
+
+This increased my benchmark scores for Performance & Progressive Web App.
+
+[![Code Editor](assets/images/code-log-74a-small.jpg)](assets/images/code-log-74a.jpg)
+
+Will continue tomorrow.
+
+**Links:**
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 73. Restaurant App - Stage 2 Gulpfile Config
 ### Day 73: July 31, 2018 - Tuesday
 
