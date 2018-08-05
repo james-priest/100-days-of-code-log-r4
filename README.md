@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 75. Restaurant App - Stage 2 Code Notes
+### Day 75: August 4, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Code Notes](assets/images/code-log-75a-small.jpg)](assets/images/code-log-75a.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+The last three days was spent creating a code log for Stage 2 of my Restaurant App project.
+
+[![Code Notes](assets/images/code-log-75-small.jpg)](assets/images/code-log-75.jpg)
+
+So far I have the following sections.
+
+1. Project Prep - Fork & Clone dev server; install dependencies;
+2. Update Ajax to use Fetch API
+3. Update folder structure to accommodate a build process
+
+These notes will detail the steps I take to satisfy my project requirements. I'll also include screenshots and code samples where necessary.
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 74. Restaurant App - Stage 2 Transpile & Bundle
 ### Day 74: August 1, 2018 - Wednesday
 
