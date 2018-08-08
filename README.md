@@ -67,6 +67,51 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 76. Terminal Makeover
+### Day 76: August 7, 2018 - Tuesday
+
+**Project:** Update Windows 10 Terminal with tabs, split screens, & themes
+
+[![Split Terminal with Tabs](assets/images/code-log-76b-small.jpg)](assets/images/code-log-76b.jpg)
+
+**Progress:** This was a three day project due to much reading and research.
+
+Here were my terminal minimum requirements:
+- Must have tabs
+- Must be able to do split-screen
+- Must be customizable with plug-ins & themes
+- Must work properly on Windows 10 WSL (Windows Subsystem for Linux)
+
+This lead me to some great articles on how to do this. The first one I read was [How to Use ‘Tmux Terminal’ to Access Multiple Terminals Inside a Single Console](https://www.tecmint.com/tmux-to-access-multiple-linux-terminals-inside-a-single-console/).
+
+This introduced tmux (Terminal Multiplexer), which allows you to access multiple terminals inside a single terminal. This is a Linux tool though and I wasn't sure whether Windows 10 WSL could support it. Here's what I found.
+
+- MS Developer Blog - [Tmux support arrives for Bash on Ubuntu on Windows](https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/)
+- MS Developer Blog - [Tmux imporvments - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
+
+I then read the following three Win 10 specific walk-through's
+- [How to split the terminal into multiple screens in Windows 10](https://veerasundar.com/blog/2018/03/how-to-split-the-terminal-into-multiple-views-in-windows-10/)
+    This helped me install tmux & zsh which gave me split screens and themes but not tabs.
+- [Configuring a pretty and usable terminal emulator for WSL](https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/)
+    This was a great breakdown of the various Win 10 Terminal replacement apps out there. Many of which support tabs but each with their own limitations.
+- [Windows Subsystem for Linux w/ zsh, tmux & Docker](https://blog.questionable.services/article/windows-subsystem-linux-zsh-tmux-docker/)
+    This solution integrates all of the previous tools but relies on Hyper as a terminal replacement which the previous article wasn't to keen on. Good for reference though.
+
+What I finally ended up doing was installing a Windows Tab solution called [Groupy](https://www.stardock.com/products/groupy/) which allows you to organize multiple applications into grouped tabs. Very simple drag and drop functionality.
+
+[![Terminal Tabs](assets/images/code-log-76a-small.jpg)](assets/images/code-log-76a.jpg)
+
+**Links:**
+- [How to Use ‘Tmux Terminal’ to Access Multiple Terminals Inside a Single Console](https://www.tecmint.com/tmux-to-access-multiple-linux-terminals-inside-a-single-console/)
+- MS Developer Blog - [Tmux support arrives for Bash on Ubuntu on Windows](https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/)
+- MS Developer Blog - [Tmux imporvments - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
+- Win 10 How-To - [How to split the terminal into multiple screens in Windows 10](https://veerasundar.com/blog/2018/03/how-to-split-the-terminal-into-multiple-views-in-windows-10/)
+- Win 10 How-To - [Configuring a pretty and usable terminal emulator for WSL](https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/)
+- Win 10 How-To - [Windows Subsystem for Linux w/ zsh, tmux & Docker](https://blog.questionable.services/article/windows-subsystem-linux-zsh-tmux-docker/)
+- Windows Tabs Application - [Groupy](https://www.stardock.com/products/groupy/)
+
+---
+
 ## 75. Restaurant App - Stage 2 Code Notes
 ### Day 75: August 4, 2018 - Saturday
 
