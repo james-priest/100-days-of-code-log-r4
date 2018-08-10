@@ -67,6 +67,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 77. Restaurant App - Stage 2 Code Notes 2
+### Day 77: August 9, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+<!-- [![Code Notes](assets/images/code-log-75a-small.jpg)](assets/images/code-log-75a.jpg) -->
+[![Code Notes](assets/images/code-log-77-small.jpg)](assets/images/code-log-77.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Added Section *4. Fix Grunt Tasks* to my Code Notes.
+
+<!-- [![Code Notes](assets/images/code-log-77-small.jpg)](assets/images/code-log-77.jpg) -->
+
+This details the changes I made to my existing Grunt config file in order to make it work with the new directory structure.
+
+It also details hiding my Google Maps API key so that it doesn't get posted on GitHub.
+
+Grunt now does the following tasks.
+
+- `clean` - cleans the dist/ folder
+- `copy` - copies all source code folders & files that don’t need pre-processing to dist/
+- `string-replace` - copies the Google Maps API key to the HTML files
+- `responsive_images` - creates each image at various pixel densities to adjust for various device pixel ratios and viewport sizes
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 76. Terminal Makeover
 ### Day 76: August 7, 2018 - Tuesday
 
@@ -87,7 +120,7 @@ This lead me to some great articles on how to do this. The first one I read was 
 This introduced tmux (Terminal Multiplexer), which allows you to access multiple terminals inside a single terminal. This is a Linux tool though and I wasn't sure whether Windows 10 WSL could support it. Here's what I found.
 
 - MS Developer Blog - [Tmux support arrives for Bash on Ubuntu on Windows](https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/)
-- MS Developer Blog - [Tmux imporvments - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
+- MS Developer Blog - [Tmux improvements - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
 
 I then read the following three Win 10 specific walk-through's
 - [How to split the terminal into multiple screens in Windows 10](https://veerasundar.com/blog/2018/03/how-to-split-the-terminal-into-multiple-views-in-windows-10/)
@@ -104,7 +137,7 @@ What I finally ended up doing was installing a Windows Tab solution called [Grou
 **Links:**
 - [How to Use ‘Tmux Terminal’ to Access Multiple Terminals Inside a Single Console](https://www.tecmint.com/tmux-to-access-multiple-linux-terminals-inside-a-single-console/)
 - MS Developer Blog - [Tmux support arrives for Bash on Ubuntu on Windows](https://blogs.msdn.microsoft.com/commandline/2016/06/08/tmux-support-arrives-for-bash-on-ubuntu-on-windows/)
-- MS Developer Blog - [Tmux imporvments - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
+- MS Developer Blog - [Tmux improvements - Background Task Support in WSL](https://blogs.msdn.microsoft.com/commandline/tag/tmux/)
 - Win 10 How-To - [How to split the terminal into multiple screens in Windows 10](https://veerasundar.com/blog/2018/03/how-to-split-the-terminal-into-multiple-views-in-windows-10/)
 - Win 10 How-To - [Configuring a pretty and usable terminal emulator for WSL](https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/)
 - Win 10 How-To - [Windows Subsystem for Linux w/ zsh, tmux & Docker](https://blog.questionable.services/article/windows-subsystem-linux-zsh-tmux-docker/)
@@ -169,6 +202,7 @@ This increased my benchmark scores for Performance & Progressive Web App.
 Will continue tomorrow.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -189,20 +223,21 @@ Today I started down the rabbit hole that is Gulpfile.js. Gulp uses a code-based
 So far I have the following tasks working.
 
 - `clean` - cleans the `dist/` & `tmp/` directories
-- `html` - copies html
+- `html` - copies html & injects Google Maps API key
 - `css` - copies css
 - `js` - copies js
-- Basic BrowserSync
 
 What I need to get working in each of these tasks.
 
 - `html` - processes html (remove comments, remove whitespace, etc. )
 - `css` - processes css (autoprefixer, sass)
 - `js` - processes js (bundle, browserify, transpile)
+- `watch` - dev server with live reload when source changes
 
 Will continue tomorrow.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -230,6 +265,7 @@ I created a separate Google Maps API key file that does not get copied GitHub. I
 Now when I push my project to GitHub my API key will not get published.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -256,6 +292,7 @@ Next steps are to migrate from Grunt to Gulp which will allow for better code ba
 - Allow
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -295,6 +332,7 @@ Decided to roll my own in order to get granular control over the build process.
 The next step is to copy all source files into an `app/` directory and then have everything output to a  `dest/` folder.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -340,6 +378,7 @@ fetch(DBHelper.DATABASE_URL)
 Additional changes included updates to the supporting DBHelper routines for proper responsive image handling.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
@@ -365,6 +404,7 @@ Today I began work on stage 2 of my Restaurant App project. This requires that w
 Once these requirements are met I can submitted everything for review. Successful submission of stages 1, 2, and 3 are required to complete the nanodegree program.
 
 **Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
