@@ -67,19 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 78. Restaurant App - Stage 2 Code Notes 3
+### Day 78: August 12, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Code Notes](assets/images/code-log-78a-small.jpg)](assets/images/code-log-78a.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Added Section *5. Evaluate Build Tools* &  *6. Using Gulp* to my Code Notes.
+
+This details The process of evaluating various build systems, task runners & bundlers.
+
+My notes then cover the old school way of creating a set of Gulp tasks to do the following.
+
+- Linting
+- Transpiling
+- Bundling
+
+I then set up a browser-sync and run everything on a dev server.
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 77. Restaurant App - Stage 2 Code Notes 2
 ### Day 77: August 9, 2018 - Thursday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-<!-- [![Code Notes](assets/images/code-log-75a-small.jpg)](assets/images/code-log-75a.jpg) -->
 [![Code Notes](assets/images/code-log-77-small.jpg)](assets/images/code-log-77.jpg)
 
 **Progress:** Continued *Restaurant Reviews App - Stage 2* project.
 
 Added Section *4. Fix Grunt Tasks* to my Code Notes.
-
-<!-- [![Code Notes](assets/images/code-log-77-small.jpg)](assets/images/code-log-77.jpg) -->
 
 This details the changes I made to my existing Grunt config file in order to make it work with the new directory structure.
 
