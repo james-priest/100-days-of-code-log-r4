@@ -67,6 +67,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 79. Restaurant App - Stage 2 Responsive Images
+### Day 79: August 15, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Responsive Images](assets/images/code-log-79-small.jpg)](assets/images/code-log-79.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+<!-- Finished fine-tuning the Gulp scripts for development & distribution builds. -->
+Today I implemented responsive image optimization code in the build system to produce four copies of each image at a different resolution.
+
+This will allow the site to responsively serve whichever size image is most appropriate for the requesting device.
+
+The code is pretty straight forward and much more concise in Gulp than the same configuration in Grunt.
+
+```js
+// Build responsive images
+var gulp = require('gulp');
+var $ = require('gulp-load-plugins')();
+
+gulp.task('images', ['fixed-images'], function () {
+  return gulp.src('app/img/*.jpg')
+    .pipe($.responsive({
+      '*.jpg': [
+        { width: 300, rename: { suffix: '-300' }, },
+        { width: 400, rename: { suffix: '-400' }, },
+        { width: 600, rename: { suffix: '-600_2x' }, },
+        { width: 800, rename: { suffix: '-800_2x' }, }
+      ]
+    }, {
+      quality: 40,
+      progressive: true,
+      withMetadata: false,
+    }))
+    .pipe(gulp.dest('.tmp/img'))
+    .pipe(gulp.dest('dist/img'));
+});
+```
+
+Read more here: [Restaurant Review App - Stage 2: Responsive Images](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#66-responsive-images) notes.
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 78. Restaurant App - Stage 2 Code Notes 3
 ### Day 78: August 12, 2018 - Sunday
 
