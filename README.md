@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 80. Restaurant App - Stage 2 Concat & Optimize
+### Day 80: August 16, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![HTML, Scripts, & Styles Task](assets/images/code-log-80-small.jpg)](assets/images/code-log-80.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+<!-- Finished fine-tuning the Gulp scripts for development & distribution builds. -->
+This was the most involved task to build. It provides the following:
+
+- Bundling
+- Injection
+- Minification
+- Sourcemaps
+- Autoprefixing
+- Transpiling
+
+See the code here: [Restaurant Review App - Stage 2: Concat & Optimize](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#67-concat--optimize) notes.
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 79. Restaurant App - Stage 2 Responsive Images
 ### Day 79: August 15, 2018 - Wednesday
 
@@ -76,7 +105,6 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Continued *Restaurant Reviews App - Stage 2* project.
 
-<!-- Finished fine-tuning the Gulp scripts for development & distribution builds. -->
 Today I implemented responsive image optimization code in the build system to produce four copies of each image at a different resolution.
 
 This will allow the site to responsively serve whichever size image is most appropriate for the requesting device.
