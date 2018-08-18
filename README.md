@@ -67,6 +67,38 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 81. Restaurant App - Stage 2 Build & Serve
+### Day 81: August 17, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Gulp serve](assets/images/code-log-81-small.jpg)](assets/images/code-log-81.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Finished fine-tuning the Gulp scripts for development & distribution builds.
+
+This final part of the build system involved serving the pages and providing live reload on code changes. This was done with a plugin called `browsersync`.
+
+I did this by creating three main tasks.
+- `gulp serve` - creates a development server with live reload
+- `gulp serve:dist` - optimizes code and create a preview for a production build
+- `gulp` - builds a production ready site without spinning up a server
+
+The build system will efficiently lint, bundle, transpile, concatenate, minify, autoprefix, & optimize my code on every save.
+
+Now that this is automated, I can spend more time focusing on the code!
+
+See the code notes here: [Restaurant Review App - Stage 2: Section 6.8 Build & Serve](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#68-build--serve).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 80. Restaurant App - Stage 2 Concat & Optimize
 ### Day 80: August 16, 2018 - Thursday
 
