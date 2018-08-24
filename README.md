@@ -67,6 +67,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 82. Nested Promise Blues
+### Day 82: August 23, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Nested Promises](assets/images/code-log-82a-small.jpg)](assets/images/code-log-82a.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+At some point these nested calls get pretty crazy. The code fails mercilessly if you miss a comma, a bracket, a parenthesis, etc.
+
+That's manageable to find with syntax highlighting in your editor, but when you need to insert a nested `then()` with conditional statements, it gets tough to keep it straight.
+
+Case in point. The code below took hours over days to get all pieces in the right place.
+
+```js
+function idbResponse(request) {
+  return caches.open(staticCacheName).then(function (cache) {
+    return cache.match(request).then(function (response) {
+      return (
+        response || fetch(request).then(function (networkResponse) {
+          cache.add(request, networkResponse.clone());
+          return networkResponse;
+        })
+      );
+    });
+  }).catch(error => {
+    if (request.url.includes('.jpg')) {
+      return caches.match('/img/fixed/offline_img1.png');
+    }
+    return new Response(error, {
+      status: 404,
+      statusText: 'Not connected to the internet'
+    });
+  });
+}
+```
+
+I'm sure it looks clean and straightforward to read the logic now but now
+
+I guess it'll get faster with practice.
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 81. Restaurant App - Stage 2 Build & Serve
 ### Day 81: August 17, 2018 - Friday
 
