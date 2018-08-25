@@ -67,6 +67,43 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 83. Restaurant App - Stage 2 Offline with IDB
+### Day 83: August 24, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![IDB data](assets/images/code-log-83-small.jpg)](assets/images/code-log-83.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Finished integrating IndexedDB into the Service Worker for graceful offline performance!
+
+Now the data is showing up and available for offline use. This means that if internet is lost the app can still show data and provide a seamless offline browsing experience.
+
+[![App offline](assets/images/code-log-83a-small.jpg)](assets/images/code-log-83a.jpg)
+
+In fact, if the restaurant page had previously been visited it will seemlessly bring in the map and any associated images as well as the data.
+
+Otherwise it will show placeholders for images that have not been cached but the information will still display.
+
+[![App offline 2](assets/images/code-log-83b-small.jpg)](assets/images/code-log-83b.jpg)
+
+Now when I run a performance test is scores in the mid to high 70's and works for offline browsing as well.
+
+[![Perfomance stats](assets/images/code-log-83c-small.jpg)](assets/images/code-log-83c.jpg)
+
+You can read a more detailed breakdown in the Code Notes.
+
+See the code notes here: [Restaurant Review App - Stage 2: Section 7 SW with IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#7-sw-with-indexeddb).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 82. Nested Promise Blues
 ### Day 82: August 23, 2018 - Thursday
 
