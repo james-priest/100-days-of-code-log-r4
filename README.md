@@ -67,6 +67,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 84. Restaurant App - Stage 2 Progressive Web App
+### Day 84: August 25, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PWA Generator](assets/images/code-log-84-small.jpg)](assets/images/code-log-84.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Today I needed to improve my Lighthouse PWA score in order to satisfy the Stage 2 Project requirements. They were in the low 70s and needed to be brought up above 90.
+
+The Lighthouse stats page gave a checklist of items to fix.
+
+[![PWA Generator](assets/images/code-log-84a-small.jpg)](assets/images/code-log-84a.jpg)
+
+Once I fixed as many of these as I could the score came up tremendously.
+
+I used the Firebase's Web App Manifest Generator ([https://app-manifest.firebaseapp.com/](https://app-manifest.firebaseapp.com/))
+
+Here's my new score!
+
+[![PWA Generator](assets/images/code-log-84b-small.jpg)](assets/images/code-log-84b.jpg)
+
+Yay!!! Go me!
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 83. Restaurant App - Stage 2 Offline with IDB
 ### Day 83: August 24, 2018 - Friday
 
@@ -90,7 +123,7 @@ Otherwise it will show placeholders for images that have not been cached but the
 
 Now when I run a performance test is scores in the mid to high 70's and works for offline browsing as well.
 
-[![Perfomance stats](assets/images/code-log-83c-small.jpg)](assets/images/code-log-83c.jpg)
+[![Performance stats](assets/images/code-log-83c-small.jpg)](assets/images/code-log-83c.jpg)
 
 You can read a more detailed breakdown in the Code Notes.
 
