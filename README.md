@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 85. Restaurant App - Stage 2 Code Notes 4
+### Day 85: August 26, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![PWA Generator](assets/images/code-log-85-small.jpg)](assets/images/code-log-85.jpg)
+
+**Progress:** Continued *Restaurant Reviews App - Stage 2* project.
+
+Completed my notes on the following:
+
+- Running a Progressive Web App audit
+- Generating a Web App Manifest
+- Additional fine-tuning
+- Checking results
+
+See the code notes here: [Restaurant Review App - Stage 2: Section 8. Progressive Web App](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#8-progressive-web-app).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 2](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 84. Restaurant App - Stage 2 Progressive Web App
 ### Day 84: August 25, 2018 - Saturday
 
