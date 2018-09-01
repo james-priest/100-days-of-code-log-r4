@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 87. Client-Server Communication
+### Day 87: August 31, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![HTTP course](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-4-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-4.jpg)
+
+**Progress:** Started *Lesson 1: HTTP Request Response Cycle* from
+- Udacity course: [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897) by Google.
+
+These lesson covers
+- HTTP Requests
+- HTTP Responses
+- HTTP2 Protocol
+
+Read more: [Notes - Client-Server Communication - Lesson 1.1 Course Intro](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#148-minification)
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+- Udacity's [Client-Server Communication by Google](https://www.udacity.com/course/client-server-communication--ud897) (free 5 weeks)
+
+---
+
 ## 86. Restaurant App - Stage 2 Project Completed!
 ### Day 86: August 26, 2018 - Monday
 
