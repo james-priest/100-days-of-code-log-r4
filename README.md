@@ -67,6 +67,28 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 88. HTTP Requests
+### Day 88: September 2, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![HTTP Requests](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-5-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-5.jpg)
+
+**Progress:** Continued *Lesson 1: HTTP Request Response Cycle* from
+- Udacity course: [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897) by Google.
+
+These lesson covers
+- HTTP Request, Request Method, Request Headers
+- HTTP Response, Response Headers, Response Body
+
+Read more: [Notes - Client-Server Communication - Lesson 1.2 HTTP Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#12-http-requests)
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+- Udacity's [Client-Server Communication by Google](https://www.udacity.com/course/client-server-communication--ud897) (free 5 weeks)
+
+---
+
 ## 87. Client-Server Communication
 ### Day 87: August 31, 2018 - Friday
 
