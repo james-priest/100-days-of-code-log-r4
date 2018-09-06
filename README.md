@@ -67,6 +67,29 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 89. GET, POST, & Fetch
+### Day 89: September 4, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![HTTP Requests](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-20-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs1-20.jpg)
+
+**Progress:** Continued *Lesson 1: HTTP Request Response Cycle* from
+- Udacity course: [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897) by Google.
+
+These lesson covers
+- Detailed description of multiple cascading **GET Requests**
+- **POST Request** method and payload
+- Construction of **Fetch Request**
+
+Read more: [Notes - Client-Server Communication - Lesson 1.6 Multiple Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#16-multiple-requests)
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+- Udacity's [Client-Server Communication by Google](https://www.udacity.com/course/client-server-communication--ud897) (free 5 weeks)
+
+---
+
 ## 88. HTTP Requests
 ### Day 88: September 2, 2018 - Sunday
 
