@@ -100,7 +100,7 @@ I used an app called PostMan to test each of these CRUD (Create, Read, Update, D
 - **PUT** - Methods to update existing database records
 - **DELETE** - Methods to delete database records
 
-See the code notes here: [Restaurant Review App - Stage 2: Section 9. Stage 2 Review](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#9-stage-2-review).
+See the code notes here: [Restaurant Review App - Stage 3: Section 2.0 API Endpoints](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#20-api-endpoints).
 
 **Links:**
 - My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
