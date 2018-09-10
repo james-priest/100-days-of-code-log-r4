@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 91. Restaurant App - Stage 3 Favorites Toggle
+### Day 91: September 9, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Test Favorite](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-2-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-2.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+This last few days consisted of:
+- Creating a Favorite Toggle Control (Rollover Image)
+- Making sure it was ARIA compliant & Accessible
+- Writing the database code to update the db
+- Applying the code to index & detail pages
+- Testing to make everything works end to end
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 3. Favorite Control](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#3-favorite-control).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 90. Restaurant App - Stage 3 Reqs & API Endpoints
 ### Day 90: September 7, 2018 - Friday
 
