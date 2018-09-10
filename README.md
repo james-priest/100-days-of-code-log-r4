@@ -67,6 +67,50 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 90. Restaurant App - Stage 3 Reqs & API Endpoints
+### Day 90: September 7, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Endpoints](assets/images/code-log-90-small.jpg)](assets/images/code-log-90.jpg)
+
+**Progress:** Began the *Restaurant Reviews App - Stage 3* project.
+
+#### Requirements
+The first step of this project involved understanding the new requirements. These come down to the following:
+
+- Setup the REST server / review new end points
+- Create Favorite toggle control
+- Create Review form
+- Bind new data to controls
+- Cache new data to IDB
+- Save review data when offline / Post when back online 
+- Ensure Lighthouse performance benchmarks meet the following:
+  - **Progressive Web App** - 90 or better
+  - **Performance** - 90 or better
+  - **Accessibility** - 90 or better
+
+#### Web API Endpoints
+Next I documented in my Code Notes each of the new API Endpoints.
+
+I used an app called PostMan to test each of these CRUD (Create, Read, Update, Delete) operations which fall into the following categories.
+
+- **GET** - Methods to read from the database
+- **POST** - Methods to create new database records
+- **PUT** - Methods to update existing database records
+- **DELETE** - Methods to delete database records
+
+See the code notes here: [Restaurant Review App - Stage 2: Section 9. Stage 2 Review](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html#9-stage-2-review).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 89. GET, POST, & Fetch
 ### Day 89: September 4, 2018 - Tuesday
 
