@@ -72,7 +72,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
-[![Test Favorite](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4.jpg)
+[![Display Reviews](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4.jpg)
 
 **Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
 
