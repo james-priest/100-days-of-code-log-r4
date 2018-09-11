@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 92. Restaurant App - Stage 3 Display Reviews
+### Day 92: September 10, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Test Favorite](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-4.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+In order to get the reviews to display properly I had to do the following:
+
+- Create a `fetchRestaurantReviewById` method
+- Modify `createReviewHTML` & `fillReviewsHTML` methods
+- Update CSS for Review display styles
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 4.1 Display Reviews](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#41-display-reviews).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 91. Restaurant App - Stage 3 Favorites Toggle
 ### Day 91: September 9, 2018 - Sunday
 
