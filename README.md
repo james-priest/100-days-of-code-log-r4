@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 93. Restaurant App - Stage 3 Create Modal Popup
+### Day 93: September 12, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Modal Display](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-6-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-6.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+In order to get the modal popup to happen I had to:
+
+- Create a button to trigger the modal display
+    [![Modal button](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-5-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-5.jpg)
+- Create a "Close" button on the modal popup
+- Wire-up the buttons with the appropriate js code to show or hide the modal when clicked
+- Add a transition so the modal fades in and out smoothly
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 4.2 Create a Modal Popup](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#42-create-a-modal-popup).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 92. Restaurant App - Stage 3 Display Reviews
 ### Day 92: September 10, 2018 - Monday
 
