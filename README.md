@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 94. Restaurant App - Stage 3 Add Review Form
+### Day 94: September 14, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Add Review Form](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+This consisted of implementing an "Add Review" form with a hidden radio group modified to mimic a favorite star rating control.
+
+This was the most complex part of form since it required proper ARIA, accessibility, and role specification.
+
+I also added the following:
+- Form validation
+- Keyboard navigation with proper modal trap
+- ARIA and accessibility labels and roles
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 5. Add Review Form](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#5-add-review-form).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 93. Restaurant App - Stage 3 Create Modal Popup
 ### Day 93: September 12, 2018 - Wednesday
 
