@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 95. Restaurant App - Stage 3 CodePen Review Form
+### Day 95: September 16, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![CodePen Review Form](assets/images/code-log-95-small.jpg)](assets/images/code-log-95.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+I copied the relevant modal popup code to a CodePen ([Modal popup with star rating](https://codepen.io/james-priest/pen/NLLEzr)) in case anyone wants to see how this thing is constructed.
+
+The star rating was the most complex part of the form since it required me to manually specify proper ARIA, accessibility, and roles within the control.
+
+This CodePen proof of concept contains:
+- Basic form validation
+- Keyboard navigation with proper modal trap so that focus stays within modal group on TAB
+- ARIA and accessibility labels and roles
+- Proper Arrow Key navigation within Radio Group (Star rating control)
+
+**Links:**
+- CodePen - [Modal popup with star rating](https://codepen.io/james-priest/pen/NLLEzr)
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 94. Restaurant App - Stage 3 Add Review Form
 ### Day 94: September 14, 2018 - Friday
 
