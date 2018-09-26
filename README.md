@@ -67,6 +67,71 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 96. Restaurant App - Stage 3 Save Review
+### Day 96: September 24, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+<!-- [![Add Review Form](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8.jpg) -->
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+Added code to save a review from the Add Review modal pop-up to the database.  This consisted of adding two pieces of code.
+
+#### restaurant_info.js
+
+```js
+const saveAddReview = (e) => {
+  e.preventDefault();
+
+  const name = document.querySelector('#reviewName').value;
+  const rating = document.querySelector('input[name=rate]:checked').value;
+  const comments = document.querySelector('#reviewComments').value;
+
+  DBHelper.createRestaurantReview(self.restaurant.id, name, rating, comments,
+    (error, review) => {
+    if (error) {
+      console.log('Error saving review');
+    } else {
+      console.log(review);
+      window.location.href = `/restaurant.html?id=${self.restaurant.id}`;
+    }
+  });
+};
+```
+
+#### dbhelper.js
+
+```js
+// http://localhost:1337/reviews/
+static createRestaurantReview(id, name, rating, comments, callback) {
+  const data = {
+    'restaurant_id': id,
+    'name': name,
+    'rating': rating,
+    'comments': comments
+  };
+  fetch(DBHelper.DATABASE_URL + '/reviews/', {
+    method: 'POST',
+    body: JSON.stringify(data)
+  })
+    .then(response => response.json())
+    .then(data => callback(null, data))
+    .catch(err => callback(err, null));
+}
+```
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 5.5 Database Updates](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#55-database-updates).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 95. Restaurant App - Stage 3 CodePen Review Form
 ### Day 95: September 16, 2018 - Sunday
 
