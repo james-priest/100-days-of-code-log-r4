@@ -67,12 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 97. Restaurant App - Stage 3 Update IDB Schema
+### Day 97: September 28, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Old IDB Schema](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/2-13-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/2-13.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+Stage 3 required me to update the object store schema for `restaurants`.
+
+As you can see above, I had previously just saved the entire json list of restaurants as one IDB store record.
+
+This no longer works since I now need to update data on an individual restaurant basis. Here's what the updated schema looks like now.
+
+[![Updated IDB Schema](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-11-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-11.jpg)
+
+You can read more about the code changes in my code notes.
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 6 Redesign IDB Storage](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#6-redesign-idb-storage).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 96. Restaurant App - Stage 3 Save Review
 ### Day 96: September 24, 2018 - Monday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
-
-<!-- [![Add Review Form](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-8.jpg) -->
 
 **Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
 
