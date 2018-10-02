@@ -67,6 +67,67 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 98. Restaurant App - Stage 3 New Gulp Build
+### Day 98: September 29, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+<!-- [![Old IDB Schema](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/2-13-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/2-13.jpg) -->
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+I created a new set of Gulp build tasks to successfully transform & bundle my IDB code.
+
+#### gulpfile.js
+
+```js
+// DBHelper
+gulp.task('dbhelper', function () {
+  var bundler = browserify([                   // ['1.js', '2.js']
+    './app/js/idbhelper.js',                   // include these files
+    './app/js/dbhelper.js'
+  ], { debug: false });                        // no sourcemaps
+
+  return bundler
+    .transform(babelify, {sourceMaps: false})  // required for 'import'
+    .bundle()                                  // concat
+    .pipe(source('dbhelper.min.js'))           // get text stream w/ dest filename
+    .pipe(buffer())                            // use stream w/ other plugins
+    .pipe(gulp.dest('.tmp/js/'));              // outout here...
+});
+```
+
+This combines multiple script files and automatically imports dependencies like the one shown below...
+
+#### idbhelper.js
+
+```js
+import idb from 'idb';
+
+const dbPromise = idb.open('udacity-restaurant-db', 1, upgradeDB => {
+  switch (upgradeDB.oldVersion) {
+    case 0:
+      upgradeDB.createObjectStore('restaurants', 
+        { keyPath: 'id', unique: true });
+  }
+});
+
+self.idbKeyVal = idbKeyVal;   // <- This line exposes the object literal.
+```
+
+There are now easier ways to do this with tools like [Parcel.js](https://parceljs.org/) and [WebPack](https://webpack.js.org/) but Grunt & Gulp are what the lessons taught so I stuck with those.
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 7 Refactor IDB Code](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#7-refactor-idb-code).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 97. Restaurant App - Stage 3 Update IDB Schema
 ### Day 97: September 28, 2018 - Friday
 
