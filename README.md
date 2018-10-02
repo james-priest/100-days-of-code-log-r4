@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 99. Restaurant App - Stage 3 IDB Store & Index
+### Day 99: September 30, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![IDB Index](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-13-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-13.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+Next I needed to create an object store to hold data so users can have an uninterrupted offline experience.
+
+I this case I added the `reviews` object store as well as an index (foreign key) that relates the review back to the restaurant.
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 8 Review Store](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#8-reviews-store).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 98. Restaurant App - Stage 3 New Gulp Build
 ### Day 98: September 29, 2018 - Saturday
 
