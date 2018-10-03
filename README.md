@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 100. Restaurant App - Stg 3 Offline Reviews
+### Day 100: October 2, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Offline Alert](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-14-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-14.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+I finished another round of 100DaysOfCode! Yay! I was hoping to be done with this project by now but it looks like it'll take me into Round 4.
+
+This latest set of code changes represented significant updates to my Restaurant Review app. This included
+
+- Created `offline` IDB object store for saving unhandled http requests
+- Implemented graceful offline handling of review data
+- Created ability to add and capture new data regardless of connectivity 
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 9 Offline Reviews](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#9-offline-reviews).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 99. Restaurant App - Stage 3 IDB Store & Index
 ### Day 99: September 30, 2018 - Sunday
 
