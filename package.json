@@ -1,21 +1,21 @@
 {
-  "name": "100-days-of-code-log-r3",
+  "name": "100-days-of-code-log-r4",
   "version": "0.1.0",
-  "description": "This is v3 of my code log. It incorporates a grunt automation task",
+  "description": "This is v4 of my code log. It incorporates a grunt automation task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/james-priest/100-days-of-code-log-r3.git"
+    "url": "git+https://github.com/james-priest/100-days-of-code-log-r4.git"
   },
   "author": "James Priest",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/james-priest/100-days-of-code-log-r3/issues"
+    "url": "https://github.com/james-priest/100-days-of-code-log-r4/issues"
   },
-  "homepage": "https://github.com/james-priest/100-days-of-code-log-r3#readme",
+  "homepage": "https://github.com/james-priest/100-days-of-code-log-r4#readme",
   "devDependencies": {
     "grunt": "^1.0.2",
     "grunt-contrib-clean": "^1.1.0",
