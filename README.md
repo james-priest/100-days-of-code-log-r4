@@ -67,8 +67,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 2. Restaurant App - Stage 3 Post Offline Data
+### Day 2: October 6, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Save Offline Data](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-15-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-15.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+In this part of my project I finished the offline data processing queue. This is responsible for sending offline review data to the server once connectivity is re-established.
+
+The code does the following:
+1. On page load it gets the all offline requests as an IDB cursor
+2. It opens the first request and attempts to POST it with fetch
+3. If we are offline then it skips to the next and tries again
+4. Once we do successfully POST we get the resulting record back
+5. We then delete the offline request from the offline store
+6. We add the new review record and delete the old record from reviews store
+7. The add & delete is done in the same transaction so if it fails it rolls back
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 10 Post Offline Data](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#10-post-offline-data).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 1. Created Round 4 Code Log
-### Day 1: October 5, 2018 - Thursday
+### Day 1: October 5, 2018 - Friday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
 
