@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 3. Restaurant App - Stage 3 Kill Page Refresh
+### Day 3: October 7, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Data Displays without Refresh](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-20-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-20.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+There were two places in my app where I was lazily reloading the page in order to redraw the data on the page.
+
+This was clunky and didn't make sense to do since I was using Ajax everywhere else to eliminate round-trips to the server.
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 11 Kill Page Refresh](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#11-kill-page-refresh).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 2. Restaurant App - Stage 3 Post Offline Data
 ### Day 2: October 6, 2018 - Saturday
 
