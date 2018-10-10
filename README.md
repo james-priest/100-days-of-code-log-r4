@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 4. Restaurant App - Stage 3 Offline Favorites
+### Day 4: October 9, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Offline Favorites Toggle](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-21-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-21.jpg)
+
+**Progress:** Continued the *Restaurant Reviews App - Stage 3* project.
+
+I completed the last piece of functionality for this app which is the ability to mark a restaurant as a favorite while the app is offline.
+
+I added the following:
+
+- Set click handlers for the favorite buttons
+- Created a function to use Fetch API when updating the online DB
+- Added error handling which updates the data locally
+- Created code to save all requests when offline and then send to server when connected once again.
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 12 Offline Favorites](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#12-offline-favorites).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 3. Restaurant App - Stage 3 Kill Page Refresh
 ### Day 3: October 7, 2018 - Sunday
 
