@@ -67,6 +67,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 5. Restaurant App - Stage 3 Performance Tuning
+### Day 5: October 11, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![DevTools Audits Panel](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-23-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-23.jpg)
+
+**Progress:** Completed the *Restaurant Reviews App - Stage 3* project.
+
+This last part required me to tighten up the performance scores on this app.
+
+I ran the tests from Chrome's DevTools audits panel and did the following to bring the scores up
+
+- Created gulp tasks to inline my js and css
+- Reduced image quality (and file size) in my image compression gulp task
+
+The new scores are enough to pass!
+
+[![DevTools Audits Score](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-28-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-28.jpg)
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 13 Performance Tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#13-performance-tuning).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 4. Restaurant App - Stage 3 Offline Favorites
 ### Day 4: October 9, 2018 - Tuesday
 
