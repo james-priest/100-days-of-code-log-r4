@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 6. Restaurant App - Stage 3 Project Results
+### Day 6: October 12, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist)
+
+[![Final Project Results](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-31-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-31.jpg)
+
+**Progress:** Completed the *Restaurant Reviews App - Stage 3* project.
+
+I submitted my project for review and got the results back.  It passed with flying colors which made the extra weeks I put into it worth while.
+
+[![Responsive Design Results](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-33-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-33.jpg)
+
+See the code notes here: [Restaurant Review App - Stage 3: Section 14 Stage 3 Review](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html#14-stage-3-review).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 3](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 5. Restaurant App - Stage 3 Performance Tuning
 ### Day 5: October 11, 2018 - Thursday
 
