@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 7. HTTP 1.1
+### Day 7: October 15, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP 1.1 Course](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs2-9-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs2-9.jpg)
+
+**Progress:** Continuing MWS coursework - Client-Server Communications
+
+So, now that I've successfully completed the Nanodegree requirements I've set my sights on taking the Google MWS certification test. In order to be best prepared, I'll complete the remaining coursework first.
+
+HTTP 1.1 deals with the following..
+- Request headers
+- HTTP Verbs
+- Common Response headers
+- Performance Basics
+
+Read more: [Client-Server Communication: HTTP/1](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#2-http1).
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#client-server-communication)
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 6. Restaurant App - Stage 3 Project Results
 ### Day 6: October 12, 2018 - Friday
 
@@ -77,6 +102,10 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 **Progress:** Completed the *Restaurant Reviews App - Stage 3* project.
 
 I submitted my project for review and got the results back.  It passed with flying colors which made the extra weeks I put into it worth while.
+
+One thing that threw me off though was the first line of the reviewer's feedback, "where he said, "Great attempt". Whad'ya mean "Great attempt?!?".😂😂
+
+It then went on to tell me that I had in fact completed the nanodegree! Whew!😅
 
 [![Responsive Design Results](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-33-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/3-33.jpg)
 
