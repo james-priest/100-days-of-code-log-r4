@@ -21,9 +21,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Code daily
 - [x] Complete Udacity's [Grow with Google Challenge Scholarship](https://www.udacity.com/grow-with-google) - Mobile Web Specialist
 - [x] Get accepted to the Google Udacity [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) program
-- [ ] Successfully complete the Google Udacity [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) program
-- [ ] Pass the Microsoft Programming in HTML5 with JavaScript & CSS3 Cert - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
+- [x] Successfully complete the Google Udacity [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) program
 - [ ] Pass the Google [Mobile Web Specialist Certification](https://developers.google.com/training/certification/mobile-web-specialist/) exam for Mobile Web Development
+- [ ] Pass the Microsoft Programming in HTML5 with JavaScript & CSS3 Cert - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
 
 # Code Log
 <!--
@@ -65,6 +65,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 ---
 
 -->
+---
+
+## 8. Cloud Services Defined
+### Day 8: October 22, 2018 - Monday
+
+**Project:** Host Restaurant Review app
+
+[![On-Premises, Iaas, Paas, Saas](https://blogs.bmc.com/wp-content/uploads/2017/09/iaas-paas-saas-comparison-1024x759.jpg)](https://blogs.bmc.com/wp-content/uploads/2017/09/iaas-paas-saas-comparison-1024x759.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+The nanodegree only had three stages to complete in order to meet all requirements.
+
+I’m adding a fourth stage which will include necessary changes to properly host this app as part of my online portfolio.
+
+I started researching various Cloud services in order to find a solution to host the Restaurant app's back end database and REST API.
+
+In that effort I documented the following in my code notes
+
+- Wrote out a set of requirements
+- Researched NoSQL Databases
+- Learned about & defined various cloud services (IaaS, PaaS, DBaaS, SaaS)
+- Investigated hosted DB Solutions
+
+See the code notes here: [Restaurant Review App - Stage 4: Section 1 NoSQL with RESTful API](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#14-stage-3-review).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
 ---
 
 ## 7. HTTP 1.1
