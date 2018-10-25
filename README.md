@@ -67,6 +67,43 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 10. Test REST API with Postman
+### Day 10: October 24, 2018 - Wednesday
+
+**Project:** Host Restaurant Review app
+
+[![RestDB.io](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-18-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-18.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+As part of the work required to host a copy of my version of the Udacity Mobile Web Nanodegree Restaurant app, I have to change all the Ajax requests to use my new hosted DB solution.
+
+I chose a great hosted solution made available by [restdb.io](https://restdb.io).
+
+Their service allowed me to:
+
+- Create a NoSQL DB
+- Create collections and define their fields
+- Populate these with data
+- Access the data through an instantly available REST API
+
+The next part involved constructing all the new requests and testing each of the new endpoints to ensure I was able to perform each operation as expected.
+
+I first started by identifying each endpoint I'm currently using from my local DB. I then read RestDB's excellent docs on how to build equivalent requests to access the same data.
+
+I used [Postman](https://www.getpostman.com/) to track, build, & test each request.
+
+You can read more here: [Restaurant Review App - Stage 4: Section 3 Test REST API](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#3-test-rest-api).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 9. RestDB.io Hosted DB
 ### Day 9: October 23, 2018 - Tuesday
 
