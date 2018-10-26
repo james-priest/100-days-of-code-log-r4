@@ -4,7 +4,7 @@
 ## 100 Days Of Code
 
 | Log 1 | Log 2 | Log 3 | Log 4 |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | [100 Days Round 1](https://james-priest.github.io/100-days-of-code-log/) | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) | this log |
 
 ## Challenge & Commitment
@@ -65,6 +65,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 ---
 
 -->
+---
+
+## 11. HTTPS
+### Day 11: October 25, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTPS Course](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs3-19-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs3-19.jpg)
+
+**Progress:** Continuing MWS coursework - Client-Server Communications
+
+I'm continuing with my Nanodegree coursework in preparation for the Google MWS certification test.
+
+This lesson dealt with Secure HTTP or HTTPS.
+
+The lesson covered..
+- Secure HTTP
+- Transport Layer Security (TLS was SSL)
+- Hashing
+- Cert Authorities
+- TLS Handshake
+- Mixed content
+
+Read more: [Client-Server Communication: HTTPS](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#3-https).
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#client-server-communication)
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
 ---
 
 ## 10. Test REST API with Postman
