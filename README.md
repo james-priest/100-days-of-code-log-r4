@@ -67,6 +67,38 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 12. HTTP/2
+### Day 12: October 26, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTPS Course](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs4-16-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs4-16.jpg)
+
+**Progress:** Continuing MWS coursework - Client-Server Communications
+
+I'm continuing with my Nanodegree coursework in preparation for the Google MWS certification test.
+
+This lesson dealt with HTTP2.
+
+The lesson covered..
+- HTTP/1 problems
+  - blocking
+  - uncompressed headers
+  - security
+- HTTP/2 improvements
+  - multiplexing
+  - use of frames
+- Best Practices
+  - do's and dont's
+
+Read more: [Client-Server Communication: HTTP/2](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#4-http2).
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#client-server-communication)
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 11. HTTPS
 ### Day 11: October 25, 2018 - Thursday
 
