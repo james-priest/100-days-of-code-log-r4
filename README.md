@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 13. CORS & HTTP Security
+### Day 13: October 27, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs5-5-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/cs5-5.jpg)
+
+**Progress:** Continuing MWS coursework - Completed Client-Server Communications course
+
+The last section of this course dealt with CORS and HTTP security.
+
+- same-origin-policy
+- JSONP
+- CORS requests
+- Preflighting requests
+- Security exploits
+
+Read more: [Client-Server Communication: HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#5-security).
+
+**Links:**
+- My Course Notes - [Client-Server Communication](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#client-server-communication)
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 12. HTTP/2
 ### Day 12: October 26, 2018 - Friday
 
