@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 14. Requests & Responses
+### Day 14: October 28, 2018 - Sunday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws1-12-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws1-12.jpg)
+
+**Progress:** Continuing MWS coursework - Started HTTP & Web Servers course
+
+The first section of this course covered HTTP Requests & Responses. It had us do the following:
+
+- Install `ncat` command line util
+- Spin up a Python http server
+- Understand parts of the URI
+- Experiment with GET requests
+- Hand-code HTTP responses
+
+Read more: [Client-Server Communication: HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#5-security).
+
+**Links:**
+- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#http--web-servers)
+- Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 13. CORS & HTTP Security
 ### Day 13: October 27, 2018 - Saturday
 
