@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 15. Python Web Servers
+### Day 15: October 30, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws2-8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws2-8.jpg)
+
+**Progress:** Finishing MWS coursework - Continued HTTP & Web Servers course
+
+This section dealt with creating HTTP Servers & Clients. It had us do the following:
+
+- Use Python's `http.server` to write our own http servers
+- Handle GET & POST requests
+- Process QueryStrings & HTML forms
+- Use Post-Redirect-to-Get server pattern
+- Use `requests` package
+- Handle JSON
+- Build multiple HTTP servers
+
+Read more: [HTTP & Web Servers: The Web from Python](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#7-the-web-from-python).
+
+**Links:**
+- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html)
+- Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 14. Requests & Responses
 ### Day 14: October 28, 2018 - Sunday
 
@@ -84,10 +112,10 @@ The first section of this course covered HTTP Requests & Responses. It had us do
 - Experiment with GET requests
 - Hand-code HTTP responses
 
-Read more: [Client-Server Communication: HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html#5-security).
+Read more: [HTTP & Web Servers: Requests & Responses](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#6-requests--responses).
 
 **Links:**
-- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#http--web-servers)
+- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html)
 - Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
 
