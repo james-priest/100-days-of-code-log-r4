@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 16. Deploy to Heroku
+### Day 16: October 31, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Security](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws3-2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws3-2.jpg)
+
+**Progress:** Finishing MWS coursework - Continued HTTP & Web Servers course
+
+This section dealt with deploying a simple web server built with Python to Heroku. Specifically the lesson covered
+
+- Signing up for a free Heroku account
+- Installing the Heroku CLI
+- Creating a set of config files including Procfile, requirements.txt, & runtime.txt
+- Using Heroku environment variables
+- Creating an app instance
+- Pushing & building the app for deployment
+
+Read more: [HTTP & Web Servers: Real Work HTTP: Deploy to Heroku](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#8-real-world-http).
+
+**Links:**
+- [uri-server](https://uri-server.herokuapp.com/) - Small proof-of-concept Python server
+- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html)
+- Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 15. Python Web Servers
 ### Day 15: October 30, 2018 - Tuesday
 
