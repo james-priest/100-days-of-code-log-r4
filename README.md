@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 17. HTTP Servers & Protocols
+### Day 17: November 1, 2018 - Thursday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Protocol](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws3-17-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/hws3-17.jpg)
+
+**Progress:** Finishing MWS coursework - Finished HTTP & Web Servers course
+
+This final section of this course covered a mix of subjects including the following.
+
+- Multi-threading & concurrency
+- Apache, Nginx, & IIS
+- Cookies
+- HTTPS & TLS
+- HTTP Methods (verbs)
+- HTTP/1.1 vs HTTP/2
+
+Read more: [HTTP & Web Servers: Real Work HTTP: Deploy to Heroku](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#8-real-world-http).
+
+**Links:**
+- [Mini Bookmark Server](https://mini-bookmark-server.herokuapp.com/) - Mini Bookmark HTTP  Server built in Python
+- My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html)
+- Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 16. Deploy to Heroku
 ### Day 16: October 31, 2018 - Wednesday
 
@@ -88,7 +116,7 @@ This section dealt with deploying a simple web server built with Python to Herok
 Read more: [HTTP & Web Servers: Real Work HTTP: Deploy to Heroku](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#8-real-world-http).
 
 **Links:**
-- [uri-server](https://uri-server.herokuapp.com/) - Small proof-of-concept Python server
+- [Mini Bookmark Server](https://mini-bookmark-server.herokuapp.com/) - Mini Bookmark HTTP  Server built in Python
 - My Course Notes - [HTTP & Web Servers](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html)
 - Udacity's [HTTP & Web Servers course](https://www.udacity.com/course/http-web-servers--ud303) by Google
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
