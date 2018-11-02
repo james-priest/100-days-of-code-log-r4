@@ -85,7 +85,7 @@ This final section of this course covered a mix of subjects including the follow
 - HTTP Methods (verbs)
 - HTTP/1.1 vs HTTP/2
 
-Read more: [HTTP & Web Servers: Real Work HTTP: Deploy to Heroku](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#8-real-world-http).
+Read more: [HTTP & Web Servers: Real Work HTTP: Multi-threaded Model](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/http-web-servers.html#82-multi-threaded-model).
 
 **Links:**
 - [Mini Bookmark Server](https://mini-bookmark-server.herokuapp.com/) - Mini Bookmark HTTP  Server built in Python
