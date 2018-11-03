@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 18. Browser Rendering Performance
+### Day 18: November 2, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![HTTP Protocol](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-36-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-36.jpg)
+
+**Progress:** Finishing MWS coursework - Started Browser Rendering Optimization course
+
+The first Lesson is called The Critical Rendering Path and it covers the following
+
+- 60 fps rendering
+- Steps for rendering a single frame
+- DOM & Render Tree
+- Layout & Paint
+- Compositing
+- Using DevTools Performance panel
+
+Read more: [Browser Rendering Optimization: The Critical Rendering Path](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#9-the-critical-rendering-path).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 17. HTTP Servers & Protocols
 ### Day 17: November 1, 2018 - Thursday
 
