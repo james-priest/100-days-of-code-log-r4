@@ -72,7 +72,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
 
-[![HTTP Protocol](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-36-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-36.jpg)
+[![HTTP Protocol](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-20-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro1-20.jpg)
 
 **Progress:** Finishing MWS coursework - Started Browser Rendering Optimization course
 
