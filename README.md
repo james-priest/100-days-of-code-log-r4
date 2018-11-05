@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 19. App Lifecycle
+### Day 19: November 3, 2018 - Saturday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![Time targets](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro2-10-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro2-10.jpg)
+
+**Progress:** Finishing MWS coursework - Continued Browser Rendering Optimization course
+
+The second Lesson was called App Lifecycle and it dealt with
+
+- RAIL (Render, Animate, Idle, Load) process
+- Appropriate times for each phase
+- Rendering animations
+- fetching assets
+- critical content for first load
+
+[![Idle Time](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro2-5-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro2-5.jpg)
+
+Read more: [Browser Rendering Optimization: App Lifecycle](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#10-app-lifecycles).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 18. Browser Rendering Performance
 ### Day 18: November 2, 2018 - Friday
 
