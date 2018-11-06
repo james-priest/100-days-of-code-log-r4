@@ -67,8 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 21. JavaScript Performance
+### Day 21: November 5, 2018 - Monday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![Time targets](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro4-32-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro4-32.jpg)
+
+**Progress:** Finishing MWS coursework - Continued Browser Rendering Optimization course
+
+The fourth lesson dealt with the JavaScript Performance Debugging in Chrome's Debugging tools. It covered:
+
+- JIT compilation
+- Animation using `requestAnimationFrame`
+- Memory Profiling & long running JS
+- Web Workers
+- Memory management
+
+Read more: [Browser Rendering Optimization: JavaScript Debug](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#12-javascript-debug).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 20. Debugging Performance
-### Day 20: November 5, 2018 - Sunday
+### Day 20: November 4, 2018 - Sunday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
 
