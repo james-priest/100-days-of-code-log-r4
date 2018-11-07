@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 22. JS Web Workers
+### Day 22: November 6, 2018 - Tuesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![Time targets](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro4-36-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro4-36.jpg)
+
+**Progress:** Finishing MWS coursework - Continued Browser Rendering Optimization course
+
+Finished the last part of the fourth lesson which dealt with JS memory management. It covered:
+
+- More Memory Profiling for long running JS
+- Moving code to Web Workers to free up main thread
+- Using `requestAnimationFrame` instead of `setTimeout` & `setInterval`
+
+Read more: [Browser Rendering Optimization: JavaScript Memory Management](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#128-js-memory-management).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 21. JavaScript Performance
 ### Day 21: November 5, 2018 - Monday
 
