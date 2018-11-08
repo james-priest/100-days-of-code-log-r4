@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 23. Styles & Layout
+### Day 23: November 7, 2018 - Wednesday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![Render pipeline](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro5-18-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro5-18.jpg)
+
+**Progress:** Finishing MWS coursework - Continued Browser Rendering Optimization course
+
+Finished the fifth lesson on Optimization & Performance which dealt with Styles and Layout with regards to the render pipeline. It covered:
+
+- The render pipeline
+- Forced reflow and forced synchronous layout
+- Layout thrashing
+- Recording & measuring performance bottlenecks with DevTools
+
+Read more: [Browser Rendering Optimization: Styles and Layout](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#13-styles-and-layout).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 22. JS Web Workers
 ### Day 22: November 6, 2018 - Tuesday
 
