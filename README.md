@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 24. Compositing & Painting
+### Day 24: November 9, 2018 - Friday
+
+**Project:** Google Udacity Nanodegree (Mobile Web Specialist) Coursework
+
+[![Render pipeline](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro6-30-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/bro6-30.jpg)
+
+**Progress:** Finished MWS coursework - Completed Browser Rendering Optimization course
+
+Today I finished the last lesson of this course. It dealt with avoiding the pitfalls of compositing and painting with regards browser rendering.
+
+It dealt with:
+
+- Tracing problems
+- Tracking layers
+- Recording performance
+- Managing performance budget per frame
+
+Read more: [Browser Rendering Optimization: Compositing & Painting](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html#14-compositing--painting).
+
+**Links:**
+- My Course Notes - [Browser Rendering Optimization](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html)
+- Udacity's [Browser Rendering Optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860) by Google
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 23. Styles & Layout
 ### Day 23: November 7, 2018 - Wednesday
 
