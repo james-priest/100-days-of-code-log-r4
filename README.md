@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 25. Building Web Forms Pt 1
+### Day 25: November 10, 2018 - Saturday
+
+**Project:** Google Udacity Coursework
+
+[![Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf1-8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf1-8.jpg)
+
+**Progress:** Elective coursework - High Conversion Web Forms
+
+This course teaches how to build html5 web forms that are lean, streamlined, and effective.
+
+Lesson 1 deals with
+
+- Good vs bad form design
+- HTML5 inputs
+- Datalist
+- Form fixing strategies
+
+Read more: [High Conversion Web Forms: Efficient Inputs Part 1](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#1-efficient-inputs-pt-1).
+
+**Links:**
+- My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
+- Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) by Google
+
+---
+
 ## 24. Compositing & Painting
 ### Day 24: November 9, 2018 - Friday
 
