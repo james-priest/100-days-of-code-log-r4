@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 26. Building Web Forms Pt2
+### Day 26: November 11, 2018 - Sunday
+
+**Project:** Google Udacity Coursework
+
+[![Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf2-4-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf2-4.jpg)
+
+**Progress:** Elective coursework - High Conversion Web Forms
+
+This course teaches how to build html5 web forms that are lean, streamlined, and effective. This lesson is called Efficient Inputs.
+
+Lesson 2 started in with the following.
+
+- Proper use of `label`
+- Sizing and positioning of `label` elements based on orientation
+- Using `placeholder` attribute on `input` elements
+- Calendars with `datetime-local`, `date`, and `time`
+
+Read more: [High Conversion Web Forms: Efficient Inputs Part 2](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#2-efficient-inputs-pt-2).
+
+**Links:**
+- A simple pen on CodePen - [Responsive Mobile Ready Forms](https://codepen.io/james-priest/pen/PxbKdy)
+- My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
+- Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) by Google
+
+---
+
 ## 25. Building Web Forms Pt 1
 ### Day 25: November 10, 2018 - Saturday
 
