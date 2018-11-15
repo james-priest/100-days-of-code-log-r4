@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 27. Web Forms Validation
+### Day 27: November 14, 2018 - Wednesday
+
+**Project:** Google Udacity Coursework
+
+[![Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf2-22-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf2-22.jpg)
+
+**Progress:** Elective coursework - High Conversion Web Forms
+
+This course teaches how to build html5 web forms that are lean, streamlined, and effective. This lesson dealt with validation.
+
+Lesson 2 started in with the following.
+
+- `required` input fields
+- numeric validation & range inputs
+- `min`, `max`, and `step` attributes
+- `setCustomValidity()` method of the Constraint Validation API
+
+Read more: [High Conversion Web Forms: Validation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#216-validation).
+
+**Links:**
+- Example reponsive [Contact form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf/contact.html)
+- Example responsive [Shipping form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf/shipping.html)
+- A simple pen on CodePen - [Responsive Mobile Ready Forms](https://codepen.io/james-priest/pen/PxbKdy)
+- My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
+- Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) by Google
+
+---
+
 ## 26. Building Web Forms Pt2
 ### Day 26: November 11, 2018 - Sunday
 
