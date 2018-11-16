@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 28. Fast Web Forms
+### Day 28: November 15, 2018 - Thursday
+
+**Project:** Google Udacity Coursework
+
+[![Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf3-10-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf3-10.jpg)
+
+**Progress:** Elective coursework - High Conversion Web Forms
+
+This course teaches how to build html5 web forms that are lean, streamlined, and effective. This lesson dealt with streamlining existing forms.
+
+Lesson 3 reinforced the following principles.
+
+- Keep forms short
+- provide helpful prompts
+- Provide immediate feedback
+- Practice efficiency
+- Utilize autofill & location services where appropriate
+- Building a checkout
+
+Read more: [High Conversion Web Forms: Fast Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#3-fast-forms).
+
+**Links:**
+- Example [Checkout form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf3-13/end/index.html)
+- A simple pen on CodePen - [Responsive Mobile Ready Forms](https://codepen.io/james-priest/pen/PxbKdy)
+- My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
+- Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) by Google
+
+---
+
 ## 27. Web Forms Validation
 ### Day 27: November 14, 2018 - Wednesday
 
@@ -88,7 +118,7 @@ Lesson 2 started in with the following.
 Read more: [High Conversion Web Forms: Validation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#216-validation).
 
 **Links:**
-- Example reponsive [Contact form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf/contact.html)
+- Example responsive [Contact form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf/contact.html)
 - Example responsive [Shipping form](https://james-priest.github.io/udacity-nanodegree-mws/exercises/wf/shipping.html)
 - A simple pen on CodePen - [Responsive Mobile Ready Forms](https://codepen.io/james-priest/pen/PxbKdy)
 - My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
