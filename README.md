@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 29. Swipe & Touch Support
+### Day 29: November 16, 2018 - Friday
+
+**Project:** Google Udacity Coursework
+
+[![Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf4-1-small.jpg)](https://james-priest.github.io/udacity-nanodegree-mws/assets/images/wf4-1.jpg)
+
+**Progress:** Elective coursework - High Conversion Web Forms
+
+This course teaches how to build html5 web forms that are lean, streamlined, and effective. This lesson dealt with touch events on web forms.
+
+Lesson 4 included:
+
+- Touch vs Click
+- Pseudo states (default, hover, focus, active)
+- Suppressing text selection for touch & drag
+- Proper touch feedback
+- Working with both Touch & Mouse events
+
+Read more: [High Conversion Web Forms: Touch Support](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html#4-touch-support).
+
+**Links:**
+- My Course Notes - [High Conversion Web Forms](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/high-conversion-web-forms.html)
+- Udacity's [Building High Conversion Web Forms course](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) by Google
+
+---
+
 ## 28. Fast Web Forms
 ### Day 28: November 15, 2018 - Thursday
 
