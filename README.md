@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 30. Update REST Endpoints
+### Day 30: October 18, 2018 - Sunday
+
+**Project:** Host Restaurant Review app
+
+[![RestDB.io](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-19-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-19.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+In order to host a copy of my version of the Mobile Web Restaurant Review app, I have to update the code to use a new series of REST endpoints.
+
+These new endpoints are exposed by my hosted DB solution though [restdb.io](https://restdb.io).
+
+Today's work involved:
+
+- Update DB connection string and Headers object (CORS, API key, etc.)
+- Update calls for GET restaurants and GET reviews by restaurant id.
+- Update Service Worker to trap DB calls and return cached values if they exist
+
+You can read more here: [Restaurant Review App - Stage 4: Section 4 Get Restaurants](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#4-get-restaurants).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- GitHub Repo - [MWS Restaurant Stage 2](https://github.com/james-priest/mws-restaurant-stage-2) - Server App
+- GitHub Repo - [MWS Restaurant Stage 3](https://github.com/james-priest/mws-restaurant-stage-3) - Server App with additional Endpoints
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 29. Swipe & Touch Support
 ### Day 29: November 16, 2018 - Friday
 
