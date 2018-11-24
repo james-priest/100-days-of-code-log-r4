@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 31. Edit & Delete Buttons
+### Day 31: October 19, 2018 - Monday
+
+**Project:** Host Restaurant Review app
+
+[![RestDB.io](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-23-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-23.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+In order to host a copy of my version of the Mobile Web Restaurant Review app, I have to update the code to use a new series of REST endpoints.
+
+These new endpoints are exposed by my hosted DB solution though [restdb.io](https://restdb.io).
+
+Today's work involved:
+
+- Adding Edit & Delete buttons to the Reviews section
+- Writing code to programmatically build these
+- Styling these to work in the layout
+
+You can read more here: [Restaurant Review App - Stage 4: Section 6 Delete & Edit Buttons](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#6-delete--edit-buttons).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 30. Update REST Endpoints
 ### Day 30: October 18, 2018 - Sunday
 
