@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 33. Favorite Button Toggle
+### Day 33: October 22, 2018 - Thursday
+
+**Project:** Host Restaurant Review app
+
+[![RestDB.io](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-30-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-30.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+I'm still wiring up my PWA app to work with a new database backend.
+
+Today's work involved:
+
+- Using Postman to test the Ajax call for toggling favorite status
+- Updating the client code to fetch with new url, method, & endopoint
+
+You can read more here: [Restaurant Review App - Stage 4: Section 8. Favorite Toggle](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#8-favorite-toggle).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 32. Streamline Database
 ### Day 32: October 21, 2018 - Wednesday
 
