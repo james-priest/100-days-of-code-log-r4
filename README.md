@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 32. Streamline Database
+### Day 32: October 21, 2018 - Wednesday
+
+**Project:** Host Restaurant Review app
+
+[![RestDB.io](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-24-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-24.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+Today's work involved:
+
+- Transitioning to use the database's internal system fields
+- Eliminating duplicate fields
+- Updating the code to reflect the new field names
+
+You can read more here: [Restaurant Review App - Stage 4: Section 7. Streamlining Database](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#7-streamline-database).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 31. Edit & Delete Buttons
 ### Day 31: October 19, 2018 - Monday
 
