@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 35. Refactor Modal Code
+### Day 35: October 27, 2018 - Tuesday
+
+**Project:** Host Restaurant Review app
+
+[![Offline](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-34-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-34.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+I'm still wiring up my PWA app to work with a new database back end.
+
+Today's work involved:
+
+- Creating a new modal dialog box
+- Refactoring modal dialog code to work with add and delete operations
+- Update app to work when offline
+- Add sync remote database sync capability
+
+You can read more here: [Restaurant Review App - Stage 4: Section 10. Delete Review](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#10-delete-review).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 34. Add Review Form
 ### Day 34: October 24, 2018 - Saturday
 
