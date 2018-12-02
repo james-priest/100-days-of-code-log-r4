@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 36. Edit Review Records
+### Day 36: October 30, 2018 - Friday
+
+**Project:** Host Restaurant Review app
+
+[![Offline](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-38-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-38.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+I'm still wiring up my PWA app to work with a new database back end.
+
+Today's work involved:
+
+- Wiring up the edit buttons to click handlers
+- Writing code to pre-fill the input form with record data
+- Validation, Error handling, fetch requests and offline queue
+
+You can read more here: [Restaurant Review App - Stage 4: Section 10. Edit Review](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#11-edit-review).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 35. Refactor Modal Code
 ### Day 35: October 27, 2018 - Tuesday
 
