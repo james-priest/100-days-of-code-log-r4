@@ -67,8 +67,38 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 37. UI/UX Form Update
+### Day 37: December 2, 2018 - Sunday
+
+**Project:** Host Restaurant Review app
+
+[![Form Update](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-47-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-47.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+I'm still wiring up my PWA app to work with a new database back end.
+
+Today's work involved:
+
+- Update to the star rating control
+- Update date display
+- Update form display
+
+[![Rating display](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-41-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-41.jpg)
+
+[![Date display](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-42-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-42.jpg)
+
+You can read more here: [Restaurant Review App - Stage 4: Section 12. UI/UX Updates](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#12-uiux-updates).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 36. Edit Review Records
-### Day 36: October 30, 2018 - Friday
+### Day 36: November 30, 2018 - Friday
 
 **Project:** Host Restaurant Review app
 
@@ -84,7 +114,7 @@ Today's work involved:
 - Writing code to pre-fill the input form with record data
 - Validation, Error handling, fetch requests and offline queue
 
-You can read more here: [Restaurant Review App - Stage 4: Section 10. Edit Review](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#11-edit-review).
+You can read more here: [Restaurant Review App - Stage 4: Section 11. Edit Review](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#11-edit-review).
 
 **Links:**
 - My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
@@ -94,7 +124,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 10. Edit Revie
 ---
 
 ## 35. Refactor Modal Code
-### Day 35: October 27, 2018 - Tuesday
+### Day 35: November 27, 2018 - Tuesday
 
 **Project:** Host Restaurant Review app
 
@@ -121,7 +151,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 10. Delete Rev
 ---
 
 ## 34. Add Review Form
-### Day 34: October 24, 2018 - Saturday
+### Day 34: November 24, 2018 - Saturday
 
 **Project:** Host Restaurant Review app
 
@@ -146,7 +176,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 9. POST Review
 ---
 
 ## 33. Favorite Button Toggle
-### Day 33: October 22, 2018 - Thursday
+### Day 33: November 22, 2018 - Thursday
 
 **Project:** Host Restaurant Review app
 
@@ -171,7 +201,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 8. Favorite To
 ---
 
 ## 32. Streamline Database
-### Day 32: October 21, 2018 - Wednesday
+### Day 32: November 21, 2018 - Wednesday
 
 **Project:** Host Restaurant Review app
 
@@ -195,7 +225,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 7. Streamlinin
 ---
 
 ## 31. Edit & Delete Buttons
-### Day 31: October 19, 2018 - Monday
+### Day 31: November 19, 2018 - Monday
 
 **Project:** Host Restaurant Review app
 
@@ -223,7 +253,7 @@ You can read more here: [Restaurant Review App - Stage 4: Section 6 Delete & Edi
 ---
 
 ## 30. Update REST Endpoints
-### Day 30: October 18, 2018 - Sunday
+### Day 30: November 18, 2018 - Sunday
 
 **Project:** Host Restaurant Review app
 
