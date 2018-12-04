@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 38. Update CV Resume
+### Day 38: December 4, 2018 - Tuesday
+
+**Project:** Update CV Resume
+
+[![Form Update](assets/images/code-log-38-small.jpg)](assets/images/code-log-38.jpg)
+
+**Progress:** I added to my online resume and updated some portfolio apps.
+
+Here's what was done:
+
+- Deployed my Restaurant Review app to Netlify
+- Updated CodePens & GitHub Page sites
+- Added classes and courses I've taken to my resume
+- Updated npm packages for each of my projects and resolved any package vulnerabilities
+
+Items Remaining:
+
+- Need to list all training and courses I've taken this year
+- Need to build a stand alone portfolio site tpo showcase each project
+
+**Links:**
+- My CV Resume - [https://james-priest.github.io/](https://james-priest.github.io/)
+
+---
+
 ## 37. UI/UX Form Update
 ### Day 37: December 2, 2018 - Sunday
 
