@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 39. Netlify Build & Deploy
+### Day 39: December 10, 2018 - Monday
+
+**Project:** Host Restaurant Review app
+
+[![Form Update](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-48-small.jpg)](https://james-priest.github.io/mws-restaurant-stage-1/assets/images/4-48.jpg)
+
+**Progress:** Restaurant Review PWA migration
+
+I learned how to build and deploy a website to Netlify using Continuous Deployment.
+
+I had to do the following
+
+- Setup a new site and point it to my GitHub Repo
+- Update my npm packages for security vulnerabilities
+- Create a `.env` file for my API keys
+- Setup build environment variables on Netlify
+- Install `dotenv` npm package
+- Update my gulp build file to utilize `process.env.<var>` syntax
+
+You can read more here: [Restaurant Review App - Stage 4: Section 13. Deploy to Netlify](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#12-uiux-updates).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 38. Update CV Resume
 ### Day 38: December 4, 2018 - Tuesday
 
