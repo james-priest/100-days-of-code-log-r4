@@ -67,6 +67,49 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 40. Restaurant App is Live
+### Day 40: December 11, 2018 - Tuesday
+
+**Project:** Host Restaurant Review app
+
+[![Restaurant App](assets/images/restaurant_app-small.jpg)](assets/images/restaurant_app.jpg)
+
+**Progress:** Restaurant Review PWA migration is complete!
+
+This app was my capstone project for Udacity's Mobile Web Dev Nanodegree.
+
+The project required that we code against various HTML5 APIs with vanilla Javascript. We were not to use the assistance of any frameworks or external libraries except for a Promise library that wrapped the IndexedDB API.
+
+Here's a high level list of some of the functionality this app needed to produce.
+
+- Asynchronous requests (Ajax)
+- Offline-first capability
+- Fully Responsive Design
+- ARIA compliant, Accessible, and Screen Reader/Assistive Technology capable
+- Highly optimized & performant (90+ Audit metrics for Performance, Accessibility, Best Practices, PWA)
+
+Here's a partial list of the APIs and technologies we needed use and demonstrate.
+
+- Service Worker
+- Cache API
+- JavaScript Promises
+- ES 2015 Syntax (arrow functions, destructuring, sting literals, sets, etc.)
+- Fetch API
+- Web Workers
+- Build systems (Grunt, Gulp, BrowserSync, Babel, etc.)
+- Progressive Web App features (Service Worker, App Manifest, caching, etc.)
+
+[![Audit Scores](assets/images/code-log-40-small.jpg)](assets/images/code-log-40.jpg)
+
+You can read more here: [Restaurant Review App - Stage 4: Section 13. Deploy to Netlify](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#12-uiux-updates).
+
+**Links:**
+- My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
+- Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
+
+---
+
 ## 39. Netlify Build & Deploy
 ### Day 39: December 10, 2018 - Monday
 
