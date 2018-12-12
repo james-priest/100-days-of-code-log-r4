@@ -72,7 +72,8 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Project:** Host Restaurant Review app
 
-[![Restaurant App](assets/images/restaurant_app-small.jpg)](assets/images/restaurant_app.jpg)
+[![Restaurant App](assets/images/restaurant_app-small.jpg)](assets/images/restaurant_app.jpg)<br>
+**Live Demo:** [Restaurant Review App](https://restaurant-review-app.netlify.com)
 
 **Progress:** Restaurant Review PWA migration is complete!
 
@@ -101,9 +102,8 @@ Here's a partial list of the APIs and technologies we needed use and demonstrate
 
 [![Audit Scores](assets/images/code-log-40-small.jpg)](assets/images/code-log-40.jpg)
 
-You can read more here: [Restaurant Review App - Stage 4: Section 13. Deploy to Netlify](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#12-uiux-updates).
-
 **Links:**
+- Live Demo - [Restaurant Review App](https://restaurant-review-app.netlify.com)
 - My Project Notes - [Restaurant Review App - Stage 4](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
 - GitHub Repo - [MWS Restaurant Stage 1](https://github.com/james-priest/mws-restaurant-stage-1) - Client App
 - Udacity’s [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) by Google (6 month course)
