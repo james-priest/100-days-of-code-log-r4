@@ -67,6 +67,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 41. Responsive Survey Form
+### Day 41: December 14, 2018 - Friday
+
+**Project:** freeCodeCamp Responsive Web Design Certification
+
+[![Survey Form](assets/images/code-log-41-small.jpg)](assets/images/code-log-41.jpg)<br>
+**CodePen:** [Responsive Survey Form](https://codepen.io/james-priest/pen/vvGpBY?editors=1100)
+
+**Progress:** Another project completed!
+
+This is the third project I've completed out of five required projects necessary for FCC's Responsive Design Certification.
+
+So far I've done the following
+
+- Tribute Page
+- Personal Portfolio WebPage
+- Responsive Survey Form
+
+The survey form uses the following HTML5 & CSS features.
+
+- New HTML5 input types
+- HTML5 input validation
+- Flexbox Layout
+
+[![CodePen Responsive Survey Form](assets/images/code-log-41a-small.jpg)](assets/images/code-log-41a.jpg)
+
+**Links:**
+- CodePen - [Responsive Survey Form](https://codepen.io/james-priest/pen/vvGpBY?editors=1100)
+
+---
+
 ## 40. Restaurant App is Live
 ### Day 40: December 11, 2018 - Tuesday
 
