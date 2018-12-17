@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 42. Product Landing Page
+### Day 42: December 15, 2018 - Saturday
+
+**Project:** freeCodeCamp Responsive Web Design Certification
+
+[![Survey Form](assets/images/code-log-42-small.jpg)](assets/images/code-log-42.jpg)<br>
+**CodePen:** [Product Landing Page](https://codepen.io/james-priest/pen/WLwJvO?editors=1100)
+
+**Progress:** Another project completed!
+
+This is the fourth project out of five required necessary for FCC's Responsive Design Certification.
+
+The Product Landing page has 13 content (HTML) & 3 layout (CSS) tests it must pass in order to be accepted. These include:
+
+- Use of proper Landmark elements (`<header>`, `<footer>`, `<nav>`, `<main>`, etc.)
+- Embedded video
+- `<form>` & `<input>` elements
+- HTML5 validation
+- Fixed header
+- CSS Flexbox Layout
+- Media queries
+
+The page is really nothing more than a skeleton framework for a product landing page. It's still pretty rough and not fully flushed out but it serves to meet the baseline requirements.
+
+[![CodePen Responsive Survey Form](assets/images/code-log-42a-small.jpg)](assets/images/code-log-42a.jpg)
+
+**Links:**
+- CodePen - [Product Landing Page](https://codepen.io/james-priest/pen/WLwJvO?editors=1100)
+- CodePen - [Responsive Survey Form](https://codepen.io/james-priest/pen/vvGpBY?editors=1100)
+- CodePen - [Personal Portfolio WebPage](https://codepen.io/james-priest/pen/prpjEK)
+- CodePen - [Tribute Page](https://codepen.io/james-priest/full/MvEdOV/)
+
+---
+
 ## 41. Responsive Survey Form
 ### Day 41: December 14, 2018 - Friday
 
@@ -81,9 +115,9 @@ This is the third project I've completed out of five required projects necessary
 
 So far I've done the following
 
-- Tribute Page
-- Personal Portfolio WebPage
-- Responsive Survey Form
+- [Tribute Page](https://codepen.io/james-priest/full/MvEdOV/)
+- [Personal Portfolio WebPage](https://codepen.io/james-priest/pen/prpjEK)
+- [Responsive Survey Form](https://codepen.io/james-priest/pen/vvGpBY?editors=1100)
 
 The survey form uses the following HTML5 & CSS features.
 
