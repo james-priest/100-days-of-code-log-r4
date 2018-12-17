@@ -67,6 +67,24 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 44. Responsive Web Design Certification
+### Day 44: December 17, 2018 - Monday
+
+**Project:** freeCodeCamp Responsive Web Design Certification
+
+[![Technical Documentation Page](assets/images/code-log-44-small.jpg)](assets/images/code-log-44.jpg)
+
+**Progress:** Last project completed!
+
+This cert represents approximately 300 hours of coursework.
+
+I actually had done most of it in 2017 but had to put it on hold due to my Udacity Nanodegree scholarship. I've now just gotten back around to finishing the final requirements & assignments.
+
+**Links:**
+- freeCodeCamp - View [Responsive Web Design Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design)
+
+---
+
 ## 43. Technical Documentation
 ### Day 43: December 16, 2018 - Sunday
 
