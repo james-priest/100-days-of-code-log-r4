@@ -67,12 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 43. Technical Documentation
+### Day 43: December 16, 2018 - Sunday
+
+**Project:** freeCodeCamp Responsive Web Design Certification
+
+[![Technical Documentation Page](assets/images/code-log-43-small.jpg)](assets/images/code-log-43.jpg)<br>
+**CodePen:** [Technical Documentation Page](https://codepen.io/james-priest/pen/QzNeZr?editors=0100)
+
+**Progress:** Last project completed!
+
+This is the fifth of five projects required for FCC's Responsive Design Certification.
+
+The Technical Documentation page has 13 content (HTML) & 3 layout (CSS) tests it must pass in order to be accepted. These include:
+
+- Use of proper Landmark elements (`<header>`, `<footer>`, `<nav>`, `<main>`, etc.)
+- Fixed headers
+- Flexbox Layout
+- Media queries
+- Responsive design
+
+This documentation text was taken from the Vue.js website.
+
+[![CodePen Technical Documentation Page](assets/images/code-log-43a-small.jpg)](assets/images/code-log-43a.jpg)
+
+**Links:**
+- CodePen - [Technical Documentation Page](https://codepen.io/james-priest/pen/QzNeZr?editors=0100)
+- CodePen - [Product Landing Page](https://codepen.io/james-priest/pen/WLwJvO?editors=1100)
+- CodePen - [Responsive Survey Form](https://codepen.io/james-priest/pen/vvGpBY?editors=1100)
+- CodePen - [Personal Portfolio WebPage](https://codepen.io/james-priest/pen/prpjEK)
+- CodePen - [Tribute Page](https://codepen.io/james-priest/full/MvEdOV/)
+
+---
+
 ## 42. Product Landing Page
 ### Day 42: December 15, 2018 - Saturday
 
 **Project:** freeCodeCamp Responsive Web Design Certification
 
-[![Survey Form](assets/images/code-log-42-small.jpg)](assets/images/code-log-42.jpg)<br>
+[![Product Landing Page](assets/images/code-log-42-small.jpg)](assets/images/code-log-42.jpg)<br>
 **CodePen:** [Product Landing Page](https://codepen.io/james-priest/pen/WLwJvO?editors=1100)
 
 **Progress:** Another project completed!
@@ -91,7 +124,7 @@ The Product Landing page has 13 content (HTML) & 3 layout (CSS) tests it must pa
 
 The page is really nothing more than a skeleton framework for a product landing page. It's still pretty rough and not fully flushed out but it serves to meet the baseline requirements.
 
-[![CodePen Responsive Survey Form](assets/images/code-log-42a-small.jpg)](assets/images/code-log-42a.jpg)
+[![CodePen Product Landing Page](assets/images/code-log-42a-small.jpg)](assets/images/code-log-42a.jpg)
 
 **Links:**
 - CodePen - [Product Landing Page](https://codepen.io/james-priest/pen/WLwJvO?editors=1100)
