@@ -67,6 +67,24 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 45. JavaScript Algorithms and Data Structures Certification
+### Day 45: December 19, 2018 - Wednesday
+
+**Project:** freeCodeCamp JavaScript Algorithms and Data Structures Certification
+
+[![Technical Documentation Page](assets/images/code-log-45-small.jpg)](assets/images/code-log-45.jpg)
+
+**Progress:** Last project completed!
+
+This cert represents approximately 300 hours of coursework.
+
+I actually had done most of it in 2017 but had to put it on hold due to my Udacity Nanodegree scholarship. I've now just gotten back around to finishing the final requirements & assignments.
+
+**Links:**
+- freeCodeCamp - View [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures)
+
+---
+
 ## 44. Responsive Web Design Certification
 ### Day 44: December 17, 2018 - Monday
 
