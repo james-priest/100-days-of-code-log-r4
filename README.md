@@ -67,6 +67,27 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 46. Roman Numeral Convert
+### Day 46: December 21, 2018 - Friday
+
+**Project:** freeCodeCamp JavaScript Algorithms and Data Structures Certification
+
+[![Roman Numeral Converter](assets/images/code-log-46-small.jpg)](assets/images/code-log-46.jpg)
+
+**Progress:** Redoing some JavaScript Algo's
+
+Now that I have my cert, I'm going back to see where I can refactor and update code. This was a Roman Numeral Converter that required some array manipulation.
+
+I used `.map`, `.split`, `.reverse`, & `.join`. This one was fun bc it challenged without being too difficult.
+
+[![Success message](assets/images/code-log-46a-small.jpg)](assets/images/code-log-46a.jpg)
+
+**Links:**
+- [freeCodeCamp](https://www.freecodecamp.com) 
+- View my FCC [JavaScript Algorithms](https://github.com/james-priest/code-exercises/tree/master/javascript_exercises/fcc/js-algorithms) Solutions on GitHub
+
+---
+
 ## 45. JavaScript Algorithms and Data Structures Certification
 ### Day 45: December 19, 2018 - Wednesday
 
@@ -76,9 +97,13 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Last project completed!
 
-This cert represents approximately 300 hours of coursework.
+This is the second [freeCodeCamp](https://www.freecodecamp.com) certification that I had started in 2017 but had to put on hold because of my Udacity Nanodegree scholarship.
 
-I actually had done most of it in 2017 but had to put it on hold due to my Udacity Nanodegree scholarship. I've now just gotten back around to finishing the final requirements & assignments.
+I finished the last of the final projects today!
+
+This cert actually represents approximately 300 hours of coursework but I still have yet to complete the exercises for each of the sections.
+
+Now that I have the cert, I'm going back to do  each of the exercises before attempting the final projects once again. This will show me anything new I've learned and will give me a chance to refactor and tighten up my code.
 
 **Links:**
 - freeCodeCamp - View [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures)
