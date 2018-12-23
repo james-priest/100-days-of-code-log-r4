@@ -67,6 +67,46 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 47. React Fundamentals
+### Day 47: December 22, 2018 - Saturday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![React Ecosystem](https://james-priest.github.io/tm-react-fundamentals/assets/images/10-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/10.jpg)
+
+**Progress:** Just started Tyler's React Fundamentals course.
+
+I haven't done any coding yet but I love that he takes the time to set the stage and give some necessary context to what React is all about.
+
+He started by explaining some of the features of React.
+
+- Uses Composition
+- Declarative
+- Unidirectional data flow
+- Explicit mutations
+- Just JavaScript
+
+He then breaks down the React ecosystem and explains the following:
+
+- React
+- React Router
+- Webpack
+- Babel
+- Axios
+
+Lastly, he covered additional examples of imperative vs declarative code and the benefits of declarative.
+
+See [my notes](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html) to get a better sense of the material covered including:
+- Why React?
+- The React Ecosystem
+- Imperative vs. Declarative
+
+**Links:**
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 46. Roman Numeral Convert
 ### Day 46: December 21, 2018 - Friday
 
