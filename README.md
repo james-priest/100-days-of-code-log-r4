@@ -67,6 +67,59 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 48. Npm Scopes
+### Day 48: December 23, 2018 - Sunday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![npm install](assets/images/code-log-48-small.jpg)](assets/images/code-log-48.jpg)
+
+**Progress:** Learned something new about npm!
+
+#### Old way
+
+Previously, I was installing all my babel packages without using `@babel` scope.  This means my installs were going like this.
+
+```bash
+npm install --save-dev babel-core babel-preset-env babel-preset-react
+```
+
+It would then place these three related packages in the root of `node_modules` directory.
+
+```text
+/node_modules
+  - babel-core
+  - babel-preset-env
+  - babel-preset-react
+```
+
+#### New way
+Now I see I can install related packages to the same scoped directory provided the scoped packages exist.
+
+The same install would look like this.
+
+```bash
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react
+```
+
+The directory would look like this.
+
+```text
+/node_modules
+  - @babel
+    - core
+    - preset-env
+    - preset-react
+```
+
+This is a lot cleaner and allows me to keep related packages together.
+
+**Links:**
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 47. React Fundamentals
 ### Day 47: December 22, 2018 - Saturday
 
@@ -97,7 +150,7 @@ He then breaks down the React ecosystem and explains the following:
 Lastly, he covered additional examples of imperative vs declarative code and the benefits of declarative.
 
 See [my notes](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html) to get a better sense of the material covered including:
-- Why React?
+- Why React
 - The React Ecosystem
 - Imperative vs. Declarative
 
