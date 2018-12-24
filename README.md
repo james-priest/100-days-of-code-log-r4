@@ -78,20 +78,13 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 #### Old way
 
-Previously, I was installing all my babel packages without using `@babel` scope.  This means my installs were going like this.
+Previously, I was installing all my babel packages without using `@babel` scope.  This means my installs looked like this.
 
 ```bash
 npm install --save-dev babel-core babel-preset-env babel-preset-react
 ```
 
 It would then place these three related packages in the root of `node_modules` directory.
-
-```text
-/node_modules
-  - babel-core
-  - babel-preset-env
-  - babel-preset-react
-```
 
 #### New way
 Now I see I can install related packages to the same scoped directory provided the scoped packages exist.
@@ -102,14 +95,15 @@ The same install would look like this.
 npm install --save-dev @babel/core @babel/preset-env @babel/preset-react
 ```
 
-The directory would look like this.
+Here's the directory structures
 
 ```text
-/node_modules
-  - @babel
-    - core
-    - preset-env
-    - preset-react
+OLD DIRECTORY STRUCTURE         NEW DIRECTORY STRUCTURE
+/node_modules                   / node_modules
+  - babel-core                    - @babel
+  - babel-preset-env                - core
+  - babel-preset-react              - preset-env
+                                    - preset-react
 ```
 
 This is a lot cleaner and allows me to keep related packages together.
