@@ -72,15 +72,13 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
 
-<!-- [![npm install](assets/images/code-log-48-small.jpg)](assets/images/code-log-48.jpg) -->
-
 ```jsx
 var React = require('react');
 var ReactDOM = require('react-dom');
 class HelloWorld extends React.Component {
   render() {
     return (
-      <div>Hello World!</div>
+      <div>Hello React!</div>
     )
   }
 }
@@ -95,6 +93,8 @@ Learned about
 - ES6 Classes
 - JSX
 - render method
+
+[![first react component](assets/images/code-log-50-small.jpg)](assets/images/code-log-50.jpg)
 
 You can read more in my notes: [First React Component](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#5-first-react-component)
 
