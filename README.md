@@ -97,15 +97,15 @@ module.exports = {
 }
 ```
 
-**Progress:** The next step in this course was about learning Webpack.
+**Progress:** The next step in this course was learning how to configure Webpack.
 
-In essence, Webpack, at its core, is a code bundler. It takes your code, transforms and bundles it, then returns a new version of your code.
+> Webpack, at its core, is a code bundler. It takes your code, transforms and bundles it, then returns a new version of your code.
 
 I learned about
 
 - Setting an entry point
 - Using loaders for transformations
-- Setting output directory
+- Setting the output directory
 - Specifying an HTML template
 - Using webpack-dev-server
 
