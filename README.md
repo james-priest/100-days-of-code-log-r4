@@ -67,6 +67,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 49. React Webpack Config
+### Day 49: December 24, 2018 - Monday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+<!-- [![npm install](assets/images/code-log-48-small.jpg)](assets/images/code-log-48.jpg) -->
+
+```js
+// In webpack.config.js
+module.exports = {
+  entry: './app/index.js',
+  module: {
+    rules: [
+      { test: /\.(js)$/, use: 'babel-loader' },
+      { test: /\.css$/, use: { 'style-loader', 'css-loader' }}
+    ]
+  },
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'index_bundle.js'
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: 'app/index.html'
+    })
+  ],
+  mode: "development"
+}
+```
+
+**Progress:** The next step in this course was about learning Webpack.
+
+In essence, Webpack, at its core, is a code bundler. It takes your code, transforms and bundles it, then returns a new version of your code.
+
+I learned about
+
+- Setting an entry point
+- Using loaders for transformations
+- Setting output directory
+- Specifying an HTML template
+- Using webpack-dev-server
+
+You can read more in my notes: [React Setup](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#4-react-setup)
+
+**Links:**
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 48. Npm Scopes
 ### Day 48: December 23, 2018 - Sunday
 
