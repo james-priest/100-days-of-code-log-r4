@@ -67,6 +67,43 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 50. First React Component
+### Day 50: December 25, 2018 - Tuesday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+<!-- [![npm install](assets/images/code-log-48-small.jpg)](assets/images/code-log-48.jpg) -->
+
+```jsx
+var React = require('react');
+var ReactDOM = require('react-dom');
+class HelloWorld extends React.Component {
+  render() {
+    return (
+      <div>Hello World!</div>
+    )
+  }
+}
+ReactDOM.render(<HelloWorld />, document.getElementById('app'));
+```
+
+**Progress:** This part of the course began deconstructing the aspects of a React component. It also contrasted that with a React element.
+
+Learned about
+
+- React & ReactDOM modules
+- ES6 Classes
+- JSX
+- render method
+
+You can read more in my notes: [First React Component](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#5-first-react-component)
+
+**Links:**
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 49. React Webpack Config
 ### Day 49: December 24, 2018 - Monday
 
