@@ -67,6 +67,46 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 51. ESLint, Airbnb, & Prettier
+### Day 51: December 31, 2018 - Monday
+
+**Project:** Configure linting & code formatting in VS Code for React development.
+
+[![vscode](https://james-priest.github.io/tm-react-fundamentals/assets/images/12-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/12.jpg)
+
+**Progress:** I spent the last 8 days experimenting with every kind of linting and code formatting configuration I could find for React development within VSCode.
+
+I knew I wanted the following:
+
+- Error highlighting
+- Emphasis of best coding practices
+- Nicely formatted code
+
+I found that in the following:
+
+- **ESLint** for linting, **Airbnb** for coding style, and **Prettier** for code formatting.
+
+ So far, so good. The real craziness started with trying to determine which packages, plugins, & configurations I should be using.
+
+In all, I tried about 20 different package combinations before getting everything to work properly.
+
+Here are a couple things I learned.
+
+**Prettier & ESLint explained**
+
+- **Prettier** ([https://prettier.io](https://prettier.io/docs/en/index.html)) formats your code and nothing more. It's opinionated and therefore only has a few configurable formatting rules (single or double quotes, semi colon, etc.). It will reformat your code but does not help with code quality.
+- **ESLint** ([https://eslint.org](https://eslint.org/docs/user-guide/getting-started)) handles both code quality AND code formatting (depending on which rules or Style Guide you use). If you use Prettier then you should turn off ESLint's code formatting rules. There are packages to do this automatically.
+- **Airbnb** ([https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)) Provides a set of code style rules from which to work. This covers possible errors, best practices, and stylistic choices.
+
+You can read more in my notes: [React Fundamentals - 6. ESLint, Airbnb, & Prettier](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#6-eslint-airbnb--prettier)
+
+**Links:**
+- GitHub - [React Start App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 50. First React Component
 ### Day 50: December 25, 2018 - Tuesday
 
@@ -96,7 +136,7 @@ Learned about
 
 [![first react component](assets/images/code-log-50-small.jpg)](assets/images/code-log-50.jpg)
 
-You can read more in my notes: [First React Component](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#5-first-react-component)
+You can read more in my notes: [React Fundamentals - 5. First React Component](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#5-first-react-component)
 
 **Links:**
 - Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
@@ -146,7 +186,7 @@ I learned about
 - Specifying an HTML template
 - Using webpack-dev-server
 
-You can read more in my notes: [React Setup](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#4-react-setup)
+You can read more in my notes: [React Fundamentals - 4. React Setup](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#4-react-setup)
 
 **Links:**
 - Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
@@ -230,7 +270,8 @@ He then breaks down the React ecosystem and explains the following:
 
 Lastly, he covered additional examples of imperative vs declarative code and the benefits of declarative.
 
-See [my notes](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html) to get a better sense of the material covered including:
+See my notes [React Fundamentals 1. Why React](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html) to get a better sense of the material covered including:
+
 - Why React
 - The React Ecosystem
 - Imperative vs. Declarative
