@@ -64,19 +64,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 ---
 
-
+-->
 ---
 
-## 53. React Props
+## 53. React Props & State
 ### Day 53: January 3, 2018 - Thursday
 
 **Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
 
 [![vscode](https://james-priest.github.io/tm-react-fundamentals/assets/images/13-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/13.jpg)
 
-**Progress:** 
+**Progress:** Learned about props today.
 
-You can read more in my notes: [React Fundamentals - 6. ESLint, Airbnb, & Prettier](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#6-eslint-airbnb--prettier)
+Here are some specifics
+
+- React is very good at managing state
+- The system for passing data from one component to a child component is through props
+- Props are to component what arguments are to functions
+
+Here's a basic way of coding the component above.
+
+```jsx
+const React = require('react');
+const ReactDOM = require('react-dom');
+
+class Badge extends React.Component {
+  render() {
+    return (
+      <div>
+        <h1>Badge 1</h1>
+        <img src={this.props.img} alt="" />
+        <h2>Name: {this.props.name}</h2>
+        <h3>Username: {this.props.username}</h3>
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+  <Badge
+    name="James Priest"
+    username="james-priest"
+    img="https://avatars1.githubusercontent.com/u/27903822?s=460&v=4"
+  />,
+  document.getElementById('app')
+);
+```
+
+To see more advanced examples of props using ES6 destructuring see course notes.
+
+You can read more here: [React Fundamentals - 7. Dataflow with Props](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#7-dataflow-with-props)
 
 **Links:**
 - GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
@@ -84,7 +121,6 @@ You can read more in my notes: [React Fundamentals - 6. ESLint, Airbnb, & Pretti
 - Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
 
 ---
--->
 
 ## 52. React Nanodegree
 ### Day 52: January 2, 2018 - Wednesday
