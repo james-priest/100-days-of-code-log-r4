@@ -64,7 +64,50 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 ---
 
+
+---
+
+## 53. React Props
+### Day 53: January 3, 2018 - Thursday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![vscode](https://james-priest.github.io/tm-react-fundamentals/assets/images/13-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/13.jpg)
+
+**Progress:** 
+
+You can read more in my notes: [React Fundamentals - 6. ESLint, Airbnb, & Prettier](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#6-eslint-airbnb--prettier)
+
+**Links:**
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
 -->
+
+## 52. React Nanodegree
+### Day 52: January 2, 2018 - Wednesday
+
+**Project:** Udacity React Nanodegree
+
+[![Udacity React Nanodegree](assets/images/code-log-52-small.jpg)](assets/images/code-log-52.jpg)
+
+**Progress:** I signed up for Udacity's React Nanodegree program today.
+
+I had such a good experience with the Mobile Web Specialist Nanodegree program that I figured I'd use Udacity to get my React training as well.
+
+This is a four months program that will cover the following:
+
+- React
+- Redux
+- React Native
+
+We will also be required to build a separate project using each of the three technologies in order to receive our certification and complete the program.
+
+**Links:**
+- Link to [Udacity React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+
 ---
 
 ## 51. ESLint, Airbnb, & Prettier
@@ -101,7 +144,7 @@ Here are a couple things I learned.
 You can read more in my notes: [React Fundamentals - 6. ESLint, Airbnb, & Prettier](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#6-eslint-airbnb--prettier)
 
 **Links:**
-- GitHub - [React Start App](https://github.com/james-priest/react-starter-app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
 - Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
 - Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
 
