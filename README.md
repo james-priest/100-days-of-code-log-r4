@@ -67,6 +67,73 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 54. React List map & filter
+### Day 54: January 4, 2018 - Friday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![vscode](https://james-priest.github.io/tm-react-fundamentals/assets/images/16-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/16.jpg)
+
+**Progress:** Today I worked with lists using `.map` & `.filter`.
+
+- Map allows us to cycle through an array and output each value to the UI
+- Filter allows us to return array elements that match a certain condition
+
+Here's a basic mapping example that uses a parent and child component.
+
+```jsx
+class FriendsContainer extends React.Component {
+  render() {
+    const name = 'James Priest';
+    const friends = ['Evi', 'Joeylene', 'Brittany', 'Anusha', 'Divya'];
+    const containerStyle = {
+      border: '1px solid blue',
+      padding: '10px'
+    };
+    return (
+      <div style={containerStyle}>
+        <h3>Name : {name}</h3>
+        <ShowList names={friends} />
+      </div>
+    );
+  }
+}
+
+class ShowList extends React.Component {
+  render() {
+    const { names } = this.props;
+    const listStyle = {
+      border: '1px solid red',
+      padding: '10px'
+    };
+    return (
+      <div style={listStyle}>
+        <h3>Twitter Friends</h3>
+        <ul>
+          {names.map(friend => (
+            <li key={friend}>{friend}</li>
+          ))}
+        </ul>
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(<FriendsContainer />, document.getElementById('app'));
+```
+
+To see more advanced examples including the use of filter you can check my notes.
+
+You can read more here: [React Fundamentals - 7.3 Lists with map & filter](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#73-lists-with-map--filter)
+
+**Links:**
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/master/app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 53. React Props & State
 ### Day 53: January 3, 2018 - Thursday
 
