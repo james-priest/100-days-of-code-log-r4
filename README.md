@@ -67,6 +67,69 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 55. React Composition & PropTypes
+### Day 55: January 5, 2018 - Saturday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![component](https://james-priest.github.io/tm-react-fundamentals/assets/images/18-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/18.jpg)
+
+**Progress:** Today I learned about the following:
+
+- Functional composition
+- Stateless Functional Components
+- Pure functions
+- Type checking with PropTypes
+
+Here's an example of components written as functions.
+
+```jsx
+const ProfilePic = function(props) {
+  const { username } = props;
+  return <img src={`#${username}`} alt="" />;
+};
+
+const ProfileLink = function(props) {
+  const { username } = props;
+  return <a href={`https://www.fb.com/${username}`}>{username}</a>;
+};
+
+const Avatar = function(props) {
+  const { username } = props;
+  return (
+    <div>
+      <h3>Stateless Functional Components</h3>
+      <ProfilePic username={username} />
+      <ProfileLink username={username} />
+    </div>
+  );
+};
+<Avatar username="james-priest" />
+```
+
+Here's an example of PropTypes being defined.
+
+```jsx
+Users.propTypes = {
+  list: PropTypes.arrayOf(PropTypes.string).isRequired
+};
+
+ReactDOM.render(
+  <Users list={['Tyler', 'Mikenzi', 'Ryan', 'Michael', 23]} />,
+  document.getElementById('app')
+);
+```
+
+You can read more here: [React Fundamentals - 8.1 Functional Composition](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#81-functional-composition)
+
+**Links:**
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/master/app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 54. React List map & filter
 ### Day 54: January 4, 2018 - Friday
 
