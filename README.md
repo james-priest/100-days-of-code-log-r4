@@ -67,6 +67,48 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 56. 4 Types of Binding 'this'
+### Day 56: January 6, 2018 - Sunday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+```js
+// Implicit Binding
+// Left of the Dot at Call Time
+var me = {
+  name: 'James',
+  age: 48,
+  sayName: function() {
+    console.log(this.name);
+  }
+};
+
+me.sayName(); // James
+```
+
+**Progress:** Today I reviewed the `this` keyword in depth.
+
+`this` is one of the most misunderstood aspects of JavaScript because it's context changes based on how the function or method containing `this` is invoked.
+
+I learned there are 4 types of binding for `this` keyword.
+
+- **Implicit Binding** - based on context/object used to call the function
+- **Explicit Binding** - **.call()**, **.apply()**, or **.bind()** used to invoke the function
+- **new Binding** - invoked with a **new** keyword and set to the newly created object
+- **window Binding** - bound to the **window** object if the function is not called using any of the previous three options
+
+The lesson goes into depth regarding what specifically is happening in each of the cases above and gives code examples.
+
+You can read more here: [React Fundamentals - 9. The 'this' keyword](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#9-the-this-keyword)
+
+**Links:**
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/first-components/app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 55. React Composition & PropTypes
 ### Day 55: January 5, 2018 - Saturday
 
@@ -123,7 +165,7 @@ ReactDOM.render(
 You can read more here: [React Fundamentals - 8.1 Functional Composition](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#81-functional-composition)
 
 **Links:**
-- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/master/app)
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/first-components/app)
 - GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
 - Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
 - Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
@@ -190,7 +232,7 @@ To see more advanced examples including the use of filter you can check my notes
 You can read more here: [React Fundamentals - 7.3 Lists with map & filter](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#73-lists-with-map--filter)
 
 **Links:**
-- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/master/app)
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/first-components/app)
 - GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
 - Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
 - Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
