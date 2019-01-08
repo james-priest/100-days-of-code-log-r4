@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 57. React State
+### Day 57: January 7, 2018 - Monday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![Popular component](assets/images/code-log-57-small.jpg)](assets/images/code-log-57.jpg)
+
+**Progress:** Today I build my first component that used State.
+
+The previous day was spent on JavaScript's `this` keyword along with `.call()`, `.apply()` and `.bind()` function methods.
+
+This was a necessary precursor to understanding how to manage state and set the context of the `this` keyword.
+
+The component I built was a simple clickable list that kept track of which item was clicked.  This will be part of a larger UI that displays detail information based on the selected language.
+
+You can read more here: [React Fundamentals - 9. The 'this' keyword](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#9-the-this-keyword)
+
+**Links:**
+- GitHub - [Popular React component](https://github.com/james-priest/github-battle/tree/popular/app/components)
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/first-components/app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 56. 4 Types of Binding 'this'
 ### Day 56: January 6, 2018 - Sunday
 
