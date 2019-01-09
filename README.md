@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 58. Component State
+### Day 58: January 8, 2018 - Tuesday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![component state](https://james-priest.github.io/tm-react-fundamentals/assets/images/22-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/22.jpg)
+
+**Progress:** Today I documented everything that went into creating state for a component.
+
+This includes:
+
+- Updating the App structure to use require & module exports (CommonJS)
+- Building the component
+- Adding default state in the class constructor
+- Creating a function to update state
+- Hooking up the click handler
+- Using `.bind` to make sure `this` is in the right context
+- Applying style based on state
+
+You can read more in my notes: [React Fundamentals - 10. Component State](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#10-component-state)
+
+**Links:**
+- GitHub - [Popular React component](https://github.com/james-priest/github-battle/tree/popular/app/components)
+- GitHub - [My React Code samples](https://github.com/james-priest/github-battle/tree/first-components/app)
+- GitHub - [React Starter App](https://github.com/james-priest/react-starter-app)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 57. React State
 ### Day 57: January 7, 2018 - Monday
 
