@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 59. Why React
+### Day 59: January 9, 2018 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![tyler](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf1-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf1.jpg)
+
+**Progress:** I started my Udacity React Nanodegree Program today.
+
+This first lesson covered to following.
+
+- Why React?
+- What is Composition
+- Declarative vs. Imperative code
+
+You can read more in my notes: [Udacity React Fundamentals - 1. Why React](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#1-why-react)
+
+**Links:**
+
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 58. Component State
 ### Day 58: January 8, 2018 - Tuesday
 
