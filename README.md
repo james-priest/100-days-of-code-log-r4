@@ -67,6 +67,62 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 60. React Higher-Order Functions
+### Day 60: January 10, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![jsx map](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf3-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf3.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson discussed
+
+- Unidirectional data flow in React (vs bi-directional for Angular & Ember)
+- JavaScript higher-order functions such as map, filter, & reduce
+- ES6 syntax - destructuring, spread, and rest operators
+
+Then the lesson started skirting the realm of Functional Programming with concepts of **currying** and **functional composition**
+
+I was kind of blown away by the following code sample...
+
+```js
+const shelf1 = [{name: 'book1', shelf: 'a'},{name: 'book2', shelf: 'a'}];
+const shelf2 = [{name: 'book3', shelf: 'b'},{name: 'book4', shelf: 'b'}];
+const allBooks = [...shelf1, ...shelf2];
+
+const filter = books => shelf => books.filter(b => {
+  return b.shelf === shelf;
+});
+
+// currying.. produces array with 2 objects: book3 & book4
+const shelf = filter(allBooks)('b'); // (2) [{...}, {...}]
+
+console.log(shelf); // (2) [{...}, {...}]
+```
+
+Notice the use of double arrow functions in the `filter` function expression we created.
+
+```js
+const filterBy = filter(allBooks); // partial function
+const booksOnShelf = filterBy('b');
+
+console.log(booksOnShelf) // (2) [{...}, {...}]
+```
+
+Here we see the use of **currying** and **partial functions**. We also see the use of double arrow functions on the same line. The Blog Post [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/) does a great job of explaining this sorcery.
+
+You can read more in my notes: [Udacity React Fundamentals - 1.5 React is Just javaScript](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#15-react-is-just-javascript)
+
+
+**Links:**
+
+- Blog Post - [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 59. Why React
 ### Day 59: January 9, 2018 - Wednesday
 
