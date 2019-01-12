@@ -67,6 +67,34 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 61. React UI Rendering
+### Day 61: January 11, 2018 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![jsx map](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson covered
+
+- React & ReactDOM libraries
+- React.createElement
+- Nested elements
+- List data
+- JSX
+- Component Intro
+
+You can read more in my notes: [Udacity React Fundamentals - 2.1 Rendering UI Intro](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#21-rendering-ui-intro)
+
+**Links:**
+
+- Blog Post - [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 60. React Higher-Order Functions
 ### Day 60: January 10, 2018 - Thursday
 
@@ -113,7 +141,6 @@ console.log(booksOnShelf) // (2) [{...}, {...}]
 Here we see the use of **currying** and **partial functions**. We also see the use of double arrow functions on the same line. The Blog Post [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/) does a great job of explaining this sorcery.
 
 You can read more in my notes: [Udacity React Fundamentals - 1.5 React is Just javaScript](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#15-react-is-just-javascript)
-
 
 **Links:**
 
