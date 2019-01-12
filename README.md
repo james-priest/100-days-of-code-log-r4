@@ -67,16 +67,20 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 61. React UI Rendering
+## 61. CodeSandbox & React
 ### Day 61: January 11, 2018 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![jsx map](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8.jpg)
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf8.jpg)
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
-Today's lesson covered
+Today I used [CodeSandbox](https://codesandbox.io) to quickly spin up React dev environments for testing out various React concepts.
+
+I LOVE this app. It is super easy to use. Includes ESLint, Prettier, great UI. Also has a beautiful editor with clean Color Themes and awesome monospace font (Dank Mono).
+
+I used it to work on the following lesson exercises.
 
 - React & ReactDOM libraries
 - React.createElement
