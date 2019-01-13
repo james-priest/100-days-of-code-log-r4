@@ -67,6 +67,31 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 62. Simple Composition
+### Day 62: January 12, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Components](assets/images/code-log-62-small.jpg)](assets/images/code-log-62.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today lesson covered the following
+
+- Installing & using Create React App for a quick, no-config build environment
+- Composing elements together within components
+- Composing components together to form a UI or View
+
+You can read more in my notes: [Udacity React Fundamentals - 2.3 Create React App](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#23-create-react-app)
+
+**Links:**
+
+- CodeSandbox - [Simple Composition - Contacts](https://codesandbox.io/s/p98n45z1wq)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 61. CodeSandbox & React
 ### Day 61: January 11, 2018 - Friday
 
