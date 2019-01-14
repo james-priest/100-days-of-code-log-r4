@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 63. Passing Data With Props
+### Day 63: January 13, 2018 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf20-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf20.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today lesson covered the following
+
+- Passing data with props
+- Mapping over an array to create elements
+- Creating Inline styles specific to each record
+
+You can read more in my notes: [Udacity React Fundamentals - 3.2 Passing Data with Props](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#32-pass-data-with-props)
+
+**Links:**
+
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 62. Simple Composition
 ### Day 62: January 12, 2018 - Saturday
 
