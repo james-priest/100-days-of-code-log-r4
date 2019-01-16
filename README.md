@@ -67,6 +67,61 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 64. React Props Exercise 1
+### Day 64: January 14, 2018 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf21-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf21.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I worked on a props exercise. It required the following:
+
+- Passing three different data sets with props
+- Mapping over one of the data sets to create related elements
+- Using the other two data set object stores as lookups for display data
+
+Here's an example of the data used.
+
+```js
+const profiles = [
+  {
+    id: 1,
+    userID: '1',
+    favoriteMovieID: '1',
+  },
+  // more records...
+];
+
+const users = {
+  1: {
+    id: 1,
+    name: 'Jane Cruz',
+    userName: 'coder',
+  },
+  // more records...
+};
+
+const movies = {
+  1: {
+    id: 1,
+    name: 'Planet Earth 1',
+  },
+  // more records...
+};
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.4 Ex 1 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#34-ex-1---passing-data)
+
+**Links:**
+
+- Codesandbox.io - [Exercise 1 - Passing Data](https://codesandbox.io/s/42xj4xq7l4)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 63. Passing Data With Props
 ### Day 63: January 13, 2018 - Sunday
 
