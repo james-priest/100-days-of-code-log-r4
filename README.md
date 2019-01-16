@@ -67,6 +67,52 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 65. React Props Exercise 2
+### Day 65: January 15, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf23-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf23.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I worked on more React props exercises. This one required the following:
+
+- Splitting the UI over multiple nested components
+- Mapping, filtering, and resolving data from objects
+- Converting between objects and arrays using `Object.keys()` & `Object.values()`
+
+Here's some sample code.
+
+```jsx
+class PopularMovies extends Component {
+  render() {
+    const { profiles, users, movies } = this.props;
+    const moviesArr = Object.values(movies);
+    return (
+      <div className="PopularMovies-container">
+        {moviesArr.map(movie => (
+          <div key={movie.id} className="PopularMovies-cell">
+            <h3>{movie.name}</h3>
+            <UserList movieID={movie.id} users={users} profiles={profiles} />
+          </div>
+        ))}
+      </div>
+    );
+  }
+}
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.5 Ex 2 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#35-ex-2---passing-data)
+
+**Links:**
+
+- Live Demo - [Edit on CodeSandbox - Exercise 2 - Passing Data](https://codesandbox.io/s/m3mny1540p)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 64. React Props Exercise 1
 ### Day 64: January 14, 2018 - Monday
 
@@ -116,7 +162,7 @@ You can read more in my notes: [Udacity React Fundamentals - 3.4 Ex 1 - Passing 
 
 **Links:**
 
-- Codesandbox.io - [Exercise 1 - Passing Data](https://codesandbox.io/s/42xj4xq7l4)
+- Live Demo - [Edit on CodeSandbox - Exercise 1 - Passing Data](https://codesandbox.io/s/42xj4xq7l4)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -141,6 +187,7 @@ You can read more in my notes: [Udacity React Fundamentals - 3.2 Passing Data wi
 
 **Links:**
 
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/qk7olqz52j)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
