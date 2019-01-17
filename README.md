@@ -67,6 +67,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 66. Stateless Fn Components
+### Day 66: January 16, 2018 - Wednesday
+
+**Project:** [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+[![component state](https://james-priest.github.io/tm-react-fundamentals/assets/images/26-small.jpg)](https://james-priest.github.io/tm-react-fundamentals/assets/images/26.jpg)
+
+**Progress:** Today I learned about Stateless Functional Components
+
+The lesson focused on refactoring the list portion of the UI shown above from a class component to a functional one.
+
+Here are a few bullet points on using functions in place of classes for components.
+
+- Can be used if our class component only has a `render()` method.
+- Simpler and reduced syntax
+- Takes in props and returns UI
+- Doesn't rely on 'this' keyword
+
+One key take-away from the lesson was the statement.
+
+> "If you’re using React correctly, you’re going to notice you have a lot of components that simply take in some data via props and output some UI"
+
+You can read more in my notes: [React Fundamentals - 11.1 Stateless Fn Explained](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html#111-stateless-fn-explained)
+
+**Links:**
+- GitHub - [Popular React component](https://github.com/james-priest/github-battle/tree/stateless-fn-components)
+- Course notes - [React Fundamentals](https://james-priest.github.io/tm-react-fundamentals/react-fundamentals.html)
+- Link to [Tyler McGinnis React Fundamentals course](https://tylermcginnis.com/courses/react-fundamentals/)
+
+---
+
 ## 65. React Props Exercise 2
 ### Day 65: January 15, 2018 - Tuesday
 
