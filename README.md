@@ -67,6 +67,89 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 67. Functional Components
+### Day 67: January 17, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf27-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf27.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's exercises consisted of converting class components to stateless functional components.
+
+Once again, this should be done if our component only has a `render()` method.
+
+Here's the MovieCardList component.
+
+```jsx
+const MovieCardsList = props => {
+  const { profiles, users, movies } = this.props;
+  const usersByMovie = {}; // create empty object
+
+  profiles.forEach(profile => {
+    const movieID = profile.favoriteMovieID; // get movieID as key
+
+    if (usersByMovie[movieID]) { // loop thru ea. profile item
+      usersByMovie[movieID].push(profile.userID); // push user onto array
+    } else { // else if movie key does not exit
+      usersByMovie[movieID] = [profile.userID]; // assign user array to key
+    }
+  });
+
+  const movieCards = Object.keys(movies).map(id => (
+    <MovieCard
+      key={id}
+      users={users}
+      usersWhoLikedMovie={usersByMovie[id]}
+      movieInfo={movies[id]}
+    />
+  ));
+
+  return <ul>{movieCards}</ul>;
+}
+```
+
+Here's the child MovieCard component.
+
+```jsx
+const MovieCard = props => {
+  const { users, usersWhoLikedMovie, movieInfo } = props;
+
+  return (
+    <li key={movieInfo.id}>
+      <h2>{movieInfo.name}</h2>
+      <h3>Liked By:</h3>
+
+      {!usersWhoLikedMovie || usersWhoLikedMovie.length === 0 ? (
+        <p>None of the current users liked this movie.</p>
+      ) : (
+        <ul>
+          {usersWhoLikedMovie &&
+            usersWhoLikedMovie.map(userId => {
+              return (
+                <li key={userId}>
+                  <p>{users[userId].name}</p>
+                </li>
+              );
+            })}
+        </ul>
+      )}
+    </li>
+  );
+}
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.6 Functional Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#36-functional-components)
+
+**Links:**
+
+- Live Demo - [Edit on CodeSandbox - Ex - Functional Component](https://codesandbox.io/s/p3roynm48q)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 66. Stateless Fn Components
 ### Day 66: January 16, 2018 - Wednesday
 
@@ -80,7 +163,7 @@ The lesson focused on refactoring the list portion of the UI shown above from a 
 
 Here are a few bullet points on using functions in place of classes for components.
 
-- Can be used if our class component only has a `render()` method.
+- Can be used if our class component only has a `render()` method
 - Simpler and reduced syntax
 - Takes in props and returns UI
 - Doesn't rely on 'this' keyword
