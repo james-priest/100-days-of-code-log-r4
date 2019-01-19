@@ -67,6 +67,58 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 68. Adding Component State
+### Day 68: January 18, 2018 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf25-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf25.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson consisted of adding state to a component.
+
+Here are some take-aways.
+
+- React `props` represent "read-only" immutable data
+- React `state` on the other hand represents mutable data
+- React `state` is tied to how the application looks
+- An update to state, updates the UI
+
+To add state to our components, all we need to do is add a state property to our class whose value is an object. This object represents the state of our component.
+
+We can either add it as a class field,
+
+```jsx
+class User extends React.Component {
+  state = {
+    username: 'Tyler'
+  }
+}
+```
+
+or we can add it in the constructor
+
+```jsx
+class User extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      username: 'Tyler'
+    };
+  }
+}
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.8 Add Component State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#38-add-component-state)
+
+**Links:**
+
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 67. Functional Components
 ### Day 67: January 17, 2018 - Thursday
 
