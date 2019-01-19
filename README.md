@@ -67,6 +67,47 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 69. Updating Component State
+### Day 69: January 19, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf29-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf29.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson consisted of updating component state.
+
+State can be set with `setState()` and can either be done by passing in a function.
+
+```jsx
+// setState function
+this.setState(prevState => ({ // <- implicit return of an object
+  count: prevState.count + 1
+}))
+```
+
+or it can be done by passing in an object
+
+```jsx
+// setState object
+this.setState({
+  username: 'James'
+})
+```
+
+Once state is updated React knows this and will call render() to re-render the component. This allows for fast, efficient updates to the app's UI.
+
+You can read more in my notes: [Udacity React Fundamentals - 3.9 Updating State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#39-updating-state)
+
+**Links:**
+
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 68. Adding Component State
 ### Day 68: January 18, 2018 - Friday
 
