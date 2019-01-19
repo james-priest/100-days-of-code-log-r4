@@ -67,7 +67,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 69. Updating Component State
+## 69. Update Component State
 ### Day 69: January 19, 2018 - Saturday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
