@@ -67,6 +67,27 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 70. React - Main Concepts
+### Day 70: January 20, 2018 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![React Docs](assets/images/code-log-70-small.jpg)](assets/images/code-log-70.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I spent the day going through React's Main Concepts documentation. This consists of 12 sections that build upon each other and each detail a different fundamental aspect of the React ecosystem.
+
+You can read more in my notes: [Udacity React Fundamentals - 3.9 Updating State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#39-updating-state)
+
+**Links:**
+
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 69. Update Component State
 ### Day 69: January 19, 2018 - Saturday
 
