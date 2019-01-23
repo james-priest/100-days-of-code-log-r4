@@ -67,6 +67,45 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 71. Manage Component State
+### Day 71: January 22, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Code Sandbox](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf32-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf32.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson took me 3 days to complete properly. It consisted of building out a simple Mental Math game with **props** and **state**.
+
+I learned about the following
+
+- Lifting state to a parent component
+- Passing data and handler functions as props
+- Binding 'this' to handler defined in a parent component
+- Avoid using .bind() and arrow functions in render() methods
+
+I read a couple great articles by Cory House on the subject.
+
+> #### ⚠️ Avoid arrow functions & .bind() in render() ⚠️
+> We generally want to avoid declaring arrow functions or binding in render() for optimal performance.
+>
+> You can set up [this ESLint rule (jsx-no-bind)](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md) to help alert you to this issue.
+>
+> See Cory House articles on Medium:
+>
+> - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
+> - [Why Arrow Functions and bind in React’s Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
+
+You can read more in my notes: [Udacity React Fundamentals - 3.10 Managing State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#310-ex---managing-state)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Mental Math App](https://codesandbox.io/s/vvx41ykywy)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 70. React - Main Concepts
 ### Day 70: January 20, 2018 - Sunday
 
@@ -76,13 +115,20 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
-Today I spent the day going through React's Main Concepts documentation. This consists of 12 sections that build upon each other and each detail a different fundamental aspect of the React ecosystem.
+Today I spent the day going through [React's Main Concepts documentation](https://reactjs.org/docs/hello-world.html). This consists of 12 sections that build upon each other and that each detail a different fundamental aspect of the React ecosystem.
 
-You can read more in my notes: [Udacity React Fundamentals - 3.9 Updating State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#39-updating-state)
+This was key to my digesting so many of React's key concepts. It serves to fill in any blank spots and gives clear direction on things like:
+
+- Lifting State Up
+- Composition of components
+- How props and state differ and what should be tracked in each
+- How to tackle creating a React UI in 5 steps (Thinking in React)
+
+I love how clear the examples are and that each one links to a CodePen that you can play with.
+
+You can read more in the official [React Docs](https://reactjs.org/docs/hello-world.html)
 
 **Links:**
-
-- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -122,7 +168,6 @@ Once state is updated React knows this and will call render() to re-render the c
 You can read more in my notes: [Udacity React Fundamentals - 3.9 Updating State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#39-updating-state)
 
 **Links:**
-
 - Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -175,7 +220,6 @@ class User extends React.Component {
 You can read more in my notes: [Udacity React Fundamentals - 3.8 Add Component State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#38-add-component-state)
 
 **Links:**
-
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -257,7 +301,6 @@ const MovieCard = props => {
 You can read more in my notes: [Udacity React Fundamentals - 3.6 Functional Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#36-functional-components)
 
 **Links:**
-
 - Live Demo - [Edit on CodeSandbox - Ex - Functional Component](https://codesandbox.io/s/p3roynm48q)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -334,7 +377,6 @@ class PopularMovies extends Component {
 You can read more in my notes: [Udacity React Fundamentals - 3.5 Ex 2 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#35-ex-2---passing-data)
 
 **Links:**
-
 - Live Demo - [Edit on CodeSandbox - Exercise 2 - Passing Data](https://codesandbox.io/s/m3mny1540p)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -389,7 +431,6 @@ const movies = {
 You can read more in my notes: [Udacity React Fundamentals - 3.4 Ex 1 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#34-ex-1---passing-data)
 
 **Links:**
-
 - Live Demo - [Edit on CodeSandbox - Exercise 1 - Passing Data](https://codesandbox.io/s/42xj4xq7l4)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -414,7 +455,6 @@ Today lesson covered the following
 You can read more in my notes: [Udacity React Fundamentals - 3.2 Passing Data with Props](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#32-pass-data-with-props)
 
 **Links:**
-
 - Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/qk7olqz52j)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -439,7 +479,6 @@ Today lesson covered the following
 You can read more in my notes: [Udacity React Fundamentals - 2.3 Create React App](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#23-create-react-app)
 
 **Links:**
-
 - CodeSandbox - [Simple Composition - Contacts](https://codesandbox.io/s/p98n45z1wq)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -471,7 +510,6 @@ I used it to work on the following lesson exercises.
 You can read more in my notes: [Udacity React Fundamentals - 2.1 Rendering UI Intro](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#21-rendering-ui-intro)
 
 **Links:**
-
 - Blog Post - [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -526,7 +564,6 @@ Here we see the use of **currying** and **partial functions**. We also see the u
 You can read more in my notes: [Udacity React Fundamentals - 1.5 React is Just javaScript](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#15-react-is-just-javascript)
 
 **Links:**
-
 - Blog Post - [Currying and ES6 Arrow Functions](http://codekirei.com/posts/currying-with-arrow-functions/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -551,7 +588,6 @@ This first lesson covered to following.
 You can read more in my notes: [Udacity React Fundamentals - 1. Why React](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#1-why-react)
 
 **Links:**
-
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
