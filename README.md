@@ -67,6 +67,48 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 72. React PropTypes
+### Day 72: January 23, 2018 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf33-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf33.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson introduced [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html). PropTypes allows you to define the datatype we expect to be passed to the component that PropTypes is defined for.
+
+Here are some of the things you can define with PropTypes
+
+- array, bool, func, number object, string, symbol
+- isRequired or optional
+- arrayOf and shapeOf for arrays and objects
+
+Here's a sample of what PropTypes defined for a ListContacts component might look like.
+
+```jsx
+ListContacts.propTypes = {
+  contacts: PropTypes.arrayOf(
+    PropTypes.shape({
+      id: PropTypes.string.isRequired,
+      name: PropTypes.string.isRequired,
+      handle: PropTypes.string.isRequired,
+      avatarURL: PropTypes.string.isRequired
+    })
+  ),
+  onDeleteContact: PropTypes.func.isRequired
+};
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.11 PropTypes](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#311-proptypes)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 71. Manage Component State
 ### Day 71: January 22, 2018 - Tuesday
 
