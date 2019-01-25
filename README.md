@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 73. Controlled Components
+### Day 73: January 24, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf36-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf36.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today's lesson was all about Controlled Components which are form elements who's state is managed by React state rather than the DOM.
+
+I learned how to
+
+- assign state to an input's value
+- create a handleChange method to update state when text is entered into the input
+- hook the handleChange method up to the input through the onChange event
+
+You can read more in my notes: [Udacity React Fundamentals - 3.12 Controlled Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#312-controlled-components)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 72. React PropTypes
 ### Day 72: January 23, 2018 - Wednesday
 
