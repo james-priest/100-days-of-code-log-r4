@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 75. Controlled Comps Ex 2
+### Day 75: January 26, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf44-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf44.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This exercise had us take a controlled component and split it up to be modularized from one large components to four separate ones.
+
+This took me longer than I thought it would and was trickier than I realized because I had to map out how best to break up the components.
+
+I followed the React docs recommendation of drawing boxes around each logical component
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf46-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf46.jpg)
+
+You can read more in my notes: [Udacity React Fundamentals - 3.14 Ex 2 - Controlled Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#314-ex-2---controlled-components)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Controlled Components Ex 2](https://codesandbox.io/s/422vqv4227)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 74. Controlled Comps Ex 1
 ### Day 74: January 25, 2018 - Friday
 
@@ -86,8 +112,9 @@ class App extends Component {
     value: ""
   };
   handleChange = e => {
+    const value = e.target.value;
     this.setState({
-      value: e.target.value
+      value
     });
   };
   render() {
