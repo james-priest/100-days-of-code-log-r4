@@ -67,6 +67,58 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 74. Controlled Comps Ex 1
+### Day 74: January 25, 2018 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf43-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf43.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This exercise had us create a controlled component who's value was updated by component state.
+
+This is handled by the onChange attribute which is set to handleChange method.
+
+```jsx
+class App extends Component {
+  state = {
+    value: ""
+  };
+  handleChange = e => {
+    this.setState({
+      value: e.target.value
+    });
+  };
+  render() {
+    return (
+      <div>
+        <input
+          type="text"
+          placeholder="Say Something"
+          value={this.state.value}
+          onChange={this.handleChange}
+        />
+        {this.state.value === "" ? (
+          <p>This should mirror the text you typed into the input field.</p>
+        ) : (
+          <p>{this.state.value}</p>
+        )}
+      </div>
+    )
+  }
+}
+```
+
+You can read more in my notes: [Udacity React Fundamentals - 3.13 Ex 1 - Controlled Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#313-ex-1---controlled-components)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Controlled Components Ex 1](https://codesandbox.io/s/l57r2xzkz9)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 73. Controlled Components
 ### Day 73: January 24, 2018 - Thursday
 
