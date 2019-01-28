@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 76. React All Together Ex 1
+### Day 76: January 27, 2018 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf47-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf47.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Now I'm at the part of the course were we're give a page of requirements and asked to build the app from scratch.
+
+The first thing I did was draw out the UI elements. Then I drew squares around each separate functional area in order to create a component hierarchy.
+
+Here's what I used for the UI above.
+
+- App (blue)
+  - UserInput (red)
+  - UserList (yellow)
+    - User (green)
+    - Game Toggle (purple)
+
+This is what the final app looked like
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf48-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf48.jpg)
+
+You can read more in my notes: [Udacity React Fundamentals - 3.16 Ex 1 - All Together](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#316-ex-1---all-together)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - All Together Ex 1](https://codesandbox.io/s/1o593kmy7l)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 75. Controlled Comps Ex 2
 ### Day 75: January 26, 2018 - Saturday
 
