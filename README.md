@@ -94,13 +94,13 @@ I broke the app down along the following lines.
 You can read more in my notes: [Udacity React Fundamentals - 3.17 Ex 2 - All Together](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#317-ex-2---all-together)
 
 **Links:**
-- Live Demo - [Edit on CodeSandbox - All Together Ex 2](https://codesandbox.io/s/0q078mlyqv)
+- Live Demo - [Edit on CodeSandbox - Chat App](https://codesandbox.io/s/0q078mlyqv)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 ---
 
-## 76. React All Together Ex 1
+## 76. React User Game List
 ### Day 76: January 27, 2018 - Sunday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -128,7 +128,7 @@ This is what the final app looked like
 You can read more in my notes: [Udacity React Fundamentals - 3.16 Ex 1 - All Together](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#316-ex-1---all-together)
 
 **Links:**
-- Live Demo - [Edit on CodeSandbox - All Together Ex 1](https://codesandbox.io/s/1o593kmy7l)
+- Live Demo - [Edit on CodeSandbox - User Game List](https://codesandbox.io/s/1o593kmy7l)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -154,7 +154,7 @@ I followed the React docs recommendation of drawing boxes around each logical co
 You can read more in my notes: [Udacity React Fundamentals - 3.14 Ex 2 - Controlled Components](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#314-ex-2---controlled-components)
 
 **Links:**
-- Live Demo - [Edit on CodeSandbox - Controlled Components Ex 2](https://codesandbox.io/s/422vqv4227)
+- Live Demo - [Edit on CodeSandbox - Shopping List](https://codesandbox.io/s/422vqv4227)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -281,7 +281,7 @@ You can read more in my notes: [Udacity React Fundamentals - 3.11 PropTypes](htt
 
 ---
 
-## 71. Manage Component State
+## 71. React Mental Math App
 ### Day 71: January 22, 2018 - Tuesday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -591,7 +591,7 @@ class PopularMovies extends Component {
 You can read more in my notes: [Udacity React Fundamentals - 3.5 Ex 2 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#35-ex-2---passing-data)
 
 **Links:**
-- Live Demo - [Edit on CodeSandbox - Exercise 2 - Passing Data](https://codesandbox.io/s/m3mny1540p)
+- Live Demo - [Edit on CodeSandbox - Popular Movies](https://codesandbox.io/s/m3mny1540p)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
@@ -645,7 +645,7 @@ const movies = {
 You can read more in my notes: [Udacity React Fundamentals - 3.4 Ex 1 - Passing Data](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#34-ex-1---passing-data)
 
 **Links:**
-- Live Demo - [Edit on CodeSandbox - Exercise 1 - Passing Data](https://codesandbox.io/s/42xj4xq7l4)
+- Live Demo - [Edit on CodeSandbox - Favorite Movies](https://codesandbox.io/s/42xj4xq7l4)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
