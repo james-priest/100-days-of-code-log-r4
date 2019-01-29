@@ -67,6 +67,39 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 77. React Chat App
+### Day 77: January 28, 2018 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf49-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf49.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This is the last exercise in the State Management section of my React Fundamentals course.
+
+It started with the basics of a chat application but it was non-functioning and all the code was static and placed in a single component.
+
+I needed to split the app up into functional components and add code to make the app work. This was done through the use of props, state, & handler methods.
+
+I broke the app down along the following lines.
+
+- App (green)
+  - ChatWindow (blue)
+    - MessageHistory (yellow)
+    - MessageInput (red)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf50-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf50.jpg)
+
+You can read more in my notes: [Udacity React Fundamentals - 3.17 Ex 2 - All Together](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#317-ex-2---all-together)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - All Together Ex 2](https://codesandbox.io/s/0q078mlyqv)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 76. React All Together Ex 1
 ### Day 76: January 27, 2018 - Sunday
 
@@ -101,7 +134,7 @@ You can read more in my notes: [Udacity React Fundamentals - 3.16 Ex 1 - All Tog
 
 ---
 
-## 75. Controlled Comps Ex 2
+## 75. React Shopping List
 ### Day 75: January 26, 2018 - Saturday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -519,7 +552,7 @@ You can read more in my notes: [React Fundamentals - 11.1 Stateless Fn Explained
 
 ---
 
-## 65. React Props Exercise 2
+## 65. React Popular Movies
 ### Day 65: January 15, 2018 - Tuesday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -564,7 +597,7 @@ You can read more in my notes: [Udacity React Fundamentals - 3.5 Ex 2 - Passing 
 
 ---
 
-## 64. React Props Exercise 1
+## 64. React Favorite Movies
 ### Day 64: January 14, 2018 - Monday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
