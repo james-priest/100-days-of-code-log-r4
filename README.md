@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 78. React Lifecycle Events
+### Day 78: January 29, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf53-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf53.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Now I've moved onto Lifecycle Events. These are special methods that each component has which allows us to run custom behavior during certain times of the component's lifecycle.
+
+Some of the ones discussed were
+
+- componentDidMount()
+- componentWillUnmount
+- getDerivedStateFromProps
+
+You can read more in my notes: [Udacity React Fundamentals - 4. Lifecycle Events](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#4-lifecycle-events)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 77. React Chat App
 ### Day 77: January 28, 2018 - Monday
 
