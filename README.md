@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD022 MD032 -->
+<!-- markdownlint-disable MD022 MD032 MD033 -->
 # James Priest
 
 ## 100 Days Of Code
@@ -40,7 +40,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 ---
 
-## 1. Create New Codelog
+## 1. Create New Code Log
 ### Day 1: May 9, 2018 - Wednesday
 
 **Project:** Google Udacity Nanodegree (Mobile Web Specialist)
@@ -65,6 +65,37 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 ---
 
 -->
+---
+
+## 79. Lifecycle Event Stages
+### Day 79: January 31, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf56-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf56.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+These last two days were spent diving deeper into the various stages that each  lifecycle event occurs at.
+
+Here’s a list of the most common events in the order in which they occur.
+
+- Mounting
+  - constructor()
+  - render()
+  - componentDidMount()
+- Updating
+  - render()
+  - componentDidUpdate()
+- Unmounting
+  - componentWillUnmount()
+
+You can read more in my notes: [Udacity React Fundamentals - 4.4 Lifecycle Event Stages](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#44-lifecycle-event-stages)
+
+**Links:**
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
 ---
 
 ## 78. React Lifecycle Events
@@ -335,7 +366,7 @@ I read a couple great articles by Cory House on the subject.
 > See Cory House articles on Medium:
 >
 > - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
-> - [Why Arrow Functions and bind in React’s Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
+> - [Why Arrow Functions and bind in React's Render are Problematic](https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36)
 
 You can read more in my notes: [Udacity React Fundamentals - 3.10 Managing State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#310-ex---managing-state)
 
@@ -1371,7 +1402,7 @@ I used `.map`, `.split`, `.reverse`, & `.join`. This one was fun bc it challenge
 [![Success message](assets/images/code-log-46a-small.jpg)](assets/images/code-log-46a.jpg)
 
 **Links:**
-- [freeCodeCamp](https://www.freecodecamp.com) 
+- [freeCodeCamp](https://www.freecodecamp.com)
 - View my FCC [JavaScript Algorithms](https://github.com/james-priest/code-exercises/tree/master/javascript_exercises/fcc/js-algorithms) Solutions on GitHub
 
 ---
@@ -1734,7 +1765,7 @@ I'm still wiring up my PWA app to work with a new database backend.
 Today's work involved:
 
 - Using Postman to test the Ajax call for toggling favorite status
-- Updating the client code to fetch with new url, method, & endopoint
+- Updating the client code to fetch with new url, method, & endpoint
 
 You can read more here: [Restaurant Review App - Stage 4: Section 8. Favorite Toggle](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html#8-favorite-toggle).
 
