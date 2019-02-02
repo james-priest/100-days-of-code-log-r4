@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 80. Dynamic Render Pages
+### Day 80: February 2, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf58-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf58.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This lesson introduced the concepts behind React Router and had us attempt to mimic this functionality through state.
+
+Many things did not work including back button navigation, & proper state management.
+
+React Router seems to solve for this by providing a framework to manage navigation of React Single Page Applications.
+
+I also implemented a separate Create User page and added navigation buttons to the React Contacts App.
+
+You can read more in my notes: [Udacity React Fundamentals - 5. React Router](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#5-react-router)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 79. Lifecycle Event Stages
 ### Day 79: January 31, 2018 - Thursday
 
