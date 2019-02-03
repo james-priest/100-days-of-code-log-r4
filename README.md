@@ -67,8 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 81. Debugging React Router
+### Day 81: February 2, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](assets/images/code-log-81-small.jpg)](assets/images/code-log-81.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+So today was spent Reading React Router docs and debugging something that was right in front of me the whole time.
+
+I was using the `setState` method rather than the `state` property in my comparison. Unfortunately, the editor didn't flag this as an error because it thought I was doing an assignment rather than an equality check.
+
+You can read my notes: [Udacity React Fundamentals - 5. React Router](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#5-react-router)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 80. Dynamic Render Pages
-### Day 80: February 2, 2018 - Saturday
+### Day 80: February 1, 2018 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
