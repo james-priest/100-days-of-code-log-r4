@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 82. React Router
+### Day 82: February 3, 2018 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf59-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf59.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This lesson got me familiar with four key components of React Router.  These are:
+
+- **BrowserRouter component** - Wraps App and provides a specialized history object
+- **Route component** - Matches route on path and renders content on a match
+- **Link component** - Provides links for navigation within the app that tie to the history object
+- **Redirect component** - Redirects to a specific route
+
+ React Router is great in that it preserves & tracks nav history and allows you to use the browser's back button. It also provides rendering based on the Route defined.
+
+ It basically provides navigation for React Single Page Applications.
+
+You can read more in my notes: [Udacity React Fundamentals - 5.3 The BrowserRouter Component](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#53-the-browserrouter-component)
+
+**Links:**
+- Docs - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 81. Debugging React Router
 ### Day 81: February 2, 2018 - Saturday
 
