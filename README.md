@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 83. React Contact Form
+### Day 83: February 4, 2018 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf66-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf66.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This lesson wrapped up the Create Contact input form and completed the operation by saving the record to the database.
+
+This required the following to work properly.
+
+- Implement `form-serialize` pkg to so I could programmatically serialize the form fields
+- Pass serialized form fields to our App component's `createContact` method
+- Implement `history.push` within Route component's render prop.
+
+This last part "navigates" the app to our Contact List page.
+
+[![Chrome](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf67-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rf67.jpg)
+
+You can read more in my notes: [Udacity React Fundamentals - 5.6 Finish Contact Form](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html#56-finish-contact-form)
+
+**Links:**
+- Live Demo - [Edit on CodeSandbox - Contacts App](https://codesandbox.io/s/kjpv2kv2o)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 82. React Router
 ### Day 82: February 3, 2018 - Sunday
 
