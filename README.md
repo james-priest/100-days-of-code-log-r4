@@ -67,6 +67,36 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 84. React Bookshelf Project Specifications
+### Day 84: February 5, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+This is the first of three projects that I have to complete successfully in order to receive my Nanodegree.
+
+This project is book shelf app that tracks books
+
+- I'm reading
+- Want to read
+- Have read
+
+It should allow you to search for books, add books, and move them between shelves.
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p3-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p3.jpg)
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 2. Analysis](https://james-priest.github.io/reactnd-project-myreads/#2-analysis)
+
+**Links:**
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 83. React Contact Form
 ### Day 83: February 4, 2018 - Monday
 
