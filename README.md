@@ -67,6 +67,51 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 85. React Bookshelf Project Add Routing
+### Day 85: February 6, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+```jsx
+// App.js
+import React, { Component } from 'react';
+import { Route, Link } from 'react-router-dom';
+
+class BooksApp extends Component {
+  state = {};
+  render() {
+    return (
+      <div className="app">
+        <Route exact path="/" component={List} />
+        <Route path="/search" component={Search} />
+      </div>
+    )
+  }
+}
+```
+
+<!-- [![Chrome](assets/images/code-log-85-small.jpg)](assets/images/code-log-85.jpg) -->
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I added React Router to the app and used that rather than relay on state to conditionally display UI.
+
+This has the benefits of:
+
+- Tracking browser/page history
+- Ability to use back & forward browser buttons
+- URL bar shows URL specific to pages: '/home', '/search', 'detail', etc.
+- Ability to bookmark pages
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 3. Routing](https://james-priest.github.io/reactnd-project-myreads/#3-routing)
+
+**Links:**
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 84. React Bookshelf Project Specifications
 ### Day 84: February 5, 2018 - Tuesday
 
