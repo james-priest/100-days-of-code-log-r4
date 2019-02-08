@@ -67,8 +67,47 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 86. React Bookshelf Project Create Components
+### Day 86: February 7, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2.jpg)
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I split up the code into components. This created a component hierarchy that I could then use on different pages of my app.
+
+By the time I finished I had many more levels of nesting than I thought I would. But from what I read it's best to have small components with minimal code for reusability rather than building large & overly complicated ones.
+
+Here's the hierarchy so far.
+
+- BooksApp
+  - Route {ListBooks}
+    - Bookcase
+      - Bookshelf
+        - Book
+          - BookshelfChanger
+    - OpenSearchButton
+  - Route {SearchBooks}
+    - SearchBar
+      - CloseSearchButton
+      - SearchBooksInput
+    - SearchResults
+      - Book
+        - BookshelfChanger
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
+
+**Links:**
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 85. React Bookshelf Project Add Routing
-### Day 85: February 6, 2018 - Tuesday
+### Day 85: February 6, 2018 - Wednesday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
