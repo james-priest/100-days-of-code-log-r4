@@ -64,7 +64,54 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 ---
 
+
+---
+
+## 88. React Bookshelf Project Pass Data with Props
+### Day 88: February 9, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p5-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p5.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I split up the code into components.
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 -->
+
+---
+
+## 87. React Bookshelf Project Pass Data with Props
+### Day 87: February 8, 2018 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p4-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p4.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I pulled down the data that my app will so I could see how best to work with it. I used Postman for this.
+
+I was then able to look at the structure and adapt the data for my app to use as props.
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 4.2 Create Static Data](https://james-priest.github.io/reactnd-project-myreads/#42-create-static-data)
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
 ---
 
 ## 86. React Bookshelf Project Create Components
@@ -72,7 +119,8 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2.jpg)
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p2.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@3-split-components](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/3-split-components/) on CodeSandbox
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
@@ -100,6 +148,7 @@ Here's the hierarchy so far.
 You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
 
 **Links:**
+- Live Demo - [reactnd-project-myreads@3-split-components](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/3-split-components/) on CodeSandbox
 - Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -129,6 +178,8 @@ class BooksApp extends Component {
 }
 ```
 
+**Live Demo:** [reactnd-project-myreads@2-routing](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/2-routing/) on CodeSandbox
+
 <!-- [![Chrome](assets/images/code-log-85-small.jpg)](assets/images/code-log-85.jpg) -->
 
 **Progress:** Continued my Udacity React Nanodegree Program.
@@ -145,6 +196,7 @@ This has the benefits of:
 You can read more in my notes: [[ReactND Project 1 - My Reads: 3. Routing](https://james-priest.github.io/reactnd-project-myreads/#3-routing)
 
 **Links:**
+- Live Demo - [reactnd-project-myreads@2-routing](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/2-routing/) on CodeSandbox
 - Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -156,7 +208,8 @@ You can read more in my notes: [[ReactND Project 1 - My Reads: 3. Routing](https
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
 
-[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1.jpg)
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p1.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@1-starter-files](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/1-starter-files/) on CodeSandbox
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
@@ -175,6 +228,7 @@ It should allow you to search for books, add books, and move them between shelve
 You can read more in my notes: [[ReactND Project 1 - My Reads: 2. Analysis](https://james-priest.github.io/reactnd-project-myreads/#2-analysis)
 
 **Links:**
+- Live Demo - [reactnd-project-myreads@1-starter-files](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/1-starter-files/) on CodeSandbox
 - Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
