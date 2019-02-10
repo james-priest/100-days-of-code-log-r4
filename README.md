@@ -90,7 +90,7 @@ You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Comp
 
 ---
 
-## 87. React Bookshelf Project Pass Data with Props
+## 87. React Bookshelf Project HTTP Ajax Request
 ### Day 87: February 8, 2018 - Friday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
