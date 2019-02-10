@@ -100,9 +100,9 @@ You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Comp
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
-Today I pulled down the data that my app will so I could see how best to work with it. I used Postman for this.
+Today I pulled down the data that my app will use so I could see how best to work with it. I used Postman for this.
 
-I was then able to look at the structure and adapt the data for my app to use as props.
+I was then able to look at the structure and adapt the data to be passed as props to various child components.
 
 You can read more in my notes: [[ReactND Project 1 - My Reads: 4.2 Create Static Data](https://james-priest.github.io/reactnd-project-myreads/#42-create-static-data)
 
