@@ -64,7 +64,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 ---
 
-
+-->
 ---
 
 ## 88. React Bookshelf Project Pass Data with Props
@@ -77,16 +77,23 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 **Progress:** Continued my Udacity React Nanodegree Program.
 
-Today I split up the code into components.
+Now that the data is available inside the App, I started figuring out what to pass as props to each nested child component.
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
+Here are a few steps I took.
+
+- I started with a books object containing all books for the bookcase
+- Passed that as props to Bookcase component
+- Filtered that to get the books by shelf
+- Passed the filtered books to each Bookshelf component
+- Looped thru filtered book list to render each Book component
+
+You can read more in my notes: [[ReactND Project 1 - My Reads: 4.3 Introduce Props](https://james-priest.github.io/reactnd-project-myreads/#43-introduce-props)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
 - Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
 - Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
 - Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
--->
 
 ---
 
