@@ -67,6 +67,32 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 89. React Bookshelf Project Add Book State
+### Day 89: February 10, 2018 - Sunday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p7-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p7.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@5-add-books-state](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/5-add-books-state/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I began adding interactivity to my React app. This started with introducing state to track my list of books. Here are some of the things added to the code
+
+- Create handler method to manage updating book shelf a book belongs to
+- Passed method as props to child components
+- Used higher order functions to mutate data before using setState to update UI
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 5.1 Move Book to Shelf](https://james-priest.github.io/reactnd-project-myreads/#51-move-book-to-shelf)
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@5-add-books-state](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/5-add-books-state/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 88. React Bookshelf Project Pass Data with Props
 ### Day 88: February 9, 2018 - Saturday
 
@@ -87,7 +113,7 @@ Here are a few steps I took.
 - Passed the filtered books to each Bookshelf component
 - Looped thru filtered book list to render each Book component
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 4.3 Introduce Props](https://james-priest.github.io/reactnd-project-myreads/#43-introduce-props)
+You can read more in my notes: [ReactND Project 1 - My Reads: 4.3 Introduce Props](https://james-priest.github.io/reactnd-project-myreads/#43-introduce-props)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
@@ -111,7 +137,7 @@ Today I pulled down the data that my app will use so I could see how best to wor
 
 I was then able to look at the structure and adapt the data to be passed as props to various child components.
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 4.2 Create Static Data](https://james-priest.github.io/reactnd-project-myreads/#42-create-static-data)
+You can read more in my notes: [ReactND Project 1 - My Reads: 4.2 Create Static Data](https://james-priest.github.io/reactnd-project-myreads/#42-create-static-data)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@4-add-props](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/4-add-props/) on CodeSandbox
@@ -152,7 +178,7 @@ Here's the hierarchy so far.
       - Book
         - BookshelfChanger
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
+You can read more in my notes: [ReactND Project 1 - My Reads: 4.1 Split UI Components](https://james-priest.github.io/reactnd-project-myreads/#41-split-ui-components)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@3-split-components](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/3-split-components/) on CodeSandbox
@@ -200,7 +226,7 @@ This has the benefits of:
 - URL bar shows URL specific to pages: '/home', '/search', 'detail', etc.
 - Ability to bookmark pages
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 3. Routing](https://james-priest.github.io/reactnd-project-myreads/#3-routing)
+You can read more in my notes: [ReactND Project 1 - My Reads: 3. Routing](https://james-priest.github.io/reactnd-project-myreads/#3-routing)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@2-routing](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/2-routing/) on CodeSandbox
@@ -232,7 +258,7 @@ It should allow you to search for books, add books, and move them between shelve
 
 [![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p3-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p3.jpg)
 
-You can read more in my notes: [[ReactND Project 1 - My Reads: 2. Analysis](https://james-priest.github.io/reactnd-project-myreads/#2-analysis)
+You can read more in my notes: [ReactND Project 1 - My Reads: 2. Analysis](https://james-priest.github.io/reactnd-project-myreads/#2-analysis)
 
 **Links:**
 - Live Demo - [reactnd-project-myreads@1-starter-files](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/1-starter-files/) on CodeSandbox
