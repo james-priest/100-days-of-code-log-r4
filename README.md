@@ -67,6 +67,40 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 90. React Bookshelf Project Ajax for Main Page
+### Day 90: February 11, 2018 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p8-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p8.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@6-add-books-ajax](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/6-add-books-ajax/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today was about making Ajax call in the appropriate places and then processing those requests.
+
+- Used `componentDidMount()` for fetch requests
+- Used Promise-based syntax for processing requests
+- Used `setState()` to update app's state
+
+```jsx
+  componentDidMount = () => {
+    BooksAPI.getAll().then(books => {
+      this.setState({ books: books });
+    });
+  };
+```
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 5.2 Ajax to Get All Books](https://james-priest.github.io/reactnd-project-myreads/#52-ajax-to-get-all-books).
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@6-add-books-ajax](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/6-add-books-ajax/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 89. React Bookshelf Project Add Book State
 ### Day 89: February 10, 2018 - Sunday
 
