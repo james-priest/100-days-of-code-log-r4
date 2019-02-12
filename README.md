@@ -67,6 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 91. React Bookshelf Project Dynamic Search
+### Day 91: February 12, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p9-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p9.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@7-add-search-ajax](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/7-add-search-ajax/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today I focused building a dynamic search. As the user types the search page dynamically displays the results.
+
+This involved:
+
+- Building a controlled component
+- Invoking Ajax request on input change
+- Implementing debounce to limit number of requests
+- Handling edge cases where data is missing
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 6.1 Build Search Input](https://james-priest.github.io/reactnd-project-myreads/#6-search-page).
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@7-add-search-ajax](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/7-add-search-ajax/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 90. React Bookshelf Project Ajax for Main Page
 ### Day 90: February 11, 2018 - Monday
 
