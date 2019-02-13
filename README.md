@@ -67,6 +67,30 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 93. React Bookshelf Project Submit Project
+### Day 93: February 14, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p12-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p12.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@9-separate-components](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/9-separate-components/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+The last step of this project was to separate each of the components into their own file. This allows for easy reuse and composition.
+
+I submitted this project for review and now I wait to hear back.
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 8. Prep for Submission](https://james-priest.github.io/reactnd-project-myreads/#8-prep-for-submission).
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@9-separate-components](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/9-separate-components/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 92. React Bookshelf Project Sync Books & Search
 ### Day 92: February 13, 2018 - Wednesday
 
