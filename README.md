@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 92. React Bookshelf Project Sync Books & Search
+### Day 92: February 13, 2018 - Wednesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p10-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p10.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@8-sync-books-and-search](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/8-sync-books-and-search/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+Today was about making sure any changes that happened on the search page was carried over to the main page.
+
+I had to refactor a few things but was able to have changes reflected in both places.
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p11-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p11.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@8-sync-books-and-search](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/8-sync-books-and-search/) on CodeSandbox
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 7. Sync Books & Search](https://james-priest.github.io/reactnd-project-myreads/#7-sync-books--search).
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@8-sync-books-and-search](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/8-sync-books-and-search/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 91. React Bookshelf Project Dynamic Search
 ### Day 91: February 12, 2018 - Tuesday
 
