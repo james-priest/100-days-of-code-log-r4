@@ -67,6 +67,33 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 94. React Bookshelf Project Code Review & Fix
+### Day 94: February 16, 2018 - Saturday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[![Chrome](https://james-priest.github.io/reactnd-project-myreads/assets/images/p14-small.jpg)](https://james-priest.github.io/reactnd-project-myreads/assets/images/p14.jpg)<br>
+**Live Demo:** [reactnd-project-myreads@10-code-review-enhancements](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/10-code-review-enhancements/) on CodeSandbox
+
+**Progress:** Continued my Udacity React Nanodegree Program.
+
+I got my project feedback and was given a handful of great suggestions in the code review. These include:
+
+- Add error handling for Ajax  calls
+- Don't break code into too many components
+- Careful of not mutating state accidentally through shallow copy of objects
+- Consider implementing Jest for test coverage in order to take it up a notch
+
+You can read more in my notes: [ReactND Project 1 - My Reads: 9. Feedback & Response](https://james-priest.github.io/reactnd-project-myreads/#9-feedback--response).
+
+**Links:**
+- Live Demo - [reactnd-project-myreads@10-code-review-enhancements](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/10-code-review-enhancements/) on CodeSandbox
+- Code notes - [ReactND Project 1 - My Reads](https://james-priest.github.io/reactnd-project-myreads/)
+- Course notes - [Udacity React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+
+---
+
 ## 93. React Bookshelf Project Submit Project
 ### Day 93: February 14, 2018 - Thursday
 
