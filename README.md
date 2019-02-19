@@ -67,6 +67,41 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 95. Redux - Course Intro
+### Day 95: February 18, 2018 - Monday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019) and [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr2.jpg)
+
+**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+
+Looks like this course is going to be split up into the following lessons:
+
+- Lesson 1 - Managing State
+- Lesson 2 - UI + Redux
+- Lesson 3 - Redux Middleware
+- Lesson 4 - Redux with React
+- Lesson 5 - Asynchronous Redux
+- Lesson 6 - react-redux
+- Lesson 7 - Real World Redux
+
+You can read more in my notes: [Udacity React & Redux - 1. Managing State Intro](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#1-managing-state)
+
+I also started [Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) and am learning the basics of the language such as: 
+
+- Arithmetic operators
+- Variables
+- Assignments
+
+**Links:**
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+- Link to [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+---
+
 ## 94. React Bookshelf Project Code Review & Fix
 ### Day 94: February 16, 2018 - Saturday
 
