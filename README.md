@@ -67,11 +67,35 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
+## 96. Redux - The Store
+### Day 96: February 19, 2018 - Tuesday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019) and [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr6-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr6.jpg)
+
+**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+
+Learned some concepts behind what The Store is.
+
+- State tree
+- Getting the state
+- Listening for changes
+- Updating the state
+
+You can read more in my notes: [Udacity React & Redux - 2. The Store](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#12-the-store)
+
+**Links:**
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+- Link to [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+---
+
 ## 95. Redux - Course Intro
 ### Day 95: February 18, 2018 - Monday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019) and [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-
 
 [![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr2-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr2.jpg)
 
@@ -89,7 +113,7 @@ Looks like this course is going to be split up into the following lessons:
 
 You can read more in my notes: [Udacity React & Redux - 1. Managing State Intro](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#1-managing-state)
 
-I also started [Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) and am learning the basics of the language such as: 
+I also started [Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) and am learning the basics of the language such as:
 
 - Arithmetic operators
 - Variables
