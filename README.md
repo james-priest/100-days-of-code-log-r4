@@ -66,6 +66,56 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 -->
 ---
+## 98. Redux - Updating State
+### Day 98: February 21, 2018 - Thursday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019) and [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr21-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr21.jpg)
+
+**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+
+This was a long lesson that went into some depth. It covered key concepts related to Redux such as:
+
+- Pure functions
+- What are the elements of a Pure function
+- Using Pure functions as Reducers
+- Use of Object.assign() to avoid mutating state
+
+Here's some sample code that takes state and an action. It decrements the count of ice cream flavor from state if the action is DELETE_FLAVOR and returns the new state.
+
+```js
+function appReducer(state  = [], action) {
+  if (action.type === 'DELETE_FLAVOR') {
+    return Object.assign(
+      [],
+      state,
+      state.map(iceCream => {
+        if (iceCream.flavor === action.flavor) {
+          return Object.assign({}, iceCream, {
+            count: iceCream.count - 1
+          });
+        }
+        return iceCream;
+      })
+    );
+  }
+  return state;
+}
+```
+
+Here's an image that illustrates this reduction process.
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr18-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr18.jpg)
+
+You can read more in my notes: [Udacity React & Redux - 1.4 Updating State](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#14-updating-state)
+
+**Links:**
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+- Link to [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+---
 
 ## 97. Redux - Create a Store
 ### Day 97: February 20, 2018 - Wednesday
@@ -107,7 +157,7 @@ function createStore() {
 }
 ```
 
-You can read more in my notes: [Udacity React & Redux - 1.3 Create Store: Getting & Listening](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#13-create-store-getting--listening)
+You can read more in my notes: [Udacity React & Redux - 1.3 Getting State & Listening for Changes](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#13-getting-state--listening-for-changes)
 
 **Links:**
 - Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
