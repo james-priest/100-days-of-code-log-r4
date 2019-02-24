@@ -66,6 +66,81 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 -->
 ---
+
+## 99. Redux - Dispatching Actions
+### Day 99: February 22, 2018 - Friday
+
+**Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019) and [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+[![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr23-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr23.jpg)
+
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
+
+These lessons focused on dispatching actions on the the store. It also covered the following:
+
+- Dispatching various actions
+- Managing multiple states (todos and goals)
+- Multiple reducers
+- Use of constants
+- Action creators
+
+Here are a two reducers combined into a root reducer which is passed to the store.
+
+```js
+const ADD_TODO = 'ADD_TODO';
+const REMOVE_TODO = 'REMOVE_TODO';
+const TOGGLE_TODO = 'TOGGLE_TODO';
+const ADD_GOAL = 'ADD_GOAL';
+const REMOVE_GOAL = 'REMOVE_GOAL';
+
+function todos(state = [], action) {
+  switch (action.type) {
+    case ADD_TODO:
+      return state.concat([action.todo]);
+    case REMOVE_TODO:
+      return state.filter(todo => todo.id !== action.id);
+    case TOGGLE_TODO:
+      return state.map(todo =>
+        todo.id !== action.id
+          ? todo
+          : Object.assign({}, todo, { complete: !todo.complete })
+      );
+    default:
+      return state;
+  }
+}
+
+function goals(state = [], action) {
+  switch (action.type) {
+    case ADD_GOAL:
+      return state.concat([action.goal]);
+    case REMOVE_GOAL:
+      return state.filter(goal => goal.id !== action.id);
+    default:
+      return state;
+  }
+}
+
+function app(state = {}, action) {
+  return {
+    todos: todos(state.todos, action),
+    goals: goals(state.goals, action)
+  };
+}
+
+// Create the store passing the root reducer.
+const store = createStore(app);
+```
+
+You can read more in my notes: [Udacity React & Redux - 1.5 Dispatching an Action](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#15-dispatching-an-action)
+
+**Links:**
+- Course notes - [Udacity React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html#react--redux)
+- Link to [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
+- Link to [Udacity Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+---
+
 ## 98. Redux - Updating State
 ### Day 98: February 21, 2018 - Thursday
 
@@ -73,7 +148,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 
 [![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr21-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr21.jpg)
 
-**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
 This was a long lesson that went into some depth. It covered key concepts related to Redux such as:
 
@@ -124,7 +199,7 @@ You can read more in my notes: [Udacity React & Redux - 1.4 Updating State](http
 
 [![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr11-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr11.jpg)
 
-**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
 Today's lesson covered getting state from the store and subscribing to state change events.
 
@@ -173,7 +248,7 @@ You can read more in my notes: [Udacity React & Redux - 1.3 Getting State & List
 
 [![Redux](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr6-small.jpg)](https://james-priest.github.io/udacity-nanodegree-react/assets/images/rr6.jpg)
 
-**Progress:** Started Udacity Redux lesson for my React Nanodegree Program.
+**Progress:** Continued Udacity Redux lesson for my React Nanodegree Program.
 
 Learned some concepts behind what The Store is.
 
