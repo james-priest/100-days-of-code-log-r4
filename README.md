@@ -67,7 +67,7 @@ Read more: [Notes - Responsive Web Design Lesson 5: Optimizations](https://james
 -->
 ---
 
-## 100. Redux - Add UI
+## 100. Redux - UI + State
 ### Day 100: February 24, 2018 - Sunday
 
 **Project:** [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)
